@@ -9,8 +9,25 @@ permissions:
   id-token: write
 
 jobs:
-  publish:
-    name: Build & Publish
+  test:
+    name: Test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+      - run: npm run lint
+      - run: npm run typecheck
+      - run: npm test
+
+  publish-js:
+    name: Publish to npm
+    needs: test
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -23,9 +40,12 @@ jobs:
 
       - run: npm ci
 
-      - run: npm run lint
-      - run: npm run typecheck
-      - run: npm test
+      - name: Set package version from tag
+        run: |
+          VERSION="${GITHUB_REF_NAME#v}"
+          echo "Publishing version: $VERSION"
+          npm version "$VERSION" --no-git-tag-version
+
       - run: npm run build:ts
 
       - name: Publish to npm
