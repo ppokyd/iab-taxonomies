@@ -1,5 +1,5 @@
 {
-  "name": "@ppokyd/iab-categories",
+  "name": "@ppokyd/iab-taxonomies",
   "version": "1.0.0",
   "description": "IAB Tech Lab Taxonomies (Content, Ad Product, Audience) with OpenRTB cattax support",
   "type": "module",
@@ -27,6 +27,10 @@
     "dist",
     "data"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ppokyd/iab-taxonomies"
+  },
   "license": "Apache-2.0",
   "devDependencies": {
     "@eslint/js": "^10.0.1",
