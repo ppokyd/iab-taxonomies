@@ -178,6 +178,24 @@ export function resolveCategories(catIds: string[], cattax: CattaxValue): Taxono
  * Translate category IDs from one taxonomy version to another.
  * Returns the target category IDs for each source ID that has a mapping.
  *
+ * Only certain source→target pairs have IAB-provided mappings.
+ * Use {@link listMappings} to discover available pairs at runtime.
+ *
+ * **Available mappings:**
+ * - `ad_product 2.0` → `ad_product 1.1`
+ * - `ad_product 2.0` → `content 1.0`
+ * - `ad_product 2.0` → `content 2.1`
+ * - `content 1.0` → `ad_product 2.0`
+ * - `content 1.0` → `content 2.0`
+ * - `content 2.0` → `content 2.1`
+ * - `content 2.1` → `ad_product 2.0`
+ * - `content 3.1` → `content 3.1` (CTV genre mapping)
+ * - `content 3.1` → `content 3.1` (Podcast genre mapping)
+ *
+ * Note: `audience` taxonomies have no mappings available.
+ *
+ * @throws if no mapping exists for the given source→target pair
+ *
  * @example
  * ```ts
  * const translated = translateCategories(
@@ -197,7 +215,14 @@ export function translateCategories(
 ): Map<string, string[]> {
   const mappings = getMapping(sourceType, sourceVersion, targetType, targetVersion);
   if (!mappings) {
-    throw new Error(`No mapping available from ${sourceType}:${sourceVersion} to ${targetType}:${targetVersion}`);
+    const available = MAPPING_REGISTRY.map(
+      (m) => `  ${m.sourceType}:${m.sourceVersion} → ${m.targetType}:${m.targetVersion}`,
+    ).join('\n');
+    throw new Error(
+      `No mapping available from ${sourceType}:${sourceVersion} to ${targetType}:${targetVersion}.\n` +
+        `Available mappings:\n${available}\n` +
+        `Use listMappings() to discover available pairs at runtime.`,
+    );
   }
 
   const sourceSet = new Set(sourceIds);
@@ -232,7 +257,19 @@ export function listTaxonomies(): Array<{
 }
 
 /**
- * List all available mappings.
+ * List all available translation mappings between taxonomy versions.
+ *
+ * Use this to discover which source→target pairs are supported by
+ * {@link translateCategories} and {@link getMapping}.
+ *
+ * @example
+ * ```ts
+ * const mappings = listMappings();
+ * // [{ id: 'content:1.0->content:2.0', sourceType: 'content', sourceVersion: '1.0', ... }, ...]
+ *
+ * // Find all mappings from a specific source:
+ * const fromContent1 = mappings.filter(m => m.sourceType === 'content' && m.sourceVersion === '1.0');
+ * ```
  */
 export function listMappings(): Array<{
   id: string;

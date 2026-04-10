@@ -20,7 +20,8 @@
     "build:data": "tsx scripts/build-json.ts",
     "build:ts": "tsc",
     "build": "npm run build:data && npm run build:ts",
-    "test": "tsx scripts/verify.ts"
+    "test": "tsx scripts/verify.ts",
+    "dev": "tsx scripts/dev-server.ts"
   },
   "files": [
     "dist",

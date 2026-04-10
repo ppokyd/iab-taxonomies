@@ -364,12 +364,15 @@
       .result-item:hover {
         background: var(--surface-alt);
       }
+      .result-item > .type-dot {
+        margin-top: 0.4rem;
+      }
       .result-id {
         font-family: var(--mono);
         font-size: 0.78rem;
         color: var(--primary);
         min-width: 70px;
-        padding-top: 0.1rem;
+        padding-top: 0.25rem;
       }
       .result-info {
         flex: 1;
@@ -511,6 +514,49 @@
       .mb-1 {
         margin-bottom: 1.25rem;
       }
+
+      /* ── Info Banner ─────────────────────────────── */
+      .info-banner {
+        background: var(--primary-light);
+        border: 1px solid rgba(59, 91, 219, 0.2);
+        border-radius: var(--radius);
+        padding: 0.75rem 1rem;
+        margin-bottom: 1.25rem;
+        font-size: 0.82rem;
+        color: var(--text-secondary);
+        line-height: 1.6;
+      }
+      .info-banner strong {
+        color: var(--text);
+      }
+      .info-banner .mapping-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.4rem;
+        margin-top: 0.5rem;
+      }
+      .info-banner .mapping-tag {
+        font-size: 0.72rem;
+        font-family: var(--mono);
+        background: var(--surface);
+        border: 1px solid var(--border);
+        padding: 0.15rem 0.5rem;
+        border-radius: 4px;
+        white-space: nowrap;
+        cursor: pointer;
+        transition: all 0.15s;
+      }
+      .info-banner .mapping-tag:hover {
+        border-color: var(--primary);
+        background: var(--primary-light);
+        color: var(--primary);
+      }
+      .info-banner .no-mapping-note {
+        margin-top: 0.4rem;
+        font-size: 0.78rem;
+        color: var(--text-muted);
+        font-style: italic;
+      }
     </style>
   </head>
 
@@ -524,8 +570,8 @@
         <a href="https://github.com/InteractiveAdvertisingBureau/Taxonomies" target="_blank" rel="noopener"
           >IAB Source</a
         >
-        <a href="https://www.npmjs.com/package/@anthropic/iab-taxonomies" target="_blank" rel="noopener">npm</a>
-        <a href="https://github.com/anthropics/iab-categories" target="_blank" rel="noopener">GitHub</a>
+        <a href="https://www.npmjs.com/package/@ppokyd/iab-categories" target="_blank" rel="noopener">npm</a>
+        <a href="https://github.com/ppokyd/iab-categories" target="_blank" rel="noopener">GitHub</a>
       </div>
     </header>
 
@@ -606,6 +652,7 @@
 
       <!-- ── Translate Panel ──────────────────────── -->
       <section id="panel-translate" class="panel">
+        <div class="info-banner" id="translate-info"></div>
         <div class="card mb-1">
           <div class="card-body">
             <div class="input-row">
@@ -891,13 +938,40 @@
         const srcSelect = document.getElementById('translate-source');
         const tgtSelect = document.getElementById('translate-target');
 
-        const taxonomyKeys = reg.taxonomies.map((t) => `${t.type}:${t.version}`);
         const mappingPairs = reg.mappings.map((m) => ({
           src: `${m.sourceType}:${m.sourceVersion}`,
           tgt: `${m.targetType}:${m.targetVersion}`,
           dataFile: m.dataFile,
           id: m.id,
         }));
+
+        // Build the info banner showing available mapping directions
+        const infoBanner = document.getElementById('translate-info');
+        const allTypes = new Set(reg.taxonomies.map((t) => t.type));
+        const typesWithMappings = new Set([
+          ...reg.mappings.map((m) => m.sourceType),
+          ...reg.mappings.map((m) => m.targetType),
+        ]);
+        const typesWithout = [...allTypes].filter((t) => !typesWithMappings.has(t));
+
+        const tags = reg.mappings
+          .map((m) => {
+            const src = `${formatType(m.sourceType)} ${m.sourceVersion}`;
+            const tgt = `${formatType(m.targetType)} ${m.targetVersion}`;
+            const srcKey = `${m.sourceType}:${m.sourceVersion}`;
+            return `<span class="mapping-tag" data-src="${esc(srcKey)}" data-file="${esc(m.dataFile)}">${esc(src)} → ${esc(tgt)}</span>`;
+          })
+          .join('');
+
+        const noMappingNote = typesWithout.length
+          ? `<div class="no-mapping-note">No mappings available for: ${typesWithout.map(formatType).join(', ')}.</div>`
+          : '';
+
+        infoBanner.innerHTML =
+          `<strong>Translation maps category IDs between taxonomy versions</strong> using IAB-provided mapping files. ` +
+          `Click a pair below to preselect it:` +
+          `<div class="mapping-list">${tags}</div>` +
+          noMappingNote;
 
         const sources = [...new Set(mappingPairs.map((p) => p.src))];
         sources.forEach((s) => {
@@ -923,6 +997,17 @@
 
         srcSelect.addEventListener('change', updateTargets);
         updateTargets();
+
+        infoBanner.addEventListener('click', (e) => {
+          const tag = e.target.closest('.mapping-tag');
+          if (!tag) return;
+          const srcKey = tag.dataset.src;
+          const dataFile = tag.dataset.file;
+          srcSelect.value = srcKey;
+          updateTargets();
+          tgtSelect.value = dataFile;
+          document.getElementById('translate-ids').focus();
+        });
       }
 
       async function doTranslate() {
