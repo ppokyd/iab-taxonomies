@@ -1,5 +1,5 @@
 {
-  "name": "@ppokyd/iab-taxonomies",
+  "name": "@ppokyd/iab-categories",
   "version": "1.0.0",
   "description": "IAB Tech Lab Taxonomies (Content, Ad Product, Audience) with OpenRTB cattax support",
   "type": "module",
