@@ -3,8 +3,30 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>IAB Taxonomies — Browser</title>
+    <title>IAB Taxonomies — Explorer</title>
     <style>
+      :root {
+        --bg: #f5f6f8;
+        --surface: #ffffff;
+        --surface-alt: #f0f1f4;
+        --border: #e2e4e9;
+        --border-light: #edeef2;
+        --text: #1a1d26;
+        --text-secondary: #6b7280;
+        --text-muted: #9ca3af;
+        --primary: #3b5bdb;
+        --primary-light: #eef2ff;
+        --content-color: #2563eb;
+        --adproduct-color: #7c3aed;
+        --audience-color: #059669;
+        --radius: 8px;
+        --radius-lg: 12px;
+        --shadow: 0 1px 3px rgba(0, 0, 0, 0.06), 0 1px 2px rgba(0, 0, 0, 0.04);
+        --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.08);
+        --font: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        --mono: 'SF Mono', 'Fira Code', 'Fira Mono', Menlo, monospace;
+      }
+
       *,
       *::before,
       *::after {
@@ -14,96 +36,1045 @@
       }
 
       body {
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-        background: #0f1117;
-        color: #e1e4e8;
-        min-height: 100vh;
+        font-family: var(--font);
+        background: var(--bg);
+        color: var(--text);
+        line-height: 1.5;
+        -webkit-font-smoothing: antialiased;
+      }
+
+      /* ── Header ─────────────────────────────────── */
+      header {
+        background: var(--surface);
+        border-bottom: 1px solid var(--border);
+        padding: 1.25rem 2rem;
         display: flex;
         align-items: center;
-        justify-content: center;
+        justify-content: space-between;
+        position: sticky;
+        top: 0;
+        z-index: 100;
       }
-
-      .container {
-        text-align: center;
-        max-width: 640px;
-        padding: 2rem;
+      .logo {
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
       }
-
-      h1 {
-        font-size: 2.25rem;
+      .logo h1 {
+        font-size: 1.15rem;
         font-weight: 700;
-        background: linear-gradient(135deg, #58a6ff, #bc8cff);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        margin-bottom: 1rem;
+        letter-spacing: -0.02em;
+      }
+      .logo span {
+        font-size: 0.75rem;
+        color: var(--text-muted);
+        background: var(--surface-alt);
+        padding: 0.15rem 0.5rem;
+        border-radius: 4px;
+        font-weight: 500;
+      }
+      .header-links {
+        display: flex;
+        gap: 1rem;
+        align-items: center;
+      }
+      .header-links a {
+        color: var(--text-secondary);
+        text-decoration: none;
+        font-size: 0.85rem;
+        font-weight: 500;
+        transition: color 0.15s;
+      }
+      .header-links a:hover {
+        color: var(--primary);
       }
 
-      p {
-        color: #8b949e;
-        font-size: 1.1rem;
-        line-height: 1.6;
-        margin-bottom: 1.5rem;
+      /* ── Tabs ───────────────────────────────────── */
+      .tabs {
+        display: flex;
+        gap: 0;
+        background: var(--surface);
+        border-bottom: 1px solid var(--border);
+        padding: 0 2rem;
+      }
+      .tab {
+        padding: 0.75rem 1.25rem;
+        font-size: 0.85rem;
+        font-weight: 500;
+        color: var(--text-secondary);
+        cursor: pointer;
+        border: none;
+        background: none;
+        border-bottom: 2px solid transparent;
+        transition: all 0.15s;
+        white-space: nowrap;
+      }
+      .tab:hover {
+        color: var(--text);
+      }
+      .tab.active {
+        color: var(--primary);
+        border-bottom-color: var(--primary);
       }
 
-      .badge-row {
+      /* ── Main Layout ────────────────────────────── */
+      main {
+        max-width: 1280px;
+        margin: 0 auto;
+        padding: 1.5rem 2rem 3rem;
+      }
+      .panel {
+        display: none;
+      }
+      .panel.active {
+        display: block;
+      }
+
+      /* ── Cards ──────────────────────────────────── */
+      .card {
+        background: var(--surface);
+        border: 1px solid var(--border);
+        border-radius: var(--radius-lg);
+        box-shadow: var(--shadow);
+      }
+      .card-header {
+        padding: 1rem 1.25rem;
+        border-bottom: 1px solid var(--border-light);
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 1rem;
+      }
+      .card-header h3 {
+        font-size: 0.9rem;
+        font-weight: 600;
+      }
+      .card-body {
+        padding: 1.25rem;
+      }
+
+      /* ── Form Controls ─────────────────────────── */
+      select,
+      input[type='text'] {
+        font-family: var(--font);
+        font-size: 0.85rem;
+        padding: 0.5rem 0.75rem;
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        background: var(--surface);
+        color: var(--text);
+        outline: none;
+        transition: border-color 0.15s;
+      }
+      select:focus,
+      input[type='text']:focus {
+        border-color: var(--primary);
+        box-shadow: 0 0 0 3px rgba(59, 91, 219, 0.1);
+      }
+      input[type='text'] {
+        width: 100%;
+      }
+      .input-row {
+        display: flex;
+        gap: 0.75rem;
+        align-items: center;
+        flex-wrap: wrap;
+      }
+      label {
+        font-size: 0.8rem;
+        font-weight: 500;
+        color: var(--text-secondary);
+      }
+      .field {
+        display: flex;
+        flex-direction: column;
+        gap: 0.35rem;
+      }
+      .field.grow {
+        flex: 1;
+        min-width: 200px;
+      }
+      button.btn {
+        font-family: var(--font);
+        font-size: 0.85rem;
+        font-weight: 500;
+        padding: 0.5rem 1rem;
+        border-radius: var(--radius);
+        border: 1px solid var(--primary);
+        background: var(--primary);
+        color: #fff;
+        cursor: pointer;
+        transition: all 0.15s;
+        white-space: nowrap;
+      }
+      button.btn:hover {
+        opacity: 0.9;
+      }
+      button.btn-outline {
+        background: transparent;
+        color: var(--primary);
+      }
+      button.btn-outline:hover {
+        background: var(--primary-light);
+      }
+
+      /* ── Taxonomy Selector ─────────────────────── */
+      .taxonomy-selector {
         display: flex;
         gap: 0.5rem;
-        justify-content: center;
         flex-wrap: wrap;
-        margin-bottom: 2rem;
+        margin-bottom: 1.25rem;
       }
-
-      .badge {
-        display: inline-block;
-        padding: 0.25rem 0.75rem;
-        border-radius: 999px;
+      .tax-chip {
+        padding: 0.4rem 0.85rem;
         font-size: 0.8rem;
-        font-weight: 600;
-        border: 1px solid #30363d;
-        background: #161b22;
+        font-weight: 500;
+        border-radius: 999px;
+        border: 1px solid var(--border);
+        background: var(--surface);
+        cursor: pointer;
+        transition: all 0.15s;
+        display: flex;
+        align-items: center;
+        gap: 0.4rem;
+      }
+      .tax-chip:hover {
+        border-color: #aaa;
+      }
+      .tax-chip.selected {
+        border-color: var(--primary);
+        background: var(--primary-light);
+        color: var(--primary);
+      }
+      .tax-chip .cattax-badge {
+        font-size: 0.65rem;
+        font-weight: 700;
+        background: var(--surface-alt);
+        padding: 0.1rem 0.35rem;
+        border-radius: 3px;
+        font-family: var(--mono);
+      }
+      .tax-chip.selected .cattax-badge {
+        background: rgba(59, 91, 219, 0.15);
       }
 
-      .badge.content {
-        color: #58a6ff;
-        border-color: #1f6feb;
+      /* ── Type badges ────────────────────────────── */
+      .type-dot {
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        display: inline-block;
+        flex-shrink: 0;
       }
-      .badge.adproduct {
-        color: #bc8cff;
-        border-color: #8b5cf6;
+      .type-dot.content {
+        background: var(--content-color);
       }
-      .badge.audience {
-        color: #3fb950;
-        border-color: #238636;
+      .type-dot.ad_product {
+        background: var(--adproduct-color);
       }
-
-      .status {
-        font-size: 0.9rem;
-        color: #484f58;
-        border-top: 1px solid #21262d;
-        padding-top: 1.5rem;
+      .type-dot.audience {
+        background: var(--audience-color);
       }
 
-      .status code {
-        background: #161b22;
-        padding: 0.15rem 0.4rem;
-        border-radius: 4px;
+      /* ── Stats row ─────────────────────────────── */
+      .stats-row {
+        display: flex;
+        gap: 2rem;
+        padding: 1rem 1.25rem;
+        border-bottom: 1px solid var(--border-light);
+      }
+      .stat {
+        text-align: center;
+      }
+      .stat-value {
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: var(--text);
+        font-variant-numeric: tabular-nums;
+      }
+      .stat-label {
+        font-size: 0.75rem;
+        color: var(--text-muted);
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+      }
+
+      /* ── Tree ───────────────────────────────────── */
+      .tree-container {
+        max-height: 520px;
+        overflow-y: auto;
         font-size: 0.85rem;
+      }
+      .tree-node {
+        padding: 0.35rem 0;
+        padding-left: calc(var(--depth, 0) * 1.25rem);
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        cursor: default;
+        border-bottom: 1px solid var(--border-light);
+        transition: background 0.1s;
+      }
+      .tree-node:hover {
+        background: var(--surface-alt);
+      }
+      .tree-node .node-id {
+        font-family: var(--mono);
+        font-size: 0.75rem;
+        color: var(--text-muted);
+        min-width: 60px;
+      }
+      .tree-node .node-name {
+        flex: 1;
+        min-width: 0;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+      .tree-node .node-tier {
+        font-size: 0.7rem;
+        color: var(--text-muted);
+        background: var(--surface-alt);
+        padding: 0.1rem 0.4rem;
+        border-radius: 3px;
+        white-space: nowrap;
+      }
+      .tree-node .scd-flag {
+        font-size: 0.65rem;
+        font-weight: 600;
+        color: #b45309;
+        background: #fef3c7;
+        padding: 0.1rem 0.35rem;
+        border-radius: 3px;
+      }
+
+      /* ── Search Results ─────────────────────────── */
+      .search-results {
+        max-height: 480px;
+        overflow-y: auto;
+      }
+      .result-item {
+        padding: 0.6rem 1rem;
+        border-bottom: 1px solid var(--border-light);
+        display: flex;
+        align-items: flex-start;
+        gap: 0.75rem;
+        transition: background 0.1s;
+      }
+      .result-item:hover {
+        background: var(--surface-alt);
+      }
+      .result-id {
+        font-family: var(--mono);
+        font-size: 0.78rem;
+        color: var(--primary);
+        min-width: 70px;
+        padding-top: 0.1rem;
+      }
+      .result-info {
+        flex: 1;
+        min-width: 0;
+      }
+      .result-name {
+        font-weight: 500;
+        font-size: 0.88rem;
+      }
+      .result-name mark {
+        background: #fef08a;
+        color: inherit;
+        padding: 0 1px;
+        border-radius: 2px;
+      }
+      .result-path {
+        font-size: 0.78rem;
+        color: var(--text-muted);
+        margin-top: 0.15rem;
+      }
+      .result-meta {
+        display: flex;
+        gap: 0.5rem;
+        margin-top: 0.25rem;
+        flex-wrap: wrap;
+      }
+      .result-meta .meta-tag {
+        font-size: 0.7rem;
+        padding: 0.1rem 0.4rem;
+        border-radius: 3px;
+        background: var(--surface-alt);
+        color: var(--text-secondary);
+      }
+
+      /* ── Mapping / Resolve ─────────────────────── */
+      .mapping-result {
+        display: grid;
+        grid-template-columns: 1fr auto 1fr;
+        gap: 0.75rem;
+        align-items: center;
+        padding: 0.6rem 0;
+        border-bottom: 1px solid var(--border-light);
+        font-size: 0.85rem;
+      }
+      .mapping-arrow {
+        color: var(--text-muted);
+        font-size: 1.1rem;
+      }
+      .mapping-cell {
+        display: flex;
+        flex-direction: column;
+        gap: 0.1rem;
+      }
+      .mapping-cell .mc-id {
+        font-family: var(--mono);
+        font-size: 0.78rem;
+        color: var(--primary);
+      }
+      .mapping-cell .mc-name {
+        font-weight: 500;
+      }
+      .resolve-output {
+        background: #1e293b;
+        color: #e2e8f0;
+        font-family: var(--mono);
+        font-size: 0.8rem;
+        padding: 1rem 1.25rem;
+        border-radius: var(--radius);
+        max-height: 420px;
+        overflow: auto;
+        white-space: pre-wrap;
+        word-break: break-word;
+        line-height: 1.6;
+      }
+      .resolve-output .json-key {
+        color: #7dd3fc;
+      }
+      .resolve-output .json-string {
+        color: #86efac;
+      }
+      .resolve-output .json-number {
+        color: #fbbf24;
+      }
+      .resolve-output .json-bool {
+        color: #c084fc;
+      }
+      .resolve-output .json-null {
+        color: #9ca3af;
+      }
+
+      /* ── Empty / Loading States ─────────────────── */
+      .empty-state {
+        text-align: center;
+        padding: 3rem 2rem;
+        color: var(--text-muted);
+        font-size: 0.9rem;
+      }
+      .loading {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        border: 2px solid var(--border);
+        border-top-color: var(--primary);
+        border-radius: 50%;
+        animation: spin 0.6s linear infinite;
+      }
+      @keyframes spin {
+        to {
+          transform: rotate(360deg);
+        }
+      }
+
+      .results-count {
+        font-size: 0.78rem;
+        color: var(--text-muted);
+      }
+
+      .grid-2 {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 1.25rem;
+      }
+      @media (max-width: 800px) {
+        .grid-2 {
+          grid-template-columns: 1fr;
+        }
+        main {
+          padding: 1rem;
+        }
+        header {
+          padding: 1rem;
+        }
+        .tabs {
+          padding: 0 1rem;
+          overflow-x: auto;
+        }
+      }
+
+      .mb-1 {
+        margin-bottom: 1.25rem;
       }
     </style>
   </head>
+
   <body>
-    <div class="container">
-      <h1>IAB Taxonomies</h1>
-      <p>
-        A transparent interface to IAB Tech Lab Content, Ad Product, and Audience taxonomies — formatted for OpenRTB.
-      </p>
-      <div class="badge-row">
-        <span class="badge content">Content v1.0 – v3.1</span>
-        <span class="badge adproduct">Ad Product v1.0 – v2.0</span>
-        <span class="badge audience">Audience v1.0 – v1.1</span>
+    <header>
+      <div class="logo">
+        <h1>IAB Taxonomies</h1>
+        <span>Explorer</span>
       </div>
-      <p>Interactive taxonomy browser coming soon.</p>
-      <div class="status">Install via <code>npm install @anthropic/iab-taxonomies</code></div>
-    </div>
+      <div class="header-links">
+        <a href="https://github.com/InteractiveAdvertisingBureau/Taxonomies" target="_blank" rel="noopener"
+          >IAB Source</a
+        >
+        <a href="https://www.npmjs.com/package/@anthropic/iab-taxonomies" target="_blank" rel="noopener">npm</a>
+        <a href="https://github.com/anthropics/iab-categories" target="_blank" rel="noopener">GitHub</a>
+      </div>
+    </header>
+
+    <nav class="tabs" role="tablist">
+      <button class="tab active" data-tab="browse" role="tab">Browse</button>
+      <button class="tab" data-tab="search" role="tab">Search</button>
+      <button class="tab" data-tab="translate" role="tab">Translate</button>
+      <button class="tab" data-tab="resolve" role="tab">OpenRTB Resolve</button>
+    </nav>
+
+    <main>
+      <!-- ── Browse Panel ─────────────────────────── -->
+      <section id="panel-browse" class="panel active">
+        <div class="taxonomy-selector" id="browse-selector"></div>
+        <div class="card">
+          <div class="stats-row" id="browse-stats">
+            <div class="stat">
+              <div class="stat-value" id="stat-total">—</div>
+              <div class="stat-label">Categories</div>
+            </div>
+            <div class="stat">
+              <div class="stat-value" id="stat-tier1">—</div>
+              <div class="stat-label">Tier 1</div>
+            </div>
+            <div class="stat">
+              <div class="stat-value" id="stat-depth">—</div>
+              <div class="stat-label">Max Depth</div>
+            </div>
+            <div class="stat">
+              <div class="stat-value" id="stat-cattax">—</div>
+              <div class="stat-label">cattax</div>
+            </div>
+          </div>
+          <div class="card-header">
+            <h3>Category Tree</h3>
+            <input type="text" id="browse-filter" placeholder="Filter by name…" style="max-width: 260px" />
+          </div>
+          <div class="card-body">
+            <div class="tree-container" id="browse-tree">
+              <div class="empty-state">Select a taxonomy version above to browse categories.</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ── Search Panel ─────────────────────────── -->
+      <section id="panel-search" class="panel">
+        <div class="card mb-1">
+          <div class="card-body">
+            <div class="input-row">
+              <div class="field grow">
+                <label for="search-input">Search categories</label>
+                <input type="text" id="search-input" placeholder="Type a category name or ID…" />
+              </div>
+              <div class="field">
+                <label for="search-type">Taxonomy</label>
+                <select id="search-type">
+                  <option value="all">All taxonomies</option>
+                </select>
+              </div>
+              <div class="field">
+                <label>&nbsp;</label>
+                <button class="btn" id="search-btn">Search</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header">
+            <h3>Results</h3>
+            <span class="results-count" id="search-count"></span>
+          </div>
+          <div class="search-results" id="search-results">
+            <div class="empty-state">Enter a query to search across IAB taxonomies.</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ── Translate Panel ──────────────────────── -->
+      <section id="panel-translate" class="panel">
+        <div class="card mb-1">
+          <div class="card-body">
+            <div class="input-row">
+              <div class="field">
+                <label>Source</label>
+                <select id="translate-source"></select>
+              </div>
+              <div class="field">
+                <label>Target</label>
+                <select id="translate-target"></select>
+              </div>
+              <div class="field grow">
+                <label>Category IDs (comma-separated)</label>
+                <input type="text" id="translate-ids" placeholder="e.g. IAB1, IAB2, IAB8-5" />
+              </div>
+              <div class="field">
+                <label>&nbsp;</label>
+                <button class="btn" id="translate-btn">Translate</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header">
+            <h3>Mapping Results</h3>
+            <span class="results-count" id="translate-count"></span>
+          </div>
+          <div class="card-body" id="translate-results">
+            <div class="empty-state">Select source and target taxonomies, enter IDs, and click Translate.</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ── Resolve Panel ────────────────────────── -->
+      <section id="panel-resolve" class="panel">
+        <div class="card mb-1">
+          <div class="card-body">
+            <div class="input-row">
+              <div class="field">
+                <label>cattax</label>
+                <select id="resolve-cattax">
+                  <option value="1">1 — Content 1.0</option>
+                  <option value="2">2 — Content 2.x</option>
+                  <option value="3">3 — Ad Product 1.x</option>
+                  <option value="4">4 — Audience 1.x</option>
+                  <option value="5">5 — Content 3.x</option>
+                  <option value="6" selected>6 — Ad Product 2.0</option>
+                </select>
+              </div>
+              <div class="field grow">
+                <label>cat[] IDs (comma-separated)</label>
+                <input type="text" id="resolve-ids" placeholder="e.g. 1002, 1007" />
+              </div>
+              <div class="field">
+                <label>&nbsp;</label>
+                <button class="btn" id="resolve-btn">Resolve</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="grid-2">
+          <div class="card">
+            <div class="card-header">
+              <h3>Resolved Categories</h3>
+            </div>
+            <div class="card-body">
+              <div class="search-results" id="resolve-list">
+                <div class="empty-state">Enter cattax + IDs to resolve OpenRTB cat[] to full objects.</div>
+              </div>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-header">
+              <h3>JSON Output</h3>
+            </div>
+            <div class="card-body">
+              <div class="resolve-output" id="resolve-json">// Resolved JSON will appear here</div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script>
+      const DATA_BASE = './data';
+      let registry = null;
+      const dataCache = {};
+
+      // ── Data Loading ─────────────────────────────
+      async function loadRegistry() {
+        if (registry) return registry;
+        const res = await fetch(`${DATA_BASE}/index.json`);
+        registry = await res.json();
+        return registry;
+      }
+
+      async function loadTaxonomy(dataFile) {
+        if (dataCache[dataFile]) return dataCache[dataFile];
+        const res = await fetch(`${DATA_BASE}/${dataFile}`);
+        const data = await res.json();
+        dataCache[dataFile] = data;
+        return data;
+      }
+
+      async function loadMapping(dataFile) {
+        return loadTaxonomy(dataFile);
+      }
+
+      function formatType(type) {
+        return type === 'ad_product' ? 'Ad Product' : type === 'audience' ? 'Audience' : 'Content';
+      }
+
+      // ── Tab Switching ────────────────────────────
+      document.querySelectorAll('.tab').forEach((tab) => {
+        tab.addEventListener('click', () => {
+          document.querySelectorAll('.tab').forEach((t) => t.classList.remove('active'));
+          document.querySelectorAll('.panel').forEach((p) => p.classList.remove('active'));
+          tab.classList.add('active');
+          document.getElementById(`panel-${tab.dataset.tab}`).classList.add('active');
+        });
+      });
+
+      // ── Browse Panel ─────────────────────────────
+      let currentBrowseTax = null;
+      let currentBrowseData = null;
+
+      async function initBrowse() {
+        const reg = await loadRegistry();
+        const container = document.getElementById('browse-selector');
+        container.innerHTML = reg.taxonomies
+          .map(
+            (t) =>
+              `<button class="tax-chip" data-file="${t.dataFile}" data-cattax="${t.cattax}" data-type="${t.type}">
+                <span class="type-dot ${t.type}"></span>
+                ${formatType(t.type)} v${t.version}
+                <span class="cattax-badge">${t.cattax}</span>
+                ${t.deprecated ? '<span style="font-size:0.65rem;color:var(--text-muted)">(dep)</span>' : ''}
+              </button>`,
+          )
+          .join('');
+
+        container.querySelectorAll('.tax-chip').forEach((chip) => {
+          chip.addEventListener('click', () => selectBrowseTaxonomy(chip));
+        });
+      }
+
+      async function selectBrowseTaxonomy(chip) {
+        document.querySelectorAll('#browse-selector .tax-chip').forEach((c) => c.classList.remove('selected'));
+        chip.classList.add('selected');
+
+        const tree = document.getElementById('browse-tree');
+        tree.innerHTML = '<div class="empty-state"><span class="loading"></span> Loading…</div>';
+
+        const data = await loadTaxonomy(chip.dataset.file);
+        currentBrowseData = data;
+        currentBrowseTax = chip.dataset.file;
+
+        const total = data.length;
+        const tier1 = data.filter((c) => c.tier === 1).length;
+        const maxDepth = Math.max(...data.map((c) => c.tier));
+
+        document.getElementById('stat-total').textContent = total.toLocaleString();
+        document.getElementById('stat-tier1').textContent = tier1;
+        document.getElementById('stat-depth').textContent = maxDepth;
+        document.getElementById('stat-cattax').textContent = chip.dataset.cattax;
+
+        document.getElementById('browse-filter').value = '';
+        renderTree(data);
+      }
+
+      function renderTree(data, filter = '') {
+        const tree = document.getElementById('browse-tree');
+        const lowerFilter = filter.toLowerCase();
+        const filtered = lowerFilter
+          ? data.filter((c) => c.name.toLowerCase().includes(lowerFilter) || c.id.toLowerCase().includes(lowerFilter))
+          : data;
+
+        if (filtered.length === 0) {
+          tree.innerHTML = '<div class="empty-state">No matching categories.</div>';
+          return;
+        }
+
+        const limit = Math.min(filtered.length, 500);
+        let html = '';
+        for (let i = 0; i < limit; i++) {
+          const c = filtered[i];
+          const depth = lowerFilter ? 0 : c.tier - 1;
+          html += `<div class="tree-node" style="--depth:${depth}">
+            <span class="node-id">${esc(c.id)}</span>
+            <span class="node-name" title="${esc(c.tierPath?.join(' › '))}">${esc(c.name)}</span>
+            ${c.scd ? '<span class="scd-flag">SCD</span>' : ''}
+            ${c.categoryType && c.categoryType !== 'content' ? `<span class="node-tier">${esc(c.categoryType)}</span>` : ''}
+            <span class="node-tier">Tier ${c.tier}</span>
+          </div>`;
+        }
+        if (filtered.length > limit) {
+          html += `<div class="empty-state">Showing ${limit} of ${filtered.length.toLocaleString()} results. Use filter to narrow down.</div>`;
+        }
+        tree.innerHTML = html;
+      }
+
+      document.getElementById('browse-filter').addEventListener('input', (e) => {
+        if (currentBrowseData) renderTree(currentBrowseData, e.target.value);
+      });
+
+      // ── Search Panel ─────────────────────────────
+      async function initSearch() {
+        const reg = await loadRegistry();
+        const select = document.getElementById('search-type');
+        reg.taxonomies.forEach((t) => {
+          const opt = document.createElement('option');
+          opt.value = t.dataFile;
+          opt.textContent = `${formatType(t.type)} v${t.version}`;
+          select.appendChild(opt);
+        });
+      }
+
+      async function doSearch() {
+        const query = document.getElementById('search-input').value.trim();
+        if (!query) return;
+        const typeVal = document.getElementById('search-type').value;
+        const reg = await loadRegistry();
+        const container = document.getElementById('search-results');
+        container.innerHTML = '<div class="empty-state"><span class="loading"></span> Searching…</div>';
+
+        const taxonomiesToSearch =
+          typeVal === 'all' ? reg.taxonomies : reg.taxonomies.filter((t) => t.dataFile === typeVal);
+
+        const allResults = [];
+        for (const t of taxonomiesToSearch) {
+          const data = await loadTaxonomy(t.dataFile);
+          const lower = query.toLowerCase();
+          const matches = data.filter(
+            (c) => c.name.toLowerCase().includes(lower) || c.id.toLowerCase().includes(lower),
+          );
+          matches.forEach((m) => allResults.push({ ...m, _tax: t }));
+        }
+
+        document.getElementById('search-count').textContent =
+          `${allResults.length} result${allResults.length !== 1 ? 's' : ''}`;
+
+        if (allResults.length === 0) {
+          container.innerHTML = '<div class="empty-state">No categories found.</div>';
+          return;
+        }
+
+        const limit = Math.min(allResults.length, 200);
+        const re = new RegExp(`(${escRegex(query)})`, 'gi');
+        let html = '';
+        for (let i = 0; i < limit; i++) {
+          const c = allResults[i];
+          const highlighted = esc(c.name).replace(re, '<mark>$1</mark>');
+          html += `<div class="result-item">
+            <span class="type-dot ${c.taxonomyType}"></span>
+            <span class="result-id">${esc(c.id)}</span>
+            <div class="result-info">
+              <div class="result-name">${highlighted}</div>
+              <div class="result-path">${esc(c.tierPath?.join(' › '))}</div>
+              <div class="result-meta">
+                <span class="meta-tag">${formatType(c.taxonomyType)} v${c.taxonomyVersion}</span>
+                <span class="meta-tag">cattax=${c.cattax}</span>
+                <span class="meta-tag">Tier ${c.tier}</span>
+                ${c.scd ? '<span class="meta-tag" style="color:#b45309;background:#fef3c7">SCD</span>' : ''}
+                ${c.segmentType ? `<span class="meta-tag">${c.segmentType}</span>` : ''}
+              </div>
+            </div>
+          </div>`;
+        }
+        if (allResults.length > limit) {
+          html += `<div class="empty-state">Showing ${limit} of ${allResults.length}. Narrow your query.</div>`;
+        }
+        container.innerHTML = html;
+      }
+
+      document.getElementById('search-btn').addEventListener('click', doSearch);
+      document.getElementById('search-input').addEventListener('keydown', (e) => {
+        if (e.key === 'Enter') doSearch();
+      });
+
+      // ── Translate Panel ──────────────────────────
+      async function initTranslate() {
+        const reg = await loadRegistry();
+        const srcSelect = document.getElementById('translate-source');
+        const tgtSelect = document.getElementById('translate-target');
+
+        const taxonomyKeys = reg.taxonomies.map((t) => `${t.type}:${t.version}`);
+        const mappingPairs = reg.mappings.map((m) => ({
+          src: `${m.sourceType}:${m.sourceVersion}`,
+          tgt: `${m.targetType}:${m.targetVersion}`,
+          dataFile: m.dataFile,
+          id: m.id,
+        }));
+
+        const sources = [...new Set(mappingPairs.map((p) => p.src))];
+        sources.forEach((s) => {
+          const [type, version] = s.split(':');
+          const opt = document.createElement('option');
+          opt.value = s;
+          opt.textContent = `${formatType(type)} v${version}`;
+          srcSelect.appendChild(opt);
+        });
+
+        function updateTargets() {
+          const src = srcSelect.value;
+          const available = mappingPairs.filter((p) => p.src === src);
+          tgtSelect.innerHTML = '';
+          available.forEach((p) => {
+            const [type, version] = p.tgt.split(':');
+            const opt = document.createElement('option');
+            opt.value = p.dataFile;
+            opt.textContent = `${formatType(type)} v${version}`;
+            tgtSelect.appendChild(opt);
+          });
+        }
+
+        srcSelect.addEventListener('change', updateTargets);
+        updateTargets();
+      }
+
+      async function doTranslate() {
+        const idsRaw = document.getElementById('translate-ids').value.trim();
+        if (!idsRaw) return;
+        const mappingFile = document.getElementById('translate-target').value;
+        if (!mappingFile) return;
+
+        const container = document.getElementById('translate-results');
+        container.innerHTML = '<div class="empty-state"><span class="loading"></span> Translating…</div>';
+
+        const mappings = await loadMapping(mappingFile);
+        const ids = idsRaw
+          .split(',')
+          .map((s) => s.trim())
+          .filter(Boolean);
+        const idSet = new Set(ids);
+        const matches = mappings.filter((m) => idSet.has(m.source.id) && m.target.id);
+
+        document.getElementById('translate-count').textContent =
+          `${matches.length} mapping${matches.length !== 1 ? 's' : ''}`;
+
+        if (matches.length === 0) {
+          container.innerHTML = '<div class="empty-state">No mappings found for those IDs.</div>';
+          return;
+        }
+
+        let html = '';
+        for (const m of matches) {
+          html += `<div class="mapping-result">
+            <div class="mapping-cell">
+              <span class="mc-id">${esc(m.source.id)}</span>
+              <span class="mc-name">${esc(m.source.name)}</span>
+              <span style="font-size:0.75rem;color:var(--text-muted)">${formatType(m.source.taxonomy)} v${m.source.version}</span>
+            </div>
+            <span class="mapping-arrow">→</span>
+            <div class="mapping-cell">
+              <span class="mc-id">${esc(m.target.id)}</span>
+              <span class="mc-name">${esc(m.target.name)}</span>
+              <span style="font-size:0.75rem;color:var(--text-muted)">${formatType(m.target.taxonomy)} v${m.target.version}</span>
+            </div>
+          </div>`;
+        }
+        container.innerHTML = html;
+      }
+
+      document.getElementById('translate-btn').addEventListener('click', doTranslate);
+      document.getElementById('translate-ids').addEventListener('keydown', (e) => {
+        if (e.key === 'Enter') doTranslate();
+      });
+
+      // ── Resolve Panel ────────────────────────────
+      const CATTAX_MAP = {
+        1: { type: 'content', versions: ['1.0'] },
+        2: { type: 'content', versions: ['2.0', '2.1', '2.2'] },
+        3: { type: 'ad_product', versions: ['1.0', '1.1'] },
+        4: { type: 'audience', versions: ['1.0', '1.1'] },
+        5: { type: 'content', versions: ['3.0', '3.1'] },
+        6: { type: 'ad_product', versions: ['2.0'] },
+      };
+
+      async function doResolve() {
+        const cattax = parseInt(document.getElementById('resolve-cattax').value);
+        const idsRaw = document.getElementById('resolve-ids').value.trim();
+        if (!idsRaw) return;
+
+        const list = document.getElementById('resolve-list');
+        const jsonEl = document.getElementById('resolve-json');
+        list.innerHTML = '<div class="empty-state"><span class="loading"></span> Resolving…</div>';
+
+        const info = CATTAX_MAP[cattax];
+        const reg = await loadRegistry();
+        const latestVersion = info.versions[info.versions.length - 1];
+        const taxDesc = reg.taxonomies.find((t) => t.type === info.type && t.version === latestVersion);
+        if (!taxDesc) {
+          list.innerHTML = '<div class="empty-state">Taxonomy not found.</div>';
+          return;
+        }
+
+        const data = await loadTaxonomy(taxDesc.dataFile);
+        const idMap = new Map(data.map((c) => [c.id, c]));
+        const ids = idsRaw
+          .split(',')
+          .map((s) => s.trim())
+          .filter(Boolean);
+        const resolved = ids.map((id) => idMap.get(id)).filter(Boolean);
+
+        if (resolved.length === 0) {
+          list.innerHTML = '<div class="empty-state">No categories matched those IDs.</div>';
+          jsonEl.textContent = '// No results';
+          return;
+        }
+
+        let html = '';
+        for (const c of resolved) {
+          html += `<div class="result-item">
+            <span class="type-dot ${c.taxonomyType}"></span>
+            <span class="result-id">${esc(c.id)}</span>
+            <div class="result-info">
+              <div class="result-name">${esc(c.name)}</div>
+              <div class="result-path">${esc(c.tierPath?.join(' › '))}</div>
+              <div class="result-meta">
+                <span class="meta-tag">cattax=${c.cattax}</span>
+                <span class="meta-tag">Tier ${c.tier}</span>
+                ${c.scd ? '<span class="meta-tag" style="color:#b45309;background:#fef3c7">SCD</span>' : ''}
+              </div>
+            </div>
+          </div>`;
+        }
+        list.innerHTML = html;
+
+        jsonEl.innerHTML = syntaxHighlight(JSON.stringify(resolved, null, 2));
+      }
+
+      document.getElementById('resolve-btn').addEventListener('click', doResolve);
+      document.getElementById('resolve-ids').addEventListener('keydown', (e) => {
+        if (e.key === 'Enter') doResolve();
+      });
+
+      // ── Utilities ────────────────────────────────
+      function esc(str) {
+        if (!str) return '';
+        const d = document.createElement('div');
+        d.textContent = str;
+        return d.innerHTML;
+      }
+
+      function escRegex(str) {
+        return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      }
+
+      function syntaxHighlight(json) {
+        return json.replace(
+          /("(\\u[a-zA-Z0-9]{4}|\\[^u]|[^\\"])*"(\s*:)?|\b(true|false|null)\b|-?\d+(?:\.\d*)?(?:[eE][+-]?\d+)?)/g,
+          (match) => {
+            let cls = 'json-number';
+            if (/^"/.test(match)) {
+              cls = /:$/.test(match) ? 'json-key' : 'json-string';
+            } else if (/true|false/.test(match)) {
+              cls = 'json-bool';
+            } else if (/null/.test(match)) {
+              cls = 'json-null';
+            }
+            return `<span class="${cls}">${match}</span>`;
+          },
+        );
+      }
+
+      // ── Init ─────────────────────────────────────
+      initBrowse();
+      initSearch();
+      initTranslate();
+    </script>
   </body>
 </html>

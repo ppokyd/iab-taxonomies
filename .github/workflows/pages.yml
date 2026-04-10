@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'public/**'
+      - 'data/**'
   workflow_dispatch:
 
 permissions:
@@ -24,6 +25,9 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+
+      - name: Prepare site
+        run: cp -r data public/data
 
       - uses: actions/configure-pages@v5
 
