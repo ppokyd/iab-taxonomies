@@ -1,17 +1,17 @@
-# @ppokyd/iab-taxonomies
+# @ppokyd/iab-categories
 
 IAB Tech Lab Content, Ad Product, and Audience taxonomies as structured JSON with a TypeScript API and first-class OpenRTB `cattax` support.
 
 ## Install
 
 ```bash
-npm install @ppokyd/iab-taxonomies
+npm install @ppokyd/iab-categories
 ```
 
 ## Quick start
 
 ```ts
-import { getTaxonomy, lookupCategory, resolveCategories, translateCategories } from '@ppokyd/iab-taxonomies';
+import { getTaxonomy, lookupCategory, resolveCategories, translateCategories } from '@ppokyd/iab-categories';
 
 // Load a full taxonomy
 const content = getTaxonomy('content', '3.1');
@@ -33,6 +33,7 @@ const translated = translateCategories(['IAB1', 'IAB2'], 'content', '1.0', 'ad_p
 
 ## Included taxonomies
 
+
 | Type         | Version | `cattax` | Deprecated |
 | ------------ | ------- | -------- | ---------- |
 | `content`    | 1.0     | 1        | Yes        |
@@ -46,6 +47,7 @@ const translated = translateCategories(['IAB1', 'IAB2'], 'content', '1.0', 'ad_p
 | `ad_product` | 2.0     | 6        | No         |
 | `audience`   | 1.0     | 4        | No         |
 | `audience`   | 1.1     | 4        | No         |
+
 
 The `cattax` column corresponds to the OpenRTB / AdCOM `cattax` integer used in bid requests and responses.
 
@@ -103,6 +105,7 @@ Throws if no mapping exists for the source-target pair. Use `listMappings()` to 
 
 **Available mappings:**
 
+
 | Source           | Target                         |
 | ---------------- | ------------------------------ |
 | `ad_product 2.0` | `ad_product 1.1`               |
@@ -114,6 +117,7 @@ Throws if no mapping exists for the source-target pair. Use `listMappings()` to 
 | `content 2.1`    | `ad_product 2.0`               |
 | `content 3.1`    | `content 3.1` (CTV genres)     |
 | `content 3.1`    | `content 3.1` (Podcast genres) |
+
 
 ### `getMapping(sourceType, sourceVersion, targetType, targetVersion)`
 
@@ -161,7 +165,7 @@ import type {
   AudienceVersion,
   TaxonomyDescriptor,
   MappingDescriptor,
-} from '@ppokyd/iab-taxonomies';
+} from '@ppokyd/iab-categories';
 ```
 
 ## Data source
