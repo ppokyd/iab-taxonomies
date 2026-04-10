@@ -1,17 +1,17 @@
-# @anthropic/iab-taxonomies
+# @ppokyd/iab-taxonomies
 
 IAB Tech Lab Content, Ad Product, and Audience taxonomies as structured JSON with a TypeScript API and first-class OpenRTB `cattax` support.
 
 ## Install
 
 ```bash
-npm install @anthropic/iab-taxonomies
+npm install @ppokyd/iab-taxonomies
 ```
 
 ## Quick start
 
 ```ts
-import { getTaxonomy, lookupCategory, resolveCategories, translateCategories } from '@anthropic/iab-taxonomies';
+import { getTaxonomy, lookupCategory, resolveCategories, translateCategories } from '@ppokyd/iab-taxonomies';
 
 // Load a full taxonomy
 const content = getTaxonomy('content', '3.1');
@@ -161,7 +161,7 @@ import type {
   AudienceVersion,
   TaxonomyDescriptor,
   MappingDescriptor,
-} from '@anthropic/iab-taxonomies';
+} from '@ppokyd/iab-taxonomies';
 ```
 
 ## Data source

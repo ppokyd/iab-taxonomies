@@ -4,7 +4,7 @@
  *
  * @example
  * ```ts
- * import { getTaxonomy, lookupCategory, getMapping, resolveCategories } from '@anthropic/iab-taxonomies';
+ * import { getTaxonomy, lookupCategory, getMapping, resolveCategories } from '@ppokyd/iab-taxonomies';
  *
  * // Get all categories for a taxonomy
  * const content3 = getTaxonomy('content', '3.1');
