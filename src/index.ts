@@ -215,13 +215,13 @@ export function translateCategories(
 ): Map<string, string[]> {
   const mappings = getMapping(sourceType, sourceVersion, targetType, targetVersion);
   if (!mappings) {
-    const available = MAPPING_REGISTRY
-      .map((m) => `  ${m.sourceType}:${m.sourceVersion} → ${m.targetType}:${m.targetVersion}`)
-      .join('\n');
+    const available = MAPPING_REGISTRY.map(
+      (m) => `  ${m.sourceType}:${m.sourceVersion} → ${m.targetType}:${m.targetVersion}`,
+    ).join('\n');
     throw new Error(
       `No mapping available from ${sourceType}:${sourceVersion} to ${targetType}:${targetVersion}.\n` +
-      `Available mappings:\n${available}\n` +
-      `Use listMappings() to discover available pairs at runtime.`,
+        `Available mappings:\n${available}\n` +
+        `Use listMappings() to discover available pairs at runtime.`,
     );
   }
 

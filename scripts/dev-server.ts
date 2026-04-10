@@ -28,8 +28,8 @@ async function ensureDataSymlink() {
   try {
     await symlink(DATA_SRC, DATA_DEST);
     console.log(`  Symlinked public/data → data/`);
-  } catch (err: any) {
-    if (err.code === 'EEXIST') {
+  } catch (err: unknown) {
+    if (err instanceof Error && 'code' in err && (err as NodeJS.ErrnoException).code === 'EEXIST') {
       console.log(`  public/data/ already exists (not a symlink) — using it as-is`);
     } else {
       throw err;
