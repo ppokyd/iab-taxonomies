@@ -2,6 +2,8 @@
 
 IAB Tech Lab Content, Ad Product, and Audience taxonomies as structured JSON with a TypeScript API and first-class OpenRTB `cattax` support.
 
+[**Live Explorer**](https://ppokyd.github.io/iab-taxonomies/) — browse, search, translate, and resolve IAB categories in the browser.
+
 ## Install
 
 ```bash
