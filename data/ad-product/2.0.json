@@ -1,0 +1,7741 @@
+[
+  {
+    "id": "1000",
+    "parentId": "1000",
+    "name": "Ad Safety Risk",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Ad Safety Risk"
+    ]
+  },
+  {
+    "id": "1001",
+    "parentId": null,
+    "name": "Adult Products and Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Adult Products and Services"
+    ]
+  },
+  {
+    "id": "1002",
+    "parentId": null,
+    "name": "Alcohol",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Alcohol"
+    ]
+  },
+  {
+    "id": "1003",
+    "parentId": "1002",
+    "name": "Bars",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Alcohol",
+      "Bars"
+    ]
+  },
+  {
+    "id": "1004",
+    "parentId": "1002",
+    "name": "Beer",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Alcohol",
+      "Beer"
+    ]
+  },
+  {
+    "id": "1005",
+    "parentId": "1002",
+    "name": "Hard Sodas, Seltzers, Alco Pops",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Alcohol",
+      "Hard Sodas, Seltzers, Alco Pops"
+    ]
+  },
+  {
+    "id": "1006",
+    "parentId": "1002",
+    "name": "Spirits",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Alcohol",
+      "Spirits"
+    ]
+  },
+  {
+    "id": "1007",
+    "parentId": "1002",
+    "name": "Wine",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Alcohol",
+      "Wine"
+    ]
+  },
+  {
+    "id": "1008",
+    "parentId": null,
+    "name": "Culture and Fine Arts",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Culture and Fine Arts"
+    ]
+  },
+  {
+    "id": "1009",
+    "parentId": "1008",
+    "name": "Museums and Galleries",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Culture and Fine Arts",
+      "Museums and Galleries"
+    ]
+  },
+  {
+    "id": "1010",
+    "parentId": null,
+    "name": "Business and Industrial",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Business and Industrial"
+    ]
+  },
+  {
+    "id": "1011",
+    "parentId": "1010",
+    "name": "Advertising and Marketing",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Business and Industrial",
+      "Advertising and Marketing"
+    ]
+  },
+  {
+    "id": "1012",
+    "parentId": "1010",
+    "name": "Business Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Business and Industrial",
+      "Business Services"
+    ]
+  },
+  {
+    "id": "1013",
+    "parentId": "1012",
+    "name": "Consulting",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Business and Industrial",
+      "Business Services",
+      "Consulting"
+    ]
+  },
+  {
+    "id": "1014",
+    "parentId": "1012",
+    "name": "Employee Expense and Time Tracking Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Business and Industrial",
+      "Business Services",
+      "Employee Expense and Time Tracking Services"
+    ]
+  },
+  {
+    "id": "1015",
+    "parentId": "1012",
+    "name": "Event Planning",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Business and Industrial",
+      "Business Services",
+      "Event Planning"
+    ]
+  },
+  {
+    "id": "1016",
+    "parentId": "1012",
+    "name": "Human Resources and Recruiting",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Business and Industrial",
+      "Business Services",
+      "Human Resources and Recruiting"
+    ]
+  },
+  {
+    "id": "1017",
+    "parentId": "1012",
+    "name": "Information Technology Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Business and Industrial",
+      "Business Services",
+      "Information Technology Services"
+    ]
+  },
+  {
+    "id": "1018",
+    "parentId": "1012",
+    "name": "Laundry and Dry Cleaning Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Business and Industrial",
+      "Business Services",
+      "Laundry and Dry Cleaning Services"
+    ]
+  },
+  {
+    "id": "1019",
+    "parentId": "1012",
+    "name": "Logistics and Delivery",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Business and Industrial",
+      "Business Services",
+      "Logistics and Delivery"
+    ]
+  },
+  {
+    "id": "1020",
+    "parentId": "1012",
+    "name": "Office Equipment and Supplies",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Business and Industrial",
+      "Business Services",
+      "Office Equipment and Supplies"
+    ]
+  },
+  {
+    "id": "1021",
+    "parentId": "1012",
+    "name": "Photographers",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Business and Industrial",
+      "Business Services",
+      "Photographers"
+    ]
+  },
+  {
+    "id": "1022",
+    "parentId": "1012",
+    "name": "Printing/Fax/WiFi Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Business and Industrial",
+      "Business Services",
+      "Printing/Fax/WiFi Services"
+    ]
+  },
+  {
+    "id": "1023",
+    "parentId": "1012",
+    "name": "Public Relations and Strategic Communication",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Business and Industrial",
+      "Business Services",
+      "Public Relations and Strategic Communication"
+    ]
+  },
+  {
+    "id": "1024",
+    "parentId": "1012",
+    "name": "Security and Protection",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Business and Industrial",
+      "Business Services",
+      "Security and Protection"
+    ]
+  },
+  {
+    "id": "1025",
+    "parentId": "1012",
+    "name": "Storage Facilities",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Business and Industrial",
+      "Business Services",
+      "Storage Facilities"
+    ]
+  },
+  {
+    "id": "1026",
+    "parentId": "1012",
+    "name": "Telecom Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Business and Industrial",
+      "Business Services",
+      "Telecom Services"
+    ]
+  },
+  {
+    "id": "1027",
+    "parentId": "1012",
+    "name": "Web Hosting and Cloud Computing",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Business and Industrial",
+      "Business Services",
+      "Web Hosting and Cloud Computing"
+    ]
+  },
+  {
+    "id": "1028",
+    "parentId": "1010",
+    "name": "Construction",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Business and Industrial",
+      "Construction"
+    ]
+  },
+  {
+    "id": "1029",
+    "parentId": "1010",
+    "name": "Energy Industry",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Business and Industrial",
+      "Energy Industry"
+    ]
+  },
+  {
+    "id": "1030",
+    "parentId": "1029",
+    "name": "Electric Power Industry",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Business and Industrial",
+      "Energy Industry",
+      "Electric Power Industry"
+    ]
+  },
+  {
+    "id": "1031",
+    "parentId": "1029",
+    "name": "Energy Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Business and Industrial",
+      "Energy Industry",
+      "Energy Services"
+    ]
+  },
+  {
+    "id": "1032",
+    "parentId": "1029",
+    "name": "Green Energy",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Business and Industrial",
+      "Energy Industry",
+      "Green Energy"
+    ]
+  },
+  {
+    "id": "1033",
+    "parentId": "1029",
+    "name": "Oil, Gas and Consumable Fuels",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Business and Industrial",
+      "Energy Industry",
+      "Oil, Gas and Consumable Fuels"
+    ]
+  },
+  {
+    "id": "1034",
+    "parentId": "1010",
+    "name": "Forestry and Logging",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Business and Industrial",
+      "Forestry and Logging"
+    ]
+  },
+  {
+    "id": "1035",
+    "parentId": "1010",
+    "name": "Industrial Storage",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Business and Industrial",
+      "Industrial Storage"
+    ]
+  },
+  {
+    "id": "1036",
+    "parentId": "1010",
+    "name": "Industrials",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Business and Industrial",
+      "Industrials"
+    ]
+  },
+  {
+    "id": "1037",
+    "parentId": "1037",
+    "name": "Aerospace and Defense",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Business and Industrial",
+      "Industrials",
+      "Aerospace and Defense"
+    ]
+  },
+  {
+    "id": "1038",
+    "parentId": "1037",
+    "name": "Construction and Engineering",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Business and Industrial",
+      "Industrials",
+      "Construction and Engineering"
+    ]
+  },
+  {
+    "id": "1039",
+    "parentId": "1037",
+    "name": "Industrial Conglomerates",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Business and Industrial",
+      "Industrials",
+      "Industrial Conglomerates"
+    ]
+  },
+  {
+    "id": "1040",
+    "parentId": "1037",
+    "name": "Trading Companies and Distributors",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Business and Industrial",
+      "Industrials",
+      "Trading Companies and Distributors"
+    ]
+  },
+  {
+    "id": "1041",
+    "parentId": "1037",
+    "name": "Transportation",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Business and Industrial",
+      "Industrials",
+      "Transportation"
+    ]
+  },
+  {
+    "id": "1042",
+    "parentId": "1010",
+    "name": "Manufacturing",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Business and Industrial",
+      "Manufacturing"
+    ]
+  },
+  {
+    "id": "1043",
+    "parentId": "1010",
+    "name": "Medical and Biotechnology",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Business and Industrial",
+      "Medical and Biotechnology"
+    ]
+  },
+  {
+    "id": "1044",
+    "parentId": "1010",
+    "name": "Mining and Quarrying",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Business and Industrial",
+      "Mining and Quarrying"
+    ]
+  },
+  {
+    "id": "1045",
+    "parentId": "1010",
+    "name": "Science and Laboratory",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Business and Industrial",
+      "Science and Laboratory"
+    ]
+  },
+  {
+    "id": "1046",
+    "parentId": "1010",
+    "name": "Signage",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Business and Industrial",
+      "Signage"
+    ]
+  },
+  {
+    "id": "1047",
+    "parentId": "1010",
+    "name": "Small Business",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Business and Industrial",
+      "Small Business"
+    ]
+  },
+  {
+    "id": "1048",
+    "parentId": "1010",
+    "name": "Waste Disposal and Recycling",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Business and Industrial",
+      "Waste Disposal and Recycling"
+    ]
+  },
+  {
+    "id": "1049",
+    "parentId": null,
+    "name": "Cannabis",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Cannabis"
+    ]
+  },
+  {
+    "id": "1050",
+    "parentId": "1049",
+    "name": "Cannabis Consumables",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Cannabis",
+      "Cannabis Consumables"
+    ]
+  },
+  {
+    "id": "1051",
+    "parentId": "1050",
+    "name": "Cannabis Drinks",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Cannabis",
+      "Cannabis Consumables",
+      "Cannabis Drinks"
+    ]
+  },
+  {
+    "id": "1052",
+    "parentId": "1050",
+    "name": "Cannabis Edibles",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Cannabis",
+      "Cannabis Consumables",
+      "Cannabis Edibles"
+    ]
+  },
+  {
+    "id": "1053",
+    "parentId": "1049",
+    "name": "Cannabis Equipment",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Cannabis",
+      "Cannabis Equipment"
+    ]
+  },
+  {
+    "id": "1054",
+    "parentId": "1049",
+    "name": "Cannabis Stores",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Cannabis",
+      "Cannabis Stores"
+    ]
+  },
+  {
+    "id": "1055",
+    "parentId": "1049",
+    "name": "Cannabis Stocks",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Cannabis",
+      "Cannabis Stocks"
+    ]
+  },
+  {
+    "id": "1056",
+    "parentId": "1049",
+    "name": "CBD Consumables",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Cannabis",
+      "CBD Consumables"
+    ]
+  },
+  {
+    "id": "1057",
+    "parentId": "1049",
+    "name": "CBD Topicals",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Cannabis",
+      "CBD Topicals"
+    ]
+  },
+  {
+    "id": "1058",
+    "parentId": null,
+    "name": "Clothing and Accessories",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Clothing and Accessories"
+    ]
+  },
+  {
+    "id": "1059",
+    "parentId": "1058",
+    "name": "Clothing",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Clothing and Accessories",
+      "Clothing"
+    ]
+  },
+  {
+    "id": "1060",
+    "parentId": "1059",
+    "name": "Children's Clothing",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Clothing and Accessories",
+      "Clothing",
+      "Children's Clothing"
+    ]
+  },
+  {
+    "id": "1061",
+    "parentId": "1059",
+    "name": "Maternity Clothing",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Clothing and Accessories",
+      "Clothing",
+      "Maternity Clothing"
+    ]
+  },
+  {
+    "id": "1062",
+    "parentId": "1059",
+    "name": "Men's Clothing",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Clothing and Accessories",
+      "Clothing",
+      "Men's Clothing"
+    ]
+  },
+  {
+    "id": "1063",
+    "parentId": "1059",
+    "name": "Sportswear",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Clothing and Accessories",
+      "Clothing",
+      "Sportswear"
+    ]
+  },
+  {
+    "id": "1064",
+    "parentId": "1059",
+    "name": "Swimwear",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Clothing and Accessories",
+      "Clothing",
+      "Swimwear"
+    ]
+  },
+  {
+    "id": "1065",
+    "parentId": "1059",
+    "name": "Underwear and Lingerie",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Clothing and Accessories",
+      "Clothing",
+      "Underwear and Lingerie"
+    ]
+  },
+  {
+    "id": "1066",
+    "parentId": "1059",
+    "name": "Wedding Dresses/Bridal Wear/Tuxedos",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Clothing and Accessories",
+      "Clothing",
+      "Wedding Dresses/Bridal Wear/Tuxedos"
+    ]
+  },
+  {
+    "id": "1067",
+    "parentId": "1059",
+    "name": "Women's Clothing",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Clothing and Accessories",
+      "Clothing",
+      "Women's Clothing"
+    ]
+  },
+  {
+    "id": "1068",
+    "parentId": "1058",
+    "name": "Clothing Accessories",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Clothing and Accessories",
+      "Clothing Accessories"
+    ]
+  },
+  {
+    "id": "1069",
+    "parentId": "1058",
+    "name": "Costumes and Accessories",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Clothing and Accessories",
+      "Costumes and Accessories"
+    ]
+  },
+  {
+    "id": "1070",
+    "parentId": "1058",
+    "name": "Footwear",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Clothing and Accessories",
+      "Footwear"
+    ]
+  },
+  {
+    "id": "1071",
+    "parentId": "1058",
+    "name": "Footwear Accessories",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Clothing and Accessories",
+      "Footwear Accessories"
+    ]
+  },
+  {
+    "id": "1072",
+    "parentId": "1058",
+    "name": "Handbags and Wallets",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Clothing and Accessories",
+      "Handbags and Wallets"
+    ]
+  },
+  {
+    "id": "1073",
+    "parentId": "1058",
+    "name": "Jewelry and Watches",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Clothing and Accessories",
+      "Jewelry and Watches"
+    ]
+  },
+  {
+    "id": "1074",
+    "parentId": "1058",
+    "name": "Sunglasses",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Clothing and Accessories",
+      "Sunglasses"
+    ]
+  },
+  {
+    "id": "1075",
+    "parentId": null,
+    "name": "Collectables and Antiques",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Collectables and Antiques"
+    ]
+  },
+  {
+    "id": "1076",
+    "parentId": "1075",
+    "name": "Antiques",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Collectables and Antiques",
+      "Antiques"
+    ]
+  },
+  {
+    "id": "1077",
+    "parentId": "1075",
+    "name": "Coins and Paper Money",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Collectables and Antiques",
+      "Coins and Paper Money"
+    ]
+  },
+  {
+    "id": "1078",
+    "parentId": "1075",
+    "name": "Collectibles",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Collectables and Antiques",
+      "Collectibles"
+    ]
+  },
+  {
+    "id": "1079",
+    "parentId": "1075",
+    "name": "Entertainment Memorabilia",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Collectables and Antiques",
+      "Entertainment Memorabilia"
+    ]
+  },
+  {
+    "id": "1080",
+    "parentId": "1075",
+    "name": "Sports Memorabilia and Trading Cards",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Collectables and Antiques",
+      "Sports Memorabilia and Trading Cards"
+    ]
+  },
+  {
+    "id": "1081",
+    "parentId": "1075",
+    "name": "Stamps",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Collectables and Antiques",
+      "Stamps"
+    ]
+  },
+  {
+    "id": "1082",
+    "parentId": null,
+    "name": "Computer Software",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Computer Software"
+    ]
+  },
+  {
+    "id": "1083",
+    "parentId": "1082",
+    "name": "Browser Extensions",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Computer Software",
+      "Browser Extensions"
+    ]
+  },
+  {
+    "id": "1084",
+    "parentId": "1082",
+    "name": "Downloadable Utilities",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Computer Software",
+      "Downloadable Utilities"
+    ]
+  },
+  {
+    "id": "1085",
+    "parentId": "1082",
+    "name": "Enterprise Computer Software",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Computer Software",
+      "Enterprise Computer Software"
+    ]
+  },
+  {
+    "id": "1086",
+    "parentId": "1082",
+    "name": "Personal Computer Software",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Computer Software",
+      "Personal Computer Software"
+    ]
+  },
+  {
+    "id": "1087",
+    "parentId": "1082",
+    "name": "Toolbars",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Computer Software",
+      "Toolbars"
+    ]
+  },
+  {
+    "id": "1088",
+    "parentId": null,
+    "name": "Cosmetic Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Cosmetic Services"
+    ]
+  },
+  {
+    "id": "1089",
+    "parentId": "1088",
+    "name": "Beauty Salons",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Cosmetic Services",
+      "Beauty Salons"
+    ]
+  },
+  {
+    "id": "1090",
+    "parentId": "1088",
+    "name": "Hair Salons",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Cosmetic Services",
+      "Hair Salons"
+    ]
+  },
+  {
+    "id": "1091",
+    "parentId": "1088",
+    "name": "Hair Removal",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Cosmetic Services",
+      "Hair Removal"
+    ]
+  },
+  {
+    "id": "1092",
+    "parentId": "1088",
+    "name": "Hair Restoration",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Cosmetic Services",
+      "Hair Restoration"
+    ]
+  },
+  {
+    "id": "1093",
+    "parentId": "1088",
+    "name": "Nail Salons",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Cosmetic Services",
+      "Nail Salons"
+    ]
+  },
+  {
+    "id": "1094",
+    "parentId": "1088",
+    "name": "Med Spas",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Cosmetic Services",
+      "Med Spas"
+    ]
+  },
+  {
+    "id": "1095",
+    "parentId": "1088",
+    "name": "Piercing and Tattooing",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Cosmetic Services",
+      "Piercing and Tattooing"
+    ]
+  },
+  {
+    "id": "1096",
+    "parentId": "1088",
+    "name": "Tanning Salons",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Cosmetic Services",
+      "Tanning Salons"
+    ]
+  },
+  {
+    "id": "1097",
+    "parentId": null,
+    "name": "Consumer Electronics",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Consumer Electronics"
+    ]
+  },
+  {
+    "id": "1098",
+    "parentId": "1097",
+    "name": "Arcade Equipment",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Electronics",
+      "Arcade Equipment"
+    ]
+  },
+  {
+    "id": "1099",
+    "parentId": "1097",
+    "name": "Camcorders",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Electronics",
+      "Camcorders"
+    ]
+  },
+  {
+    "id": "1100",
+    "parentId": "1097",
+    "name": "Cameras and Photo",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Electronics",
+      "Cameras and Photo"
+    ]
+  },
+  {
+    "id": "1101",
+    "parentId": "1100",
+    "name": "Camera and Photo Accessories",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Electronics",
+      "Cameras and Photo",
+      "Camera and Photo Accessories"
+    ]
+  },
+  {
+    "id": "1102",
+    "parentId": "1100",
+    "name": "Cameras",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Electronics",
+      "Cameras and Photo",
+      "Cameras"
+    ]
+  },
+  {
+    "id": "1103",
+    "parentId": "1100",
+    "name": "Photo Applications",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Electronics",
+      "Cameras and Photo",
+      "Photo Applications"
+    ]
+  },
+  {
+    "id": "1104",
+    "parentId": "1097",
+    "name": "Circuit Boards and Components",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Electronics",
+      "Circuit Boards and Components"
+    ]
+  },
+  {
+    "id": "1105",
+    "parentId": "1097",
+    "name": "Communications Electronics",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Electronics",
+      "Communications Electronics"
+    ]
+  },
+  {
+    "id": "1106",
+    "parentId": "1097",
+    "name": "Computers",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Electronics",
+      "Computers"
+    ]
+  },
+  {
+    "id": "1107",
+    "parentId": "1106",
+    "name": "Laptops",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Electronics",
+      "Computers",
+      "Laptops"
+    ]
+  },
+  {
+    "id": "1108",
+    "parentId": "1106",
+    "name": "Desktops",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Electronics",
+      "Computers",
+      "Desktops"
+    ]
+  },
+  {
+    "id": "1109",
+    "parentId": "1097",
+    "name": "E-Readers",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Electronics",
+      "E-Readers"
+    ]
+  },
+  {
+    "id": "1110",
+    "parentId": "1097",
+    "name": "Electronics Accessories",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Electronics",
+      "Electronics Accessories"
+    ]
+  },
+  {
+    "id": "1111",
+    "parentId": "1097",
+    "name": "Headphones",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Electronics",
+      "Headphones"
+    ]
+  },
+  {
+    "id": "1112",
+    "parentId": "1097",
+    "name": "Home Theater Systems",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Electronics",
+      "Home Theater Systems"
+    ]
+  },
+  {
+    "id": "1113",
+    "parentId": "1097",
+    "name": "Marine Electronics",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Electronics",
+      "Marine Electronics"
+    ]
+  },
+  {
+    "id": "1114",
+    "parentId": "1097",
+    "name": "Mobile Phones and Accessories",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Electronics",
+      "Mobile Phones and Accessories"
+    ]
+  },
+  {
+    "id": "1115",
+    "parentId": "1097",
+    "name": "Networking",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Electronics",
+      "Networking"
+    ]
+  },
+  {
+    "id": "1116",
+    "parentId": "1097",
+    "name": "Printers/Copiers/Scanners/Fax",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Electronics",
+      "Printers/Copiers/Scanners/Fax"
+    ]
+  },
+  {
+    "id": "1117",
+    "parentId": "1097",
+    "name": "Security Devices",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Electronics",
+      "Security Devices"
+    ]
+  },
+  {
+    "id": "1118",
+    "parentId": "1097",
+    "name": "Tablets",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Electronics",
+      "Tablets"
+    ]
+  },
+  {
+    "id": "1119",
+    "parentId": "1097",
+    "name": "Televisions",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Electronics",
+      "Televisions"
+    ]
+  },
+  {
+    "id": "1120",
+    "parentId": "1097",
+    "name": "Video Games",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Electronics",
+      "Video Games"
+    ]
+  },
+  {
+    "id": "1121",
+    "parentId": "1097",
+    "name": "Video Games and Consoles",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Electronics",
+      "Video Game Consoles"
+    ]
+  },
+  {
+    "id": "1122",
+    "parentId": "1097",
+    "name": "Video Game Console Accessories",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Electronics",
+      "Video Game Console Accessories"
+    ]
+  },
+  {
+    "id": "1123",
+    "parentId": null,
+    "name": "Consumer Packaged Goods",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Consumer Packaged Goods"
+    ]
+  },
+  {
+    "id": "1124",
+    "parentId": "1123",
+    "name": "Baby and Toddler Products",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Baby and Toddler Products"
+    ]
+  },
+  {
+    "id": "1125",
+    "parentId": "1124",
+    "name": "Diapers",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Baby and Toddler Products",
+      "Diapers"
+    ]
+  },
+  {
+    "id": "1126",
+    "parentId": "1124",
+    "name": "Nursing and Feeding Products",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Baby and Toddler Products",
+      "Nursing and Feeding Products"
+    ]
+  },
+  {
+    "id": "1127",
+    "parentId": "1123",
+    "name": "Back to School Supplies",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Back to School Supplies"
+    ]
+  },
+  {
+    "id": "1128",
+    "parentId": "1123",
+    "name": "Barbeque",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Barbeque"
+    ]
+  },
+  {
+    "id": "1129",
+    "parentId": "1128",
+    "name": "Charcoal",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Barbeque",
+      "Charcoal"
+    ]
+  },
+  {
+    "id": "1130",
+    "parentId": "1128",
+    "name": "Charcoal Lighter Fluids",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Barbeque",
+      "Charcoal Lighter Fluids"
+    ]
+  },
+  {
+    "id": "1131",
+    "parentId": "1123",
+    "name": "Beverages",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Beverages"
+    ]
+  },
+  {
+    "id": "1132",
+    "parentId": "1131",
+    "name": "Carbonated Soft Drinks",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Beverages",
+      "Carbonated Soft Drinks"
+    ]
+  },
+  {
+    "id": "1133",
+    "parentId": "1131",
+    "name": "Coffee and Tea",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Beverages",
+      "Coffee and Tea"
+    ]
+  },
+  {
+    "id": "1134",
+    "parentId": "1131",
+    "name": "Drink Mixes",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Beverages",
+      "Drink Mixes"
+    ]
+  },
+  {
+    "id": "1135",
+    "parentId": "1131",
+    "name": "Juices",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Beverages",
+      "Juices"
+    ]
+  },
+  {
+    "id": "1136",
+    "parentId": "1131",
+    "name": "Sports/Energy Drinks",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Beverages",
+      "Sports/Energy Drinks"
+    ]
+  },
+  {
+    "id": "1137",
+    "parentId": "1131",
+    "name": "Water",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Beverages",
+      "Water"
+    ]
+  },
+  {
+    "id": "1138",
+    "parentId": "1123",
+    "name": "Cosmetics",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Cosmetics"
+    ]
+  },
+  {
+    "id": "1139",
+    "parentId": "1138",
+    "name": "Cosmetics Accessories",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Cosmetics",
+      "Cosmetics Accessories"
+    ]
+  },
+  {
+    "id": "1140",
+    "parentId": "1138",
+    "name": "Cosmetics-Nail",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Cosmetics",
+      "Cosmetics-Nail"
+    ]
+  },
+  {
+    "id": "1141",
+    "parentId": "1138",
+    "name": "Eye",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Cosmetics",
+      "Eye"
+    ]
+  },
+  {
+    "id": "1142",
+    "parentId": "1138",
+    "name": "Facial",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Cosmetics",
+      "Facial"
+    ]
+  },
+  {
+    "id": "1143",
+    "parentId": "1138",
+    "name": "Lip",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Cosmetics",
+      "Lip"
+    ]
+  },
+  {
+    "id": "1144",
+    "parentId": "1138",
+    "name": "Storage",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Cosmetics",
+      "Storage"
+    ]
+  },
+  {
+    "id": "1145",
+    "parentId": "1123",
+    "name": "Disposable Tableware",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Disposable Tableware"
+    ]
+  },
+  {
+    "id": "1146",
+    "parentId": "1145",
+    "name": "Cups and Plates",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Disposable Tableware",
+      "Cups and Plates"
+    ]
+  },
+  {
+    "id": "1147",
+    "parentId": "1145",
+    "name": "Disposable Tableware",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Disposable Tableware",
+      "Disposable Tableware"
+    ]
+  },
+  {
+    "id": "1148",
+    "parentId": "1123",
+    "name": "Foils, Wraps, and Bags",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Foils, Wraps, and Bags"
+    ]
+  },
+  {
+    "id": "1149",
+    "parentId": "1148",
+    "name": "Foil Pans",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Foils, Wraps, and Bags",
+      "Foil Pans"
+    ]
+  },
+  {
+    "id": "1150",
+    "parentId": "1148",
+    "name": "Foils and Wraps",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Foils, Wraps, and Bags",
+      "Foils and Wraps"
+    ]
+  },
+  {
+    "id": "1151",
+    "parentId": "1148",
+    "name": "Food and Trash Bags",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Foils, Wraps, and Bags",
+      "Food and Trash Bags"
+    ]
+  },
+  {
+    "id": "1152",
+    "parentId": "1123",
+    "name": "Fragrance",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Fragrance"
+    ]
+  },
+  {
+    "id": "1153",
+    "parentId": "1152",
+    "name": "Fragrances - Women's",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Fragrance",
+      "Fragrances - Women's"
+    ]
+  },
+  {
+    "id": "1154",
+    "parentId": "1152",
+    "name": "Shaving Lotion/Men's Fragrance",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Fragrance",
+      "Shaving Lotion/Men's Fragrance"
+    ]
+  },
+  {
+    "id": "1155",
+    "parentId": "1123",
+    "name": "Frozen",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Frozen"
+    ]
+  },
+  {
+    "id": "1156",
+    "parentId": "1155",
+    "name": "Frozen Baked Goods",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Frozen",
+      "Frozen Baked Goods"
+    ]
+  },
+  {
+    "id": "1157",
+    "parentId": "1155",
+    "name": "Frozen Beverages",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Frozen",
+      "Frozen Beverages"
+    ]
+  },
+  {
+    "id": "1158",
+    "parentId": "1155",
+    "name": "Frozen Desserts",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Frozen",
+      "Frozen Desserts"
+    ]
+  },
+  {
+    "id": "1159",
+    "parentId": "1155",
+    "name": "Frozen Fruits and Vegetables",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Frozen",
+      "Frozen Fruits and Vegetables"
+    ]
+  },
+  {
+    "id": "1160",
+    "parentId": "1155",
+    "name": "Frozen Juices",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Frozen",
+      "Frozen Juices"
+    ]
+  },
+  {
+    "id": "1161",
+    "parentId": "1155",
+    "name": "Frozen Meals",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Frozen",
+      "Frozen Meals"
+    ]
+  },
+  {
+    "id": "1162",
+    "parentId": "1155",
+    "name": "Frozen Meat/Poultry/Seafood",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Frozen",
+      "Frozen Meat/Poultry/Seafood"
+    ]
+  },
+  {
+    "id": "1163",
+    "parentId": "1155",
+    "name": "Frozen Snacks",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Frozen",
+      "Frozen Snacks"
+    ]
+  },
+  {
+    "id": "1164",
+    "parentId": "1155",
+    "name": "Other Frozen",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Frozen",
+      "Other Frozen"
+    ]
+  },
+  {
+    "id": "1165",
+    "parentId": "1123",
+    "name": "General Food",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "General Food"
+    ]
+  },
+  {
+    "id": "1166",
+    "parentId": "1165",
+    "name": "Baby Food",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "General Food",
+      "Baby Food"
+    ]
+  },
+  {
+    "id": "1167",
+    "parentId": "1165",
+    "name": "Bakery",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "General Food",
+      "Bakery"
+    ]
+  },
+  {
+    "id": "1168",
+    "parentId": "1165",
+    "name": "Baking",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "General Food",
+      "Baking"
+    ]
+  },
+  {
+    "id": "1169",
+    "parentId": "1165",
+    "name": "Breakfast",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "General Food",
+      "Breakfast"
+    ]
+  },
+  {
+    "id": "1170",
+    "parentId": "1165",
+    "name": "Candy",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "General Food",
+      "Candy"
+    ]
+  },
+  {
+    "id": "1171",
+    "parentId": "1165",
+    "name": "Condiments and Sauces",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "General Food",
+      "Condiments and Sauces"
+    ]
+  },
+  {
+    "id": "1172",
+    "parentId": "1165",
+    "name": "Cookies and Crackers",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "General Food",
+      "Cookies and Crackers"
+    ]
+  },
+  {
+    "id": "1173",
+    "parentId": "1165",
+    "name": "Fruit",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "General Food",
+      "Fruit"
+    ]
+  },
+  {
+    "id": "1174",
+    "parentId": "1165",
+    "name": "Meals",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "General Food",
+      "Meals"
+    ]
+  },
+  {
+    "id": "1175",
+    "parentId": "1165",
+    "name": "Snacks",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "General Food",
+      "Snacks"
+    ]
+  },
+  {
+    "id": "1176",
+    "parentId": "1165",
+    "name": "Vegetables",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "General Food",
+      "Vegetables"
+    ]
+  },
+  {
+    "id": "1177",
+    "parentId": "1123",
+    "name": "General Merchandise",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "General Merchandise"
+    ]
+  },
+  {
+    "id": "1178",
+    "parentId": "1123",
+    "name": "Grooming Supplies",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Grooming Supplies"
+    ]
+  },
+  {
+    "id": "1179",
+    "parentId": "1123",
+    "name": "Hair Care",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Hair Care"
+    ]
+  },
+  {
+    "id": "1180",
+    "parentId": "1179",
+    "name": "Hair Accessories",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Hair Care",
+      "Hair Accessories"
+    ]
+  },
+  {
+    "id": "1181",
+    "parentId": "1179",
+    "name": "Hair Coloring",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Hair Care",
+      "Hair Coloring"
+    ]
+  },
+  {
+    "id": "1182",
+    "parentId": "1179",
+    "name": "Hair Conditioner",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Hair Care",
+      "Hair Conditioner"
+    ]
+  },
+  {
+    "id": "1183",
+    "parentId": "1179",
+    "name": "Hair Growth Products",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Hair Care",
+      "Hair Growth Products"
+    ]
+  },
+  {
+    "id": "1184",
+    "parentId": "1179",
+    "name": "Hair Spray/Spritz",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Hair Care",
+      "Hair Spray/Spritz"
+    ]
+  },
+  {
+    "id": "1185",
+    "parentId": "1179",
+    "name": "Hair Styling Gel/Mousse",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Hair Care",
+      "Hair Styling Gel/Mousse"
+    ]
+  },
+  {
+    "id": "1186",
+    "parentId": "1179",
+    "name": "Home Permanent/Relaxer Kits",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Hair Care",
+      "Home Permanent/Relaxer Kits"
+    ]
+  },
+  {
+    "id": "1187",
+    "parentId": "1179",
+    "name": "Shampoo",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Hair Care",
+      "Shampoo"
+    ]
+  },
+  {
+    "id": "1188",
+    "parentId": "1123",
+    "name": "HFSS Products [High Fat, Sugar, Salt]",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "HFSS Products [High Fat, Sugar, Salt]"
+    ]
+  },
+  {
+    "id": "1189",
+    "parentId": "1123",
+    "name": "Home Care",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Home Care"
+    ]
+  },
+  {
+    "id": "1190",
+    "parentId": "1189",
+    "name": "Household Cleaning",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Home Care",
+      "Household Cleaning"
+    ]
+  },
+  {
+    "id": "1191",
+    "parentId": "1189",
+    "name": "Laundry",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Home Care",
+      "Laundry"
+    ]
+  },
+  {
+    "id": "1192",
+    "parentId": "1123",
+    "name": "Hosiery",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Hosiery"
+    ]
+  },
+  {
+    "id": "1193",
+    "parentId": "1192",
+    "name": "Pantyhose/Nylons",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Hosiery",
+      "Pantyhose/Nylons"
+    ]
+  },
+  {
+    "id": "1194",
+    "parentId": "1192",
+    "name": "Socks",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Hosiery",
+      "Socks"
+    ]
+  },
+  {
+    "id": "1195",
+    "parentId": "1192",
+    "name": "Tights",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Hosiery",
+      "Tights"
+    ]
+  },
+  {
+    "id": "1196",
+    "parentId": "1123",
+    "name": "Household/Plastics/Storage",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Household/Plastics/Storage"
+    ]
+  },
+  {
+    "id": "1197",
+    "parentId": "1196",
+    "name": "Bottles",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Household/Plastics/Storage",
+      "Bottles"
+    ]
+  },
+  {
+    "id": "1198",
+    "parentId": "1196",
+    "name": "Drinkware",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Household/Plastics/Storage",
+      "Drinkware"
+    ]
+  },
+  {
+    "id": "1199",
+    "parentId": "1196",
+    "name": "Household Plastics",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Household/Plastics/Storage",
+      "Household Plastics"
+    ]
+  },
+  {
+    "id": "1200",
+    "parentId": "1196",
+    "name": "Kitchen Storage",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Household/Plastics/Storage",
+      "Kitchen Storage"
+    ]
+  },
+  {
+    "id": "1201",
+    "parentId": "1123",
+    "name": "Meal Kits",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Meal Kits"
+    ]
+  },
+  {
+    "id": "1202",
+    "parentId": "1123",
+    "name": "Miscellaneous General Merch",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Miscellaneous General Merch"
+    ]
+  },
+  {
+    "id": "1203",
+    "parentId": "1123",
+    "name": "Office/School Supplies",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Office/School Supplies"
+    ]
+  },
+  {
+    "id": "1204",
+    "parentId": "1203",
+    "name": "Children's Art Supplies",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Office/School Supplies",
+      "Children's Art Supplies"
+    ]
+  },
+  {
+    "id": "1205",
+    "parentId": "1203",
+    "name": "Computer Disks Frmtd/UnFrmtd",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Office/School Supplies",
+      "Computer Disks Frmtd/UnFrmtd"
+    ]
+  },
+  {
+    "id": "1206",
+    "parentId": "1203",
+    "name": "Office Products",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Office/School Supplies",
+      "Office Products"
+    ]
+  },
+  {
+    "id": "1207",
+    "parentId": "1203",
+    "name": "Writing Instruments",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Office/School Supplies",
+      "Writing Instruments"
+    ]
+  },
+  {
+    "id": "1208",
+    "parentId": "1123",
+    "name": "Over the Counter Medication",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Over the Counter Medication"
+    ]
+  },
+  {
+    "id": "1209",
+    "parentId": "1123",
+    "name": "Paper Products",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Paper Products"
+    ]
+  },
+  {
+    "id": "1210",
+    "parentId": "1209",
+    "name": "Facial Tissue",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Paper Products",
+      "Facial Tissue"
+    ]
+  },
+  {
+    "id": "1211",
+    "parentId": "1209",
+    "name": "Paper Napkins",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Paper Products",
+      "Paper Napkins"
+    ]
+  },
+  {
+    "id": "1212",
+    "parentId": "1209",
+    "name": "Paper Towels",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Paper Products",
+      "Paper Towels"
+    ]
+  },
+  {
+    "id": "1213",
+    "parentId": "1209",
+    "name": "Toilet Tissue",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Paper Products",
+      "Toilet Tissue"
+    ]
+  },
+  {
+    "id": "1214",
+    "parentId": "1123",
+    "name": "Personal Care",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Personal Care"
+    ]
+  },
+  {
+    "id": "1215",
+    "parentId": "1123",
+    "name": "Personal Cleansing",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Personal Cleansing"
+    ]
+  },
+  {
+    "id": "1216",
+    "parentId": "1215",
+    "name": "Bath Products",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Personal Cleansing",
+      "Bath Products"
+    ]
+  },
+  {
+    "id": "1217",
+    "parentId": "1215",
+    "name": "Bath/Body Scrubbers/Massagers",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Personal Cleansing",
+      "Bath/Body Scrubbers/Massagers"
+    ]
+  },
+  {
+    "id": "1218",
+    "parentId": "1215",
+    "name": "Deodorant",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Personal Cleansing",
+      "Deodorant"
+    ]
+  },
+  {
+    "id": "1219",
+    "parentId": "1215",
+    "name": "Moist Towelettes",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Personal Cleansing",
+      "Moist Towelettes"
+    ]
+  },
+  {
+    "id": "1220",
+    "parentId": "1215",
+    "name": "Soap",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Personal Cleansing",
+      "Soap"
+    ]
+  },
+  {
+    "id": "1221",
+    "parentId": "1123",
+    "name": "Pest Control",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Pest Control"
+    ]
+  },
+  {
+    "id": "1222",
+    "parentId": "1221",
+    "name": "Outdoor Insect/Rodent Control Chem",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Pest Control",
+      "Outdoor Insect/Rodent Control Chem"
+    ]
+  },
+  {
+    "id": "1223",
+    "parentId": "1221",
+    "name": "Pest Control",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Pest Control",
+      "Pest Control"
+    ]
+  },
+  {
+    "id": "1224",
+    "parentId": "1123",
+    "name": "Pet Care",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Pet Care"
+    ]
+  },
+  {
+    "id": "1225",
+    "parentId": "1224",
+    "name": "Cat/Dog Litter",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Pet Care",
+      "Cat/Dog Litter"
+    ]
+  },
+  {
+    "id": "1226",
+    "parentId": "1224",
+    "name": "Pet Food",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Pet Care",
+      "Pet Food"
+    ]
+  },
+  {
+    "id": "1227",
+    "parentId": "1224",
+    "name": "Pet Supplies",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Pet Care",
+      "Pet Supplies"
+    ]
+  },
+  {
+    "id": "1228",
+    "parentId": "1224",
+    "name": "Pet Treats",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Pet Care",
+      "Pet Treats"
+    ]
+  },
+  {
+    "id": "1229",
+    "parentId": "1123",
+    "name": "Refrigerated",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Refrigerated"
+    ]
+  },
+  {
+    "id": "1230",
+    "parentId": "1229",
+    "name": "Dairy",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Refrigerated",
+      "Dairy"
+    ]
+  },
+  {
+    "id": "1231",
+    "parentId": "1229",
+    "name": "Refrigerated Baked Goods",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Refrigerated",
+      "Refrigerated Baked Goods"
+    ]
+  },
+  {
+    "id": "1232",
+    "parentId": "1229",
+    "name": "Refrigerated Beverages",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Refrigerated",
+      "Refrigerated Beverages"
+    ]
+  },
+  {
+    "id": "1233",
+    "parentId": "1229",
+    "name": "Refrigerated Condiments",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Refrigerated",
+      "Refrigerated Condiments"
+    ]
+  },
+  {
+    "id": "1234",
+    "parentId": "1229",
+    "name": "Refrigerated Desserts",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Refrigerated",
+      "Refrigerated Desserts"
+    ]
+  },
+  {
+    "id": "1235",
+    "parentId": "1229",
+    "name": "Refrigerated Dough",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Refrigerated",
+      "Refrigerated Dough"
+    ]
+  },
+  {
+    "id": "1236",
+    "parentId": "1229",
+    "name": "Refrigerated Meals",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Refrigerated",
+      "Refrigerated Meals"
+    ]
+  },
+  {
+    "id": "1237",
+    "parentId": "1229",
+    "name": "Refrigerated Meats",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Refrigerated",
+      "Refrigerated Meats"
+    ]
+  },
+  {
+    "id": "1238",
+    "parentId": "1229",
+    "name": "Refrigerated Miscellaneous",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Refrigerated",
+      "Refrigerated Miscellaneous"
+    ]
+  },
+  {
+    "id": "1239",
+    "parentId": "1123",
+    "name": "Religious Items",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Religious Items"
+    ]
+  },
+  {
+    "id": "1240",
+    "parentId": "1123",
+    "name": "Shaving",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Shaving"
+    ]
+  },
+  {
+    "id": "1241",
+    "parentId": "1240",
+    "name": "Blades",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Shaving",
+      "Blades"
+    ]
+  },
+  {
+    "id": "1242",
+    "parentId": "1240",
+    "name": "Razors",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Shaving",
+      "Razors"
+    ]
+  },
+  {
+    "id": "1243",
+    "parentId": "1240",
+    "name": "Shaving Cream",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Shaving",
+      "Shaving Cream"
+    ]
+  },
+  {
+    "id": "1244",
+    "parentId": "1123",
+    "name": "Skin Care",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Skin Care"
+    ]
+  },
+  {
+    "id": "1245",
+    "parentId": "1244",
+    "name": "Hand and Body Lotion",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Skin Care",
+      "Hand and Body Lotion"
+    ]
+  },
+  {
+    "id": "1246",
+    "parentId": "1244",
+    "name": "Skin Care",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Skin Care",
+      "Skin Care"
+    ]
+  },
+  {
+    "id": "1247",
+    "parentId": "1244",
+    "name": "Suntan Products",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Skin Care",
+      "Suntan Products"
+    ]
+  },
+  {
+    "id": "1248",
+    "parentId": "1123",
+    "name": "Toys and Games",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Toys and Games"
+    ]
+  },
+  {
+    "id": "1249",
+    "parentId": "1248",
+    "name": "Games",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Toys and Games",
+      "Games"
+    ]
+  },
+  {
+    "id": "1250",
+    "parentId": "1248",
+    "name": "Outdoor Play Equipment",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Toys and Games",
+      "Outdoor Play Equipment"
+    ]
+  },
+  {
+    "id": "1251",
+    "parentId": "1248",
+    "name": "Puzzles",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Toys and Games",
+      "Puzzles"
+    ]
+  },
+  {
+    "id": "1252",
+    "parentId": "1248",
+    "name": "Toys",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Toys and Games",
+      "Toys"
+    ]
+  },
+  {
+    "id": "1253",
+    "parentId": "1123",
+    "name": "Vitamins and Supplements",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Vitamins and Supplements"
+    ]
+  },
+  {
+    "id": "1254",
+    "parentId": "1253",
+    "name": "Digestive Supplements",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Vitamins and Supplements",
+      "Digestive Supplements"
+    ]
+  },
+  {
+    "id": "1255",
+    "parentId": "1253",
+    "name": "Weightloss Supplements",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Vitamins and Supplements",
+      "Weightloss Supplements"
+    ]
+  },
+  {
+    "id": "1256",
+    "parentId": "1123",
+    "name": "Water Treatment",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Water Treatment"
+    ]
+  },
+  {
+    "id": "1257",
+    "parentId": "1256",
+    "name": "Water Filter/Devices",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Water Treatment",
+      "Water Filter/Devices"
+    ]
+  },
+  {
+    "id": "1258",
+    "parentId": "1256",
+    "name": "Water Softeners/Treatment",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Consumer Packaged Goods",
+      "Water Treatment",
+      "Water Softeners/Treatment"
+    ]
+  },
+  {
+    "id": "1259",
+    "parentId": null,
+    "name": "Dating",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Dating"
+    ]
+  },
+  {
+    "id": "1260",
+    "parentId": "1259",
+    "name": "Casual Relationships",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Dating",
+      "Casual Relationships"
+    ]
+  },
+  {
+    "id": "1261",
+    "parentId": "1259",
+    "name": "Serious Relationships",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Dating",
+      "Serious Relationships"
+    ]
+  },
+  {
+    "id": "1262",
+    "parentId": null,
+    "name": "Debated Sensitive Social Issue",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Debated Sensitive Social Issue"
+    ]
+  },
+  {
+    "id": "1263",
+    "parentId": null,
+    "name": "Durable Goods",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Durable Goods"
+    ]
+  },
+  {
+    "id": "1264",
+    "parentId": "1263",
+    "name": "Electronics/Photography",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Durable Goods",
+      "Electronics/Photography"
+    ]
+  },
+  {
+    "id": "1265",
+    "parentId": "1264",
+    "name": "Batteries",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Durable Goods",
+      "Electronics/Photography",
+      "Batteries"
+    ]
+  },
+  {
+    "id": "1266",
+    "parentId": "1264",
+    "name": "Blank Audio/Video Media",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Durable Goods",
+      "Electronics/Photography",
+      "Blank Audio/Video Media"
+    ]
+  },
+  {
+    "id": "1267",
+    "parentId": "1264",
+    "name": "Photography Supplies",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Durable Goods",
+      "Electronics/Photography",
+      "Photography Supplies"
+    ]
+  },
+  {
+    "id": "1268",
+    "parentId": "1263",
+    "name": "Furniture",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Durable Goods",
+      "Furniture"
+    ]
+  },
+  {
+    "id": "1269",
+    "parentId": "1268",
+    "name": "Indoor Furniture",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Durable Goods",
+      "Furniture",
+      "Indoor Furniture"
+    ]
+  },
+  {
+    "id": "1270",
+    "parentId": "1268",
+    "name": "Outdoor Furniture",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Durable Goods",
+      "Furniture",
+      "Outdoor Furniture"
+    ]
+  },
+  {
+    "id": "1271",
+    "parentId": "1263",
+    "name": "Grooming Supplies",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Durable Goods",
+      "Grooming Supplies"
+    ]
+  },
+  {
+    "id": "1272",
+    "parentId": "1271",
+    "name": "Electric Shaver Groomer",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Durable Goods",
+      "Grooming Supplies",
+      "Electric Shaver Groomer"
+    ]
+  },
+  {
+    "id": "1273",
+    "parentId": "1271",
+    "name": "Hair Appliances",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Durable Goods",
+      "Grooming Supplies",
+      "Hair Appliances"
+    ]
+  },
+  {
+    "id": "1274",
+    "parentId": "1263",
+    "name": "Tools and Hardware",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Durable Goods",
+      "Tools and Hardware"
+    ]
+  },
+  {
+    "id": "1275",
+    "parentId": "1274",
+    "name": "Consumer Hardware Supplies",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Durable Goods",
+      "Tools and Hardware",
+      "Consumer Hardware Supplies"
+    ]
+  },
+  {
+    "id": "1276",
+    "parentId": "1274",
+    "name": "Industrial Hardware Supplies",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Durable Goods",
+      "Tools and Hardware",
+      "Industrial Hardware Supplies"
+    ]
+  },
+  {
+    "id": "1277",
+    "parentId": "1263",
+    "name": "Home and Garden Products",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Durable Goods",
+      "Home and Garden Products"
+    ]
+  },
+  {
+    "id": "1278",
+    "parentId": "1277",
+    "name": "Bathroom Accessories",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Durable Goods",
+      "Home and Garden Products",
+      "Bathroom Accessories"
+    ]
+  },
+  {
+    "id": "1279",
+    "parentId": "1277",
+    "name": "Bedroom Furniture and Accessories",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Durable Goods",
+      "Home and Garden Products",
+      "Bedroom Furniture and Accessories"
+    ]
+  },
+  {
+    "id": "1280",
+    "parentId": "1277",
+    "name": "Carpets and Rugs",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Durable Goods",
+      "Home and Garden Products",
+      "Carpets and Rugs"
+    ]
+  },
+  {
+    "id": "1281",
+    "parentId": "1277",
+    "name": "Fireplaces",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Durable Goods",
+      "Home and Garden Products",
+      "Fireplaces"
+    ]
+  },
+  {
+    "id": "1282",
+    "parentId": "1277",
+    "name": "Home Decor",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Durable Goods",
+      "Home and Garden Products",
+      "Home Decor"
+    ]
+  },
+  {
+    "id": "1283",
+    "parentId": "1277",
+    "name": "Housewares",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Durable Goods",
+      "Home and Garden Products",
+      "Housewares"
+    ]
+  },
+  {
+    "id": "1284",
+    "parentId": "1277",
+    "name": "Kitchen and Dining Products",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Durable Goods",
+      "Home and Garden Products",
+      "Kitchen and Dining Products"
+    ]
+  },
+  {
+    "id": "1285",
+    "parentId": "1277",
+    "name": "Lawn and Garden Products",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Durable Goods",
+      "Home and Garden Products",
+      "Lawn and Garden Products"
+    ]
+  },
+  {
+    "id": "1286",
+    "parentId": "1277",
+    "name": "Lighting",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Durable Goods",
+      "Home and Garden Products",
+      "Lighting"
+    ]
+  },
+  {
+    "id": "1287",
+    "parentId": "1277",
+    "name": "Linens and Bedding",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Durable Goods",
+      "Home and Garden Products",
+      "Linens and Bedding"
+    ]
+  },
+  {
+    "id": "1288",
+    "parentId": "1277",
+    "name": "Plants",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Durable Goods",
+      "Home and Garden Products",
+      "Plants"
+    ]
+  },
+  {
+    "id": "1289",
+    "parentId": "1263",
+    "name": "Household Appliances",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Durable Goods",
+      "Household Appliances"
+    ]
+  },
+  {
+    "id": "1290",
+    "parentId": "1263",
+    "name": "Luggage and Bags",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Durable Goods",
+      "Luggage and Bags"
+    ]
+  },
+  {
+    "id": "1291",
+    "parentId": null,
+    "name": "Dieting and Weightloss",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Dieting and Weightloss"
+    ]
+  },
+  {
+    "id": "1292",
+    "parentId": "1291",
+    "name": "Food Logging",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Dieting and Weightloss",
+      "Food Logging"
+    ]
+  },
+  {
+    "id": "1293",
+    "parentId": "1291",
+    "name": "Weightloss Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Dieting and Weightloss",
+      "Weightloss Services"
+    ]
+  },
+  {
+    "id": "1294",
+    "parentId": "1291",
+    "name": "Workout and Step Tracking Applications",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Dieting and Weightloss",
+      "Workout and Step Tracking Applications"
+    ]
+  },
+  {
+    "id": "1295",
+    "parentId": null,
+    "name": "Education and Careers",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Education and Careers"
+    ]
+  },
+  {
+    "id": "1296",
+    "parentId": "1295",
+    "name": "Adult Education",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Education and Careers",
+      "Adult Education"
+    ]
+  },
+  {
+    "id": "1297",
+    "parentId": "1295",
+    "name": "Certification Programs",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Education and Careers",
+      "Certification Programs"
+    ]
+  },
+  {
+    "id": "1298",
+    "parentId": "1295",
+    "name": "Colleges and Universities",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Education and Careers",
+      "Colleges and Universities"
+    ]
+  },
+  {
+    "id": "1299",
+    "parentId": "1298",
+    "name": "Post-Graduate Education",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Education and Careers",
+      "Colleges and Universities",
+      "Post-Graduate Education"
+    ]
+  },
+  {
+    "id": "1300",
+    "parentId": "1295",
+    "name": "Education Applications",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Education and Careers",
+      "Education Applications"
+    ]
+  },
+  {
+    "id": "1301",
+    "parentId": "1295",
+    "name": "Employment Agencies",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Education and Careers",
+      "Employment Agencies"
+    ]
+  },
+  {
+    "id": "1302",
+    "parentId": "1295",
+    "name": "Higher Education",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Education and Careers",
+      "Higher Education"
+    ]
+  },
+  {
+    "id": "1303",
+    "parentId": "1295",
+    "name": "Language Learning",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Education and Careers",
+      "Language Learning"
+    ]
+  },
+  {
+    "id": "1304",
+    "parentId": "1295",
+    "name": "Online Education",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Education and Careers",
+      "Online Education"
+    ]
+  },
+  {
+    "id": "1305",
+    "parentId": "1295",
+    "name": "Primary Education",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Education and Careers",
+      "Primary Education"
+    ]
+  },
+  {
+    "id": "1306",
+    "parentId": "1295",
+    "name": "Remote work and school",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Education and Careers",
+      "Remote work and school"
+    ]
+  },
+  {
+    "id": "1307",
+    "parentId": "1306",
+    "name": "Distance learning",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Education and Careers",
+      "Remote work and school",
+      "Distance learning"
+    ]
+  },
+  {
+    "id": "1308",
+    "parentId": "1306",
+    "name": "Homeschooling",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Education and Careers",
+      "Remote work and school",
+      "Homeschooling"
+    ]
+  },
+  {
+    "id": "1309",
+    "parentId": "1306",
+    "name": "Online Surveys",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Education and Careers",
+      "Remote work and school",
+      "Online Surveys"
+    ]
+  },
+  {
+    "id": "1310",
+    "parentId": "1306",
+    "name": "Multi-Level Marketing",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Education and Careers",
+      "Remote work and school",
+      "Multi-Level Marketing"
+    ]
+  },
+  {
+    "id": "1311",
+    "parentId": "1306",
+    "name": "Telecommuting",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Education and Careers",
+      "Remote work and school",
+      "Telecommuting"
+    ]
+  },
+  {
+    "id": "1312",
+    "parentId": "1295",
+    "name": "Study Skills",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Education and Careers",
+      "Study Skills"
+    ]
+  },
+  {
+    "id": "1313",
+    "parentId": "1295",
+    "name": "Teaching Resources",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Education and Careers",
+      "Teaching Resources"
+    ]
+  },
+  {
+    "id": "1314",
+    "parentId": "1295",
+    "name": "Trade Schools",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Education and Careers",
+      "Trade Schools"
+    ]
+  },
+  {
+    "id": "1315",
+    "parentId": null,
+    "name": "Events and Performances",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Events and Performances"
+    ]
+  },
+  {
+    "id": "1316",
+    "parentId": "1315",
+    "name": "Auctions",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Events and Performances",
+      "Auctions"
+    ]
+  },
+  {
+    "id": "1317",
+    "parentId": "1315",
+    "name": "Cinemas and Movie Events",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Events and Performances",
+      "Cinemas and Movie Events"
+    ]
+  },
+  {
+    "id": "1318",
+    "parentId": "1315",
+    "name": "Comedy Events",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Events and Performances",
+      "Comedy Events"
+    ]
+  },
+  {
+    "id": "1319",
+    "parentId": "1315",
+    "name": "Concerts",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Events and Performances",
+      "Concerts"
+    ]
+  },
+  {
+    "id": "1320",
+    "parentId": "1315",
+    "name": "Conferences, Lectures and Workshops",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Events and Performances",
+      "Conferences, Lectures and Workshops"
+    ]
+  },
+  {
+    "id": "1321",
+    "parentId": "1315",
+    "name": "Exhibitions",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Events and Performances",
+      "Exhibitions"
+    ]
+  },
+  {
+    "id": "1322",
+    "parentId": "1315",
+    "name": "Fan Conventions",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Events and Performances",
+      "Fan Conventions"
+    ]
+  },
+  {
+    "id": "1323",
+    "parentId": "1315",
+    "name": "Fashion Events",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Events and Performances",
+      "Fashion Events"
+    ]
+  },
+  {
+    "id": "1324",
+    "parentId": "1315",
+    "name": "Nightlife Experiences",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Events and Performances",
+      "Nightlife Experiences"
+    ]
+  },
+  {
+    "id": "1325",
+    "parentId": "1315",
+    "name": "Sporting Events",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Events and Performances",
+      "Sporting Events"
+    ]
+  },
+  {
+    "id": "1326",
+    "parentId": "1315",
+    "name": "Seasonal and Holiday Events",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Events and Performances",
+      "Seasonal and Holiday Events"
+    ]
+  },
+  {
+    "id": "1327",
+    "parentId": "1315",
+    "name": "Theatre and Musicals",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Events and Performances",
+      "Theatre and Musicals"
+    ]
+  },
+  {
+    "id": "1328",
+    "parentId": null,
+    "name": "Family and Parenting",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Family and Parenting"
+    ]
+  },
+  {
+    "id": "1329",
+    "parentId": "1328",
+    "name": "Childcare",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Family and Parenting",
+      "Childcare"
+    ]
+  },
+  {
+    "id": "1330",
+    "parentId": "1329",
+    "name": "Day Care Centers",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Family and Parenting",
+      "Childcare",
+      "Day Care Centers"
+    ]
+  },
+  {
+    "id": "1331",
+    "parentId": "1329",
+    "name": "Nanny Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Family and Parenting",
+      "Childcare",
+      "Nanny Services"
+    ]
+  },
+  {
+    "id": "1332",
+    "parentId": "1328",
+    "name": "Genealogy and Family Trees",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Family and Parenting",
+      "Genealogy and Family Trees"
+    ]
+  },
+  {
+    "id": "1333",
+    "parentId": "1328",
+    "name": "Kids Activities",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Family and Parenting",
+      "Kids Activities"
+    ]
+  },
+  {
+    "id": "1334",
+    "parentId": "1328",
+    "name": "Senior Living",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Family and Parenting",
+      "Senior Living"
+    ]
+  },
+  {
+    "id": "1335",
+    "parentId": null,
+    "name": "Finance and Insurance",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Finance and Insurance"
+    ]
+  },
+  {
+    "id": "1336",
+    "parentId": "1335",
+    "name": "Accountants and Bookkeepers",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Finance and Insurance",
+      "Accountants and Bookkeepers"
+    ]
+  },
+  {
+    "id": "1337",
+    "parentId": "1335",
+    "name": "Banking",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Finance and Insurance",
+      "Banking"
+    ]
+  },
+  {
+    "id": "1338",
+    "parentId": "1335",
+    "name": "Credit and Debt Repair/Credit Reporting",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Finance and Insurance",
+      "Credit and Debt Repair/Credit Reporting"
+    ]
+  },
+  {
+    "id": "1339",
+    "parentId": "1335",
+    "name": "Credit Cards",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Finance and Insurance",
+      "Credit Cards"
+    ]
+  },
+  {
+    "id": "1340",
+    "parentId": "1335",
+    "name": "Insurance",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Finance and Insurance",
+      "Insurance"
+    ]
+  },
+  {
+    "id": "1341",
+    "parentId": "1340",
+    "name": "Auto Insurance",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Finance and Insurance",
+      "Insurance",
+      "Auto Insurance"
+    ]
+  },
+  {
+    "id": "1342",
+    "parentId": "1340",
+    "name": "Home Insurance",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Finance and Insurance",
+      "Insurance",
+      "Home Insurance"
+    ]
+  },
+  {
+    "id": "1343",
+    "parentId": "1340",
+    "name": "Life Insurance",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Finance and Insurance",
+      "Insurance",
+      "Life Insurance"
+    ]
+  },
+  {
+    "id": "1344",
+    "parentId": "1340",
+    "name": "Medical Insurance",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Finance and Insurance",
+      "Insurance",
+      "Medical Insurance"
+    ]
+  },
+  {
+    "id": "1345",
+    "parentId": "1340",
+    "name": "Pet Insurance",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Finance and Insurance",
+      "Insurance",
+      "Pet Insurance"
+    ]
+  },
+  {
+    "id": "1346",
+    "parentId": "1340",
+    "name": "Travel Insurance",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Finance and Insurance",
+      "Insurance",
+      "Travel Insurance"
+    ]
+  },
+  {
+    "id": "1347",
+    "parentId": "1335",
+    "name": "Insurance Coverage Apps",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Finance and Insurance",
+      "Insurance Coverage Apps"
+    ]
+  },
+  {
+    "id": "1348",
+    "parentId": "1335",
+    "name": "Mortgage Lenders and Brokers",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Finance and Insurance",
+      "Mortgage Lenders and Brokers"
+    ]
+  },
+  {
+    "id": "1349",
+    "parentId": "1335",
+    "name": "Payday and Emergency Loans",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Finance and Insurance",
+      "Payday and Emergency Loans"
+    ]
+  },
+  {
+    "id": "1350",
+    "parentId": "1335",
+    "name": "Retirement Planning",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Finance and Insurance",
+      "Retirement Planning"
+    ]
+  },
+  {
+    "id": "1351",
+    "parentId": "1335",
+    "name": "Stocks and Investments",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Finance and Insurance",
+      "Stocks and Investments"
+    ]
+  },
+  {
+    "id": "1352",
+    "parentId": "1335",
+    "name": "Financial Investment and Management Applications",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Finance and Insurance",
+      "Financial Investment and Management Applications"
+    ]
+  },
+  {
+    "id": "1353",
+    "parentId": "1335",
+    "name": "Student Financial Aid",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Finance and Insurance",
+      "Student Financial Aid"
+    ]
+  },
+  {
+    "id": "1354",
+    "parentId": "1335",
+    "name": "Tax Preparation Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Finance and Insurance",
+      "Tax Preparation Services"
+    ]
+  },
+  {
+    "id": "1355",
+    "parentId": null,
+    "name": "Food and Beverage Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Food and Beverage Services"
+    ]
+  },
+  {
+    "id": "1356",
+    "parentId": "1355",
+    "name": "Bakeries",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Food and Beverage Services",
+      "Bakeries"
+    ]
+  },
+  {
+    "id": "1357",
+    "parentId": "1355",
+    "name": "Catering",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Food and Beverage Services",
+      "Catering"
+    ]
+  },
+  {
+    "id": "1358",
+    "parentId": "1355",
+    "name": "Fast Food",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Food and Beverage Services",
+      "Fast Food"
+    ]
+  },
+  {
+    "id": "1359",
+    "parentId": "1355",
+    "name": "Food Delivery Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Food and Beverage Services",
+      "Food Delivery Services"
+    ]
+  },
+  {
+    "id": "1360",
+    "parentId": "1355",
+    "name": "Restaurants",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Food and Beverage Services",
+      "Restaurants"
+    ]
+  },
+  {
+    "id": "1361",
+    "parentId": null,
+    "name": "Gambling",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Gambling"
+    ]
+  },
+  {
+    "id": "1362",
+    "parentId": "1361",
+    "name": "Casinos",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Gambling",
+      "Casinos"
+    ]
+  },
+  {
+    "id": "1363",
+    "parentId": "1361",
+    "name": "Contests",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Gambling",
+      "Contests"
+    ]
+  },
+  {
+    "id": "1364",
+    "parentId": "1361",
+    "name": "Give Aways",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Gambling",
+      "Give Aways"
+    ]
+  },
+  {
+    "id": "1365",
+    "parentId": "1361",
+    "name": "Lottery",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Gambling",
+      "Lottery"
+    ]
+  },
+  {
+    "id": "1366",
+    "parentId": "1361",
+    "name": "Sports Betting",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Gambling",
+      "Sports Betting"
+    ]
+  },
+  {
+    "id": "1367",
+    "parentId": "1361",
+    "name": "Virtual Betting",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Gambling",
+      "Virtual Betting"
+    ]
+  },
+  {
+    "id": "1368",
+    "parentId": null,
+    "name": "Green/Eco",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Green/Eco"
+    ]
+  },
+  {
+    "id": "1369",
+    "parentId": "1368",
+    "name": "Green/Eco Products",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Green/Eco",
+      "Green/Eco Products"
+    ]
+  },
+  {
+    "id": "1370",
+    "parentId": "1368",
+    "name": "Green/Eco Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Green/Eco",
+      "Green/Eco Services"
+    ]
+  },
+  {
+    "id": "1371",
+    "parentId": null,
+    "name": "Gifts and Holiday Items",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Gifts and Holiday Items"
+    ]
+  },
+  {
+    "id": "1372",
+    "parentId": "1371",
+    "name": "Flowers",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Gifts and Holiday Items",
+      "Flowers"
+    ]
+  },
+  {
+    "id": "1373",
+    "parentId": "1371",
+    "name": "Gift Baskets",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Gifts and Holiday Items",
+      "Gift Baskets"
+    ]
+  },
+  {
+    "id": "1374",
+    "parentId": "1371",
+    "name": "Gift Cards and Coupons",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Gifts and Holiday Items",
+      "Gift Cards and Coupons"
+    ]
+  },
+  {
+    "id": "1375",
+    "parentId": "1371",
+    "name": "Gift Certificates",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Gifts and Holiday Items",
+      "Gift Certificates"
+    ]
+  },
+  {
+    "id": "1376",
+    "parentId": "1371",
+    "name": "Greeting Cards",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Gifts and Holiday Items",
+      "Greeting Cards"
+    ]
+  },
+  {
+    "id": "1377",
+    "parentId": "1371",
+    "name": "Party Goods",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Gifts and Holiday Items",
+      "Party Goods"
+    ]
+  },
+  {
+    "id": "1378",
+    "parentId": null,
+    "name": "Health and Medical Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Health and Medical Services"
+    ]
+  },
+  {
+    "id": "1379",
+    "parentId": "1378",
+    "name": "Alternative and Natural Medicine",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Health and Medical Services",
+      "Alternative and Natural Medicine"
+    ]
+  },
+  {
+    "id": "1380",
+    "parentId": "1378",
+    "name": "Assisted Living",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Health and Medical Services",
+      "Assisted Living"
+    ]
+  },
+  {
+    "id": "1381",
+    "parentId": "1378",
+    "name": "Chiropractors",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Health and Medical Services",
+      "Chiropractors"
+    ]
+  },
+  {
+    "id": "1382",
+    "parentId": "1378",
+    "name": "Clinical Research",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Health and Medical Services",
+      "Clinical Research"
+    ]
+  },
+  {
+    "id": "1383",
+    "parentId": "1378",
+    "name": "Cosmetic Medical Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Health and Medical Services",
+      "Cosmetic Medical Services"
+    ]
+  },
+  {
+    "id": "1384",
+    "parentId": "1378",
+    "name": "Dental Care",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Health and Medical Services",
+      "Dental Care"
+    ]
+  },
+  {
+    "id": "1385",
+    "parentId": "1378",
+    "name": "Dermatology",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Health and Medical Services",
+      "Dermatology"
+    ]
+  },
+  {
+    "id": "1386",
+    "parentId": "1378",
+    "name": "Drugstores and Pharmacies",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Health and Medical Services",
+      "Drugstores and Pharmacies"
+    ]
+  },
+  {
+    "id": "1387",
+    "parentId": "1378",
+    "name": "Fertility and Family Planning",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Health and Medical Services",
+      "Fertility and Family Planning"
+    ]
+  },
+  {
+    "id": "1388",
+    "parentId": "1378",
+    "name": "General Practitioners",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Health and Medical Services",
+      "General Practitioners"
+    ]
+  },
+  {
+    "id": "1389",
+    "parentId": "1378",
+    "name": "Home Healthcare",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Health and Medical Services",
+      "Home Healthcare"
+    ]
+  },
+  {
+    "id": "1390",
+    "parentId": "1378",
+    "name": "Hospitals",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Health and Medical Services",
+      "Hospitals"
+    ]
+  },
+  {
+    "id": "1391",
+    "parentId": "1378",
+    "name": "Mental Health",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Health and Medical Services",
+      "Mental Health"
+    ]
+  },
+  {
+    "id": "1392",
+    "parentId": "1378",
+    "name": "Physical Therapists",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Health and Medical Services",
+      "Physical Therapists"
+    ]
+  },
+  {
+    "id": "1393",
+    "parentId": "1378",
+    "name": "Service Provider Search and Scheduling",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Health and Medical Services",
+      "Service Provider Search and Scheduling"
+    ]
+  },
+  {
+    "id": "1394",
+    "parentId": "1378",
+    "name": "Symptom Monitoring Apps",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Health and Medical Services",
+      "Symptom Monitoring Apps"
+    ]
+  },
+  {
+    "id": "1395",
+    "parentId": "1378",
+    "name": "Vision Care",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Health and Medical Services",
+      "Vision Care"
+    ]
+  },
+  {
+    "id": "1396",
+    "parentId": null,
+    "name": "Home and Garden Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Home and Garden Services"
+    ]
+  },
+  {
+    "id": "1397",
+    "parentId": "1396",
+    "name": "Appliance Repair",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Home and Garden Services",
+      "Appliance Repair"
+    ]
+  },
+  {
+    "id": "1398",
+    "parentId": "1396",
+    "name": "Business and Home Security Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Home and Garden Services",
+      "Business and Home Security Services"
+    ]
+  },
+  {
+    "id": "1399",
+    "parentId": "1396",
+    "name": "Carpeting and Flooring Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Home and Garden Services",
+      "Carpeting and Flooring Services"
+    ]
+  },
+  {
+    "id": "1400",
+    "parentId": "1396",
+    "name": "Do It Yourself Applications",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Home and Garden Services",
+      "Do It Yourself Applications"
+    ]
+  },
+  {
+    "id": "1401",
+    "parentId": "1396",
+    "name": "Emergency Preparedness",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Home and Garden Services",
+      "Emergency Preparedness"
+    ]
+  },
+  {
+    "id": "1402",
+    "parentId": "1396",
+    "name": "Flood, Fire and Gas Safety",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Home and Garden Services",
+      "Flood, Fire and Gas Safety"
+    ]
+  },
+  {
+    "id": "1403",
+    "parentId": "1396",
+    "name": "Gas and Electric Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Home and Garden Services",
+      "Gas and Electric Services"
+    ]
+  },
+  {
+    "id": "1404",
+    "parentId": "1396",
+    "name": "Home Improvement and Repair",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Home and Garden Services",
+      "Home Improvement and Repair"
+    ]
+  },
+  {
+    "id": "1405",
+    "parentId": "1396",
+    "name": "Home Security and Monitoring Applications",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Home and Garden Services",
+      "Home Security and Monitoring Applications"
+    ]
+  },
+  {
+    "id": "1406",
+    "parentId": "1396",
+    "name": "Home Service Provider Review",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Home and Garden Services",
+      "Home Service Provider Review"
+    ]
+  },
+  {
+    "id": "1407",
+    "parentId": "1396",
+    "name": "Housekeeping Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Home and Garden Services",
+      "Housekeeping Services"
+    ]
+  },
+  {
+    "id": "1408",
+    "parentId": "1396",
+    "name": "Landscaping Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Home and Garden Services",
+      "Landscaping Services"
+    ]
+  },
+  {
+    "id": "1409",
+    "parentId": "1396",
+    "name": "Lawn and Garden Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Home and Garden Services",
+      "Lawn and Garden Services"
+    ]
+  },
+  {
+    "id": "1410",
+    "parentId": "1396",
+    "name": "Pest Exterminators",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Home and Garden Services",
+      "Pest Exterminators"
+    ]
+  },
+  {
+    "id": "1411",
+    "parentId": "1396",
+    "name": "Plumbers",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Home and Garden Services",
+      "Plumbers"
+    ]
+  },
+  {
+    "id": "1412",
+    "parentId": "1396",
+    "name": "Pool and Spa Installation and Maintenance",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Home and Garden Services",
+      "Pool and Spa Installation and Maintenance"
+    ]
+  },
+  {
+    "id": "1413",
+    "parentId": "1396",
+    "name": "Remodeling and Construction",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Home and Garden Services",
+      "Remodeling and Construction"
+    ]
+  },
+  {
+    "id": "1414",
+    "parentId": "1396",
+    "name": "Water Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Home and Garden Services",
+      "Water Services"
+    ]
+  },
+  {
+    "id": "1415",
+    "parentId": "1396",
+    "name": "Window Installation and Treatments",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Home and Garden Services",
+      "Window Installation and Treatments"
+    ]
+  },
+  {
+    "id": "1416",
+    "parentId": null,
+    "name": "Legal Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Legal Services"
+    ]
+  },
+  {
+    "id": "1417",
+    "parentId": "1416",
+    "name": "Lawyers",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Legal Services",
+      "Lawyers"
+    ]
+  },
+  {
+    "id": "1418",
+    "parentId": "1416",
+    "name": "Bail Bonds",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Legal Services",
+      "Bail Bonds"
+    ]
+  },
+  {
+    "id": "1419",
+    "parentId": null,
+    "name": "Media",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Media"
+    ]
+  },
+  {
+    "id": "1420",
+    "parentId": "1419",
+    "name": "Blogs/Forums/Social Networks",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Media",
+      "Blogs/Forums/Social Networks"
+    ]
+  },
+  {
+    "id": "1421",
+    "parentId": "1419",
+    "name": "Book Reading and Review Applications",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Media",
+      "Book Reading and Review Applications"
+    ]
+  },
+  {
+    "id": "1422",
+    "parentId": "1419",
+    "name": "Books and Audio Books",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Media",
+      "Books and Audio Books"
+    ]
+  },
+  {
+    "id": "1423",
+    "parentId": "1419",
+    "name": "Casual Games",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Media",
+      "Casual Games"
+    ]
+  },
+  {
+    "id": "1424",
+    "parentId": "1423",
+    "name": "Casual Games Apps",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Media",
+      "Casual Games",
+      "Casual Games Apps"
+    ]
+  },
+  {
+    "id": "1425",
+    "parentId": "1419",
+    "name": "Core Gaming",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Media",
+      "Core Gaming"
+    ]
+  },
+  {
+    "id": "1426",
+    "parentId": "1423",
+    "name": "Core Gaming Apps",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Media",
+      "Core Gaming",
+      "Core Gaming Apps"
+    ]
+  },
+  {
+    "id": "1427",
+    "parentId": "1419",
+    "name": "CDs and Vinyl Records",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Media",
+      "CDs and Vinyl Records"
+    ]
+  },
+  {
+    "id": "1428",
+    "parentId": "1419",
+    "name": "DVDs",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Media",
+      "DVDs"
+    ]
+  },
+  {
+    "id": "1429",
+    "parentId": "1419",
+    "name": "Live Television",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Media",
+      "Live Television"
+    ]
+  },
+  {
+    "id": "1430",
+    "parentId": "1419",
+    "name": "Magazines and Newspapers",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Media",
+      "Magazines and Newspapers"
+    ]
+  },
+  {
+    "id": "1431",
+    "parentId": "1419",
+    "name": "Music and Video Streaming Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Media",
+      "Music and Video Streaming Services"
+    ]
+  },
+  {
+    "id": "1432",
+    "parentId": "1419",
+    "name": "News and Analysis",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Media",
+      "News and Analysis"
+    ]
+  },
+  {
+    "id": "1433",
+    "parentId": "1419",
+    "name": "Radio and Podcasts",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Media",
+      "Radio and Podcasts"
+    ]
+  },
+  {
+    "id": "1434",
+    "parentId": "1419",
+    "name": "Sports",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Media",
+      "Sports"
+    ]
+  },
+  {
+    "id": "1435",
+    "parentId": "1434",
+    "name": "Fantasy Sports",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Media",
+      "Sports",
+      "Fantasy Sports"
+    ]
+  },
+  {
+    "id": "1436",
+    "parentId": "1434",
+    "name": "Sports Highlights",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Media",
+      "Sports",
+      "Sports Highlights"
+    ]
+  },
+  {
+    "id": "1437",
+    "parentId": "1434",
+    "name": "Team News and Analysis",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Media",
+      "Sports",
+      "Team News and Analysis"
+    ]
+  },
+  {
+    "id": "1438",
+    "parentId": "1419",
+    "name": "Utilities Apps",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Media",
+      "Utilities Apps"
+    ]
+  },
+  {
+    "id": "1439",
+    "parentId": "1438",
+    "name": "Productivity Apps",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Media",
+      "Utilities Apps",
+      "Productivity Apps"
+    ]
+  },
+  {
+    "id": "1440",
+    "parentId": "1438",
+    "name": "Reference Apps",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Media",
+      "Utilities Apps",
+      "Reference Apps"
+    ]
+  },
+  {
+    "id": "1441",
+    "parentId": "1438",
+    "name": "Search Engine Apps",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Media",
+      "Utilities Apps",
+      "Search Engine Apps"
+    ]
+  },
+  {
+    "id": "1442",
+    "parentId": "1438",
+    "name": "Weather Apps",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Media",
+      "Utilities Apps",
+      "Weather Apps"
+    ]
+  },
+  {
+    "id": "1443",
+    "parentId": null,
+    "name": "Metals",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Metals"
+    ]
+  },
+  {
+    "id": "1444",
+    "parentId": "1443",
+    "name": "Coin Trade In",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Metals",
+      "Coin Trade In"
+    ]
+  },
+  {
+    "id": "1445",
+    "parentId": "1443",
+    "name": "Gold Trade In",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Metals",
+      "Gold Trade In"
+    ]
+  },
+  {
+    "id": "1446",
+    "parentId": "1443",
+    "name": "Platinum Trade In",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Metals",
+      "Platinum Trade In"
+    ]
+  },
+  {
+    "id": "1447",
+    "parentId": "1443",
+    "name": "Silver Trade In",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Metals",
+      "Silver Trade In"
+    ]
+  },
+  {
+    "id": "1448",
+    "parentId": null,
+    "name": "Non-Fiat Currency",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Non-Fiat Currency"
+    ]
+  },
+  {
+    "id": "1449",
+    "parentId": "1448",
+    "name": "Cryptocurrency Exchanges",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Non-Fiat Currency",
+      "Cryptocurrency Exchanges"
+    ]
+  },
+  {
+    "id": "1450",
+    "parentId": "1448",
+    "name": "Cryptocurrency Stock",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Non-Fiat Currency",
+      "Cryptocurrency Stock"
+    ]
+  },
+  {
+    "id": "1451",
+    "parentId": "1448",
+    "name": "NFTs",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Non-Fiat Currency",
+      "NFTs"
+    ]
+  },
+  {
+    "id": "1452",
+    "parentId": null,
+    "name": "Non-Profits",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Non-Profits"
+    ]
+  },
+  {
+    "id": "1453",
+    "parentId": "1452",
+    "name": "Charities and Donations",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Non-Profits",
+      "Charities and Donations"
+    ]
+  },
+  {
+    "id": "1454",
+    "parentId": "1452",
+    "name": "Civic Organizations",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Non-Profits",
+      "Civic Organizations"
+    ]
+  },
+  {
+    "id": "1455",
+    "parentId": "1452",
+    "name": "Federations and Professional Associations",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Non-Profits",
+      "Federations and Professional Associations"
+    ]
+  },
+  {
+    "id": "1456",
+    "parentId": "1452",
+    "name": "Military Organizations",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Non-Profits",
+      "Military Organizations"
+    ]
+  },
+  {
+    "id": "1457",
+    "parentId": "1452",
+    "name": "Non-Governmental Organizations",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Non-Profits",
+      "Non-Governmental Organizations"
+    ]
+  },
+  {
+    "id": "1458",
+    "parentId": "1452",
+    "name": "Public Service Announcements",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Non-Profits",
+      "Public Service Announcements"
+    ]
+  },
+  {
+    "id": "1459",
+    "parentId": "1452",
+    "name": "Scholarships",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Non-Profits",
+      "Scholarships"
+    ]
+  },
+  {
+    "id": "1460",
+    "parentId": null,
+    "name": "Pet Ownership",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Pet Ownership"
+    ]
+  },
+  {
+    "id": "1461",
+    "parentId": "1460",
+    "name": "Pet Adoption",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Pet Ownership",
+      "Pet Adoption"
+    ]
+  },
+  {
+    "id": "1462",
+    "parentId": "1460",
+    "name": "Pet Breeders",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Pet Ownership",
+      "Pet Breeders"
+    ]
+  },
+  {
+    "id": "1463",
+    "parentId": "1460",
+    "name": "Pet Care and Supply Applications",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Pet Ownership",
+      "Pet Care and Supply Applications"
+    ]
+  },
+  {
+    "id": "1464",
+    "parentId": "1460",
+    "name": "Pet Grooming",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Pet Ownership",
+      "Pet Grooming"
+    ]
+  },
+  {
+    "id": "1465",
+    "parentId": "1460",
+    "name": "Pet Sitting",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Pet Ownership",
+      "Pet Sitting"
+    ]
+  },
+  {
+    "id": "1466",
+    "parentId": "1460",
+    "name": "Veterinary Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Pet Ownership",
+      "Veterinary Services"
+    ]
+  },
+  {
+    "id": "1467",
+    "parentId": null,
+    "name": "Personal/Consumer Telcom",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Personal/Consumer Telecom"
+    ]
+  },
+  {
+    "id": "1468",
+    "parentId": "1467",
+    "name": "Home Internet Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Personal/Consumer Telecom",
+      "Home Internet Services"
+    ]
+  },
+  {
+    "id": "1469",
+    "parentId": "1467",
+    "name": "Home Phone Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Personal/Consumer Telecom",
+      "Home Phone Services"
+    ]
+  },
+  {
+    "id": "1470",
+    "parentId": "1467",
+    "name": "Home Television Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Personal/Consumer Telecom",
+      "Home Television Services"
+    ]
+  },
+  {
+    "id": "1471",
+    "parentId": "1467",
+    "name": "Mobile Phone Plans",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Personal/Consumer Telecom",
+      "Mobile Phone Plans"
+    ]
+  },
+  {
+    "id": "1472",
+    "parentId": "1467",
+    "name": "Prepaid International Phone Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Personal/Consumer Telecom",
+      "Prepaid International Phone Services"
+    ]
+  },
+  {
+    "id": "1473",
+    "parentId": null,
+    "name": "Pharmaceuticals",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Pharmaceuticals"
+    ]
+  },
+  {
+    "id": "1474",
+    "parentId": null,
+    "name": "Politics",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Politics"
+    ]
+  },
+  {
+    "id": "1475",
+    "parentId": "1474",
+    "name": "Ballot measures",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Politics",
+      "Ballot measures"
+    ]
+  },
+  {
+    "id": "1476",
+    "parentId": "1474",
+    "name": "Elections",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Politics",
+      "Elections"
+    ]
+  },
+  {
+    "id": "1477",
+    "parentId": "1474",
+    "name": "Political Action Committees",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Politics",
+      "Political Action Committees"
+    ]
+  },
+  {
+    "id": "1478",
+    "parentId": "1474",
+    "name": "Political Analysis and Opinion",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Politics",
+      "Political Analysis and Opinion"
+    ]
+  },
+  {
+    "id": "1479",
+    "parentId": "1474",
+    "name": "Political candidates",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Politics",
+      "Political candidates"
+    ]
+  },
+  {
+    "id": "1480",
+    "parentId": "1474",
+    "name": "Political Donations",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Politics",
+      "Political Donations"
+    ]
+  },
+  {
+    "id": "1481",
+    "parentId": "1474",
+    "name": "Referendums or promoting causes; eg: Healthcare reform, energy trades (Oil/Solar), etc...",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Politics",
+      "Referendums or promoting causes; eg: Healthcare reform, energy trades (Oil/Solar), etc..."
+    ]
+  },
+  {
+    "id": "1482",
+    "parentId": null,
+    "name": "Real Estate",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Real Estate"
+    ]
+  },
+  {
+    "id": "1483",
+    "parentId": "1482",
+    "name": "Commercial Real Estate",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Real Estate",
+      "Commercial Real Estate"
+    ]
+  },
+  {
+    "id": "1484",
+    "parentId": "1482",
+    "name": "Real Estate Rentals",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Real Estate",
+      "Real Estate Rentals"
+    ]
+  },
+  {
+    "id": "1485",
+    "parentId": "1482",
+    "name": "Real Estate Sales",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Real Estate",
+      "Real Estate Sales"
+    ]
+  },
+  {
+    "id": "1486",
+    "parentId": "1482",
+    "name": "Real Estate Services For Owners",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Real Estate",
+      "Real Estate Services For Owners"
+    ]
+  },
+  {
+    "id": "1487",
+    "parentId": null,
+    "name": "Religion and Spirituality",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Religion and Spirituality"
+    ]
+  },
+  {
+    "id": "1488",
+    "parentId": "1487",
+    "name": "Astrology",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Religion and Spirituality",
+      "Astrology"
+    ]
+  },
+  {
+    "id": "1489",
+    "parentId": "1487",
+    "name": "Prayer and Mindfullness Applications",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Religion and Spirituality",
+      "Prayer and Mindfullness Applications"
+    ]
+  },
+  {
+    "id": "1490",
+    "parentId": "1487",
+    "name": "Prayer and worship services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Religion and Spirituality",
+      "Prayer and Worship Services"
+    ]
+  },
+  {
+    "id": "1491",
+    "parentId": "1487",
+    "name": "Religious causes",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Religion and Spirituality",
+      "Religious Causes"
+    ]
+  },
+  {
+    "id": "1492",
+    "parentId": "1487",
+    "name": "Religious charities",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Religion and Spirituality",
+      "Religious Charities"
+    ]
+  },
+  {
+    "id": "1493",
+    "parentId": "1487",
+    "name": "Religious organizations",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Religion and Spirituality",
+      "Religious Organizations"
+    ]
+  },
+  {
+    "id": "1494",
+    "parentId": null,
+    "name": "Retail",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Retail"
+    ]
+  },
+  {
+    "id": "1495",
+    "parentId": "1494",
+    "name": "Arts and Crafts Supplies",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Retail",
+      "Arts and Crafts Supplies"
+    ]
+  },
+  {
+    "id": "1496",
+    "parentId": "1494",
+    "name": "Cell Phone Stores",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Retail",
+      "Cell Phone Stores"
+    ]
+  },
+  {
+    "id": "1497",
+    "parentId": "1494",
+    "name": "Clothing Stores",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Retail",
+      "Clothing Stores"
+    ]
+  },
+  {
+    "id": "1498",
+    "parentId": "1494",
+    "name": "Department Stores",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Retail",
+      "Department Stores"
+    ]
+  },
+  {
+    "id": "1499",
+    "parentId": "1494",
+    "name": "eCommerce",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Retail",
+      "eCommerce"
+    ]
+  },
+  {
+    "id": "1500",
+    "parentId": "1494",
+    "name": "Factory Outlet Stores",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Retail",
+      "Factory Outlet Stores"
+    ]
+  },
+  {
+    "id": "1501",
+    "parentId": "1494",
+    "name": "Grocery Stores and Supermarkets",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Retail",
+      "Grocery Stores and Supermarkets"
+    ]
+  },
+  {
+    "id": "1502",
+    "parentId": "1494",
+    "name": "Hardware Stores",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Retail",
+      "Hardware Stores"
+    ]
+  },
+  {
+    "id": "1503",
+    "parentId": "1494",
+    "name": "Musical Instruments and Record Stores",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Retail",
+      "Musical Instruments and Record Stores"
+    ]
+  },
+  {
+    "id": "1504",
+    "parentId": "1494",
+    "name": "Pawn Shops",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Retail",
+      "Pawn Shops"
+    ]
+  },
+  {
+    "id": "1505",
+    "parentId": "1494",
+    "name": "Pet and Pet Supply Stores",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Retail",
+      "Pet and Pet Supply Stores"
+    ]
+  },
+  {
+    "id": "1506",
+    "parentId": "1494",
+    "name": "Shopping Malls",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Retail",
+      "Shopping Malls"
+    ]
+  },
+  {
+    "id": "1507",
+    "parentId": "1494",
+    "name": "Specialty Stores",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Retail",
+      "Specialty Stores"
+    ]
+  },
+  {
+    "id": "1508",
+    "parentId": "1494",
+    "name": "Sporting Goods Stores",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Retail",
+      "Sporting Goods Stores"
+    ]
+  },
+  {
+    "id": "1509",
+    "parentId": "1494",
+    "name": "Ticket Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Retail",
+      "Ticket Services"
+    ]
+  },
+  {
+    "id": "1510",
+    "parentId": null,
+    "name": "Fitness Activities",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Fitness Activities"
+    ]
+  },
+  {
+    "id": "1511",
+    "parentId": "1510",
+    "name": "Dance Studios",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Fitness Activities",
+      "Dance Studios"
+    ]
+  },
+  {
+    "id": "1512",
+    "parentId": "1510",
+    "name": "Gyms and Health Clubs",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Fitness Activities",
+      "Gyms and Health Clubs"
+    ]
+  },
+  {
+    "id": "1513",
+    "parentId": "1510",
+    "name": "Participant Sports Leagues",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Fitness Activities",
+      "Participant Sports Leagues"
+    ]
+  },
+  {
+    "id": "1514",
+    "parentId": "1510",
+    "name": "Personal Trainers",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Fitness Activities",
+      "Personal Trainers"
+    ]
+  },
+  {
+    "id": "1515",
+    "parentId": "1510",
+    "name": "Self Defense and Martial Arts Classes",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Fitness Activities",
+      "Self Defense and Martial Arts Classes"
+    ]
+  },
+  {
+    "id": "1516",
+    "parentId": "1510",
+    "name": "Swimming Facilities",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Fitness Activities",
+      "Swimming Facilities"
+    ]
+  },
+  {
+    "id": "1517",
+    "parentId": "1510",
+    "name": "Workout and Step Tracking Applications",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Fitness Activities",
+      "Workout and Step Tracking Applications"
+    ]
+  },
+  {
+    "id": "1518",
+    "parentId": "1510",
+    "name": "Yoga Studios",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Fitness Activities",
+      "Yoga Studios"
+    ]
+  },
+  {
+    "id": "1519",
+    "parentId": null,
+    "name": "Sexual Health",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Sexual Health"
+    ]
+  },
+  {
+    "id": "1520",
+    "parentId": "1519",
+    "name": "Contraceptives",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Sexual Health",
+      "Contraceptives"
+    ]
+  },
+  {
+    "id": "1521",
+    "parentId": "1519",
+    "name": "Doctor Perscribed Medicines",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Sexual Health",
+      "Doctor Perscribed Medicines"
+    ]
+  },
+  {
+    "id": "1522",
+    "parentId": "1519",
+    "name": "Fertility Tracking Applications",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Sexual Health",
+      "Fertility Tracking Applications"
+    ]
+  },
+  {
+    "id": "1523",
+    "parentId": "1519",
+    "name": "Non-perscribed Performance Enhancers",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Sexual Health",
+      "Non-Perscribed Performance Enhancers"
+    ]
+  },
+  {
+    "id": "1524",
+    "parentId": null,
+    "name": "Sporting Goods",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Sporting Goods"
+    ]
+  },
+  {
+    "id": "1525",
+    "parentId": "1524",
+    "name": "Athletics Equipment",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Sporting Goods",
+      "Athletics Equipment"
+    ]
+  },
+  {
+    "id": "1526",
+    "parentId": "1524",
+    "name": "Exercise and Fitness Equipment",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Sporting Goods",
+      "Exercise and Fitness Equipment"
+    ]
+  },
+  {
+    "id": "1527",
+    "parentId": "1524",
+    "name": "Indoor Games Equipment",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Sporting Goods",
+      "Indoor Games Equipment"
+    ]
+  },
+  {
+    "id": "1528",
+    "parentId": "1524",
+    "name": "Outdoor Recreation Equipment",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Sporting Goods",
+      "Outdoor Recreation Equipment"
+    ]
+  },
+  {
+    "id": "1529",
+    "parentId": null,
+    "name": "Travel and Tourism",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Travel and Tourism"
+    ]
+  },
+  {
+    "id": "1530",
+    "parentId": "1529",
+    "name": "Accommodations",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Travel and Tourism",
+      "Accommodations"
+    ]
+  },
+  {
+    "id": "1531",
+    "parentId": "1530",
+    "name": "Bed and Breakfasts",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Travel and Tourism",
+      "Accommodations",
+      "Bed and Breakfasts"
+    ]
+  },
+  {
+    "id": "1532",
+    "parentId": "1530",
+    "name": "Camping and Camp Grounds",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Travel and Tourism",
+      "Accommodations",
+      "Camping and Camp Grounds"
+    ]
+  },
+  {
+    "id": "1533",
+    "parentId": "1530",
+    "name": "Hotels and Resorts",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Travel and Tourism",
+      "Accommodations",
+      "Hotels and Resorts"
+    ]
+  },
+  {
+    "id": "1534",
+    "parentId": "1530",
+    "name": "Motels",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Travel and Tourism",
+      "Accommodations",
+      "Motels"
+    ]
+  },
+  {
+    "id": "1535",
+    "parentId": "1530",
+    "name": "Timeshares",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Travel and Tourism",
+      "Accommodations",
+      "Timeshares"
+    ]
+  },
+  {
+    "id": "1536",
+    "parentId": "1530",
+    "name": "Vacation Rentals",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Travel and Tourism",
+      "Accommodations",
+      "Vacation Rentals"
+    ]
+  },
+  {
+    "id": "1537",
+    "parentId": "1529",
+    "name": "Air Travel",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Travel and Tourism",
+      "Air Travel"
+    ]
+  },
+  {
+    "id": "1538",
+    "parentId": "1529",
+    "name": "Cruises",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Travel and Tourism",
+      "Cruises"
+    ]
+  },
+  {
+    "id": "1539",
+    "parentId": "1529",
+    "name": "Rail Travel",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Travel and Tourism",
+      "Rail Travel"
+    ]
+  },
+  {
+    "id": "1540",
+    "parentId": "1529",
+    "name": "Sightseeing Tours and Activities",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Travel and Tourism",
+      "Sightseeing Tours and Activities"
+    ]
+  },
+  {
+    "id": "1541",
+    "parentId": "1529",
+    "name": "Travel Agents and Online Travel Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Travel and Tourism",
+      "Travel Agents and Online Travel Services"
+    ]
+  },
+  {
+    "id": "1542",
+    "parentId": "1529",
+    "name": "Travel Packages",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Travel and Tourism",
+      "Travel Packages"
+    ]
+  },
+  {
+    "id": "1543",
+    "parentId": "1529",
+    "name": "Travel Planning and Itinerary Management Applications",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Travel and Tourism",
+      "Travel Planning and Itinerary Management Applications"
+    ]
+  },
+  {
+    "id": "1544",
+    "parentId": null,
+    "name": "Tobacco",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Tobacco"
+    ]
+  },
+  {
+    "id": "1545",
+    "parentId": "1544",
+    "name": "Cigars",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Tobacco",
+      "Cigars"
+    ]
+  },
+  {
+    "id": "1546",
+    "parentId": "1544",
+    "name": "Cigarettes",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Tobacco",
+      "Cigarettes"
+    ]
+  },
+  {
+    "id": "1547",
+    "parentId": "1544",
+    "name": "Smokeless Tobacco",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Tobacco",
+      "Smokeless Tobacco"
+    ]
+  },
+  {
+    "id": "1548",
+    "parentId": "1544",
+    "name": "Vaping",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Tobacco",
+      "Vaping"
+    ]
+  },
+  {
+    "id": "1549",
+    "parentId": "1544",
+    "name": "Vaping Cartridges",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Tobacco",
+      "Vaping Cartridges"
+    ]
+  },
+  {
+    "id": "1550",
+    "parentId": "1544",
+    "name": "Vaporizors",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Tobacco",
+      "Vaporizors"
+    ]
+  },
+  {
+    "id": "1551",
+    "parentId": null,
+    "name": "Vehicles",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Vehicles"
+    ]
+  },
+  {
+    "id": "1552",
+    "parentId": "1551",
+    "name": "Automotive Leasing",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Vehicles",
+      "Automotive Leasing"
+    ]
+  },
+  {
+    "id": "1553",
+    "parentId": "1551",
+    "name": "Automotive Ownership",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Vehicles",
+      "Automotive Ownership"
+    ]
+  },
+  {
+    "id": "1554",
+    "parentId": "1553",
+    "name": "New vehicle Ownership",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Vehicles",
+      "Automotive Ownership",
+      "New Vehicle Ownership"
+    ]
+  },
+  {
+    "id": "1555",
+    "parentId": "1553",
+    "name": "Pre-owned Automotive Ownership",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Vehicles",
+      "Automotive Ownership",
+      "Pre-owned Automotive Ownership"
+    ]
+  },
+  {
+    "id": "1556",
+    "parentId": "1551",
+    "name": "Automotive Products",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Vehicles",
+      "Automotive Products"
+    ]
+  },
+  {
+    "id": "1557",
+    "parentId": "1556",
+    "name": "Automotive Care Products",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Vehicles",
+      "Automotive Products",
+      "Automotive Care Products"
+    ]
+  },
+  {
+    "id": "1558",
+    "parentId": "1556",
+    "name": "Automotive Parts and Accessories",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Vehicles",
+      "Automotive Products",
+      "Automotive Parts and Accessories"
+    ]
+  },
+  {
+    "id": "1559",
+    "parentId": "1556",
+    "name": "Aftermarket Parts and Accessories",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Vehicles",
+      "Automotive Products",
+      "Aftermarket Parts and Accessories"
+    ]
+  },
+  {
+    "id": "1560",
+    "parentId": "1551",
+    "name": "Automotive Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Vehicles",
+      "Automotive Services"
+    ]
+  },
+  {
+    "id": "1561",
+    "parentId": "1560",
+    "name": "Auto Towing",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Vehicles",
+      "Automotive Services",
+      "Auto Towing"
+    ]
+  },
+  {
+    "id": "1562",
+    "parentId": "1560",
+    "name": "Auto Repair",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Vehicles",
+      "Automotive Services",
+      "Auto Repair"
+    ]
+  },
+  {
+    "id": "1563",
+    "parentId": "1560",
+    "name": "Car Wash",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Vehicles",
+      "Automotive Services",
+      "Car Wash"
+    ]
+  },
+  {
+    "id": "1564",
+    "parentId": "1551",
+    "name": "Automotive Sales Applications",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Vehicles",
+      "Automotive Sales Applications"
+    ]
+  },
+  {
+    "id": "1565",
+    "parentId": "1551",
+    "name": "Ride-sharing Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Vehicles",
+      "Ride-sharing Services"
+    ]
+  },
+  {
+    "id": "1566",
+    "parentId": "1551",
+    "name": "Taxi Services",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Vehicles",
+      "Taxi Services"
+    ]
+  },
+  {
+    "id": "1567",
+    "parentId": "1551",
+    "name": "Vehicle Rental",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Vehicles",
+      "Vehicle Rental"
+    ]
+  },
+  {
+    "id": "1568",
+    "parentId": "1551",
+    "name": "Vehicle Type",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Vehicles",
+      "Vehicle Type"
+    ]
+  },
+  {
+    "id": "1569",
+    "parentId": "1568",
+    "name": "Boats",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Vehicles",
+      "Vehicle Type",
+      "Boats"
+    ]
+  },
+  {
+    "id": "1570",
+    "parentId": "1568",
+    "name": "Diesel Vehicles",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Vehicles",
+      "Vehicle Type",
+      "Diesel Vehicles"
+    ]
+  },
+  {
+    "id": "1571",
+    "parentId": "1568",
+    "name": "Electric Vehicles",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Vehicles",
+      "Vehicle Type",
+      "Electric Vehicles"
+    ]
+  },
+  {
+    "id": "1572",
+    "parentId": "1568",
+    "name": "Gas Vehicles",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Vehicles",
+      "Vehicle Type",
+      "Gas Vehicles"
+    ]
+  },
+  {
+    "id": "1573",
+    "parentId": "1568",
+    "name": "Hybrid Vehicles",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Vehicles",
+      "Vehicle Type",
+      "Hybrid Vehicles"
+    ]
+  },
+  {
+    "id": "1574",
+    "parentId": "1568",
+    "name": "Recreational Vehicles",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Vehicles",
+      "Vehicle Type",
+      "Recreational Vehicles"
+    ]
+  },
+  {
+    "id": "1575",
+    "parentId": "1568",
+    "name": "Scooters, Motorbikes, and E-bikes",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 3,
+    "tierPath": [
+      "Vehicles",
+      "Vehicle Type",
+      "Scooters, Motorbikes, and E-bikes"
+    ]
+  },
+  {
+    "id": "1576",
+    "parentId": null,
+    "name": "Weapons and Ammunition",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 1,
+    "tierPath": [
+      "Weapons and Ammunition"
+    ]
+  },
+  {
+    "id": "1577",
+    "parentId": "1576",
+    "name": "Ammunition",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Weapons and Ammunition",
+      "Ammunition"
+    ]
+  },
+  {
+    "id": "1578",
+    "parentId": "1576",
+    "name": "Guns",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Weapons and Ammunition",
+      "Guns"
+    ]
+  },
+  {
+    "id": "1579",
+    "parentId": "1576",
+    "name": "Gun Accessories",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Weapons and Ammunition",
+      "Gun Accessories"
+    ]
+  },
+  {
+    "id": "1580",
+    "parentId": "1576",
+    "name": "Gun Shows and Auctions",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Weapons and Ammunition",
+      "Gun Shows and Auctions"
+    ]
+  },
+  {
+    "id": "1581",
+    "parentId": "1576",
+    "name": "Non-Projectile Weapons",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Weapons and Ammunition",
+      "Non-Projectile Weapons"
+    ]
+  },
+  {
+    "id": "1582",
+    "parentId": "1576",
+    "name": "Taser and Stun Guns",
+    "taxonomyType": "ad_product",
+    "taxonomyVersion": "2.0",
+    "cattax": 6,
+    "tier": 2,
+    "tierPath": [
+      "Weapons and Ammunition",
+      "Taser and Stun Guns"
+    ]
+  }
+]

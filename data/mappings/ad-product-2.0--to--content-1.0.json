@@ -1,0 +1,8164 @@
+[
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1000",
+      "name": "Ad Safety Risk"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1001",
+      "name": "Adult Products and Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1002",
+      "name": "Alcohol"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-5",
+      "name": "Cocktails/Beer"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1003",
+      "name": "Bars"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-9",
+      "name": "Dining Out"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1004",
+      "name": "Beer"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-5",
+      "name": "Cocktails/Beer"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1005",
+      "name": "Hard Sodas, Seltzers, Alco Pops"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-6",
+      "name": "Cocktails/Beer"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1006",
+      "name": "Spirits"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-7",
+      "name": "Cocktails/Beer"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1007",
+      "name": "Wine"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-18",
+      "name": "Wine"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1008",
+      "name": "Culture and Fine Arts"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1",
+      "name": "Arts & Entertainment"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1009",
+      "name": "Museums and Galleries"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1",
+      "name": "Arts & Entertainment"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1010",
+      "name": "Business and Industrial"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1011",
+      "name": "Advertising and Marketing"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3-1",
+      "name": "Advertising"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1012",
+      "name": "Business Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1013",
+      "name": "Consulting"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1014",
+      "name": "Employee Expense and Time Tracking Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1015",
+      "name": "Event Planning"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1016",
+      "name": "Human Resources and Recruiting"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3-9",
+      "name": "Human Resources"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1017",
+      "name": "Information Technology Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1018",
+      "name": "Laundry and Dry Cleaning Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1019",
+      "name": "Logistics and Delivery"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3-10",
+      "name": "Logistics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1020",
+      "name": "Office Equipment and Supplies"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1021",
+      "name": "Photographers"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1022",
+      "name": "Printing/Fax/WiFi Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1023",
+      "name": "Public Relations and Strategic Communication"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1024",
+      "name": "Security and Protection"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1025",
+      "name": "Storage Facilities"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1026",
+      "name": "Telecom Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1027",
+      "name": "Web Hosting and Cloud Computing"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1028",
+      "name": "Construction"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3-5",
+      "name": "Construction"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1029",
+      "name": "Energy Industry"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1030",
+      "name": "Electric Power Industry"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1031",
+      "name": "Energy Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1032",
+      "name": "Green Energy"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3-8",
+      "name": "Green Solutions"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1033",
+      "name": "Oil, Gas and Consumable Fuels"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1034",
+      "name": "Forestry and Logging"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3-6",
+      "name": "Forestry"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1035",
+      "name": "Industrial Storage"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1036",
+      "name": "Industrials"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1037",
+      "name": "Aerospace and Defense"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1038",
+      "name": "Construction and Engineering"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3-5",
+      "name": "Construction"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1039",
+      "name": "Industrial Conglomerates"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1040",
+      "name": "Trading Companies and Distributors"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1041",
+      "name": "Transportation"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1042",
+      "name": "Manufacturing"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1043",
+      "name": "Medical and Biotechnology"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3-3",
+      "name": "Biotech/Biomedical"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1044",
+      "name": "Mining and Quarrying"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1045",
+      "name": "Science and Laboratory"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Science"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1046",
+      "name": "Signage"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1047",
+      "name": "Small Business"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1048",
+      "name": "Waste Disposal and Recycling"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1049",
+      "name": "Cannabis"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1050",
+      "name": "Cannabis Consumables"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1051",
+      "name": "Cannabis Drinks"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1052",
+      "name": "Cannabis Edibles"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1053",
+      "name": "Cannabis Equipment"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1054",
+      "name": "Cannabis Stores"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1055",
+      "name": "Cannabis Stocks"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1056",
+      "name": "CBD Consumables"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1057",
+      "name": "CBD Topicals"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1058",
+      "name": "Clothing and Accessories"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18",
+      "name": "Style & Fashion"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1059",
+      "name": "Clothing"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-5",
+      "name": "Clothing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1060",
+      "name": "Children's Clothing"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-5",
+      "name": "Clothing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1061",
+      "name": "Maternity Clothing"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-5",
+      "name": "Clothing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1062",
+      "name": "Men's Clothing"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-5",
+      "name": "Clothing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1063",
+      "name": "Sportswear"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-5",
+      "name": "Clothing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1064",
+      "name": "Swimwear"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-5",
+      "name": "Clothing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1065",
+      "name": "Underwear and Lingerie"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-5",
+      "name": "Clothing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1066",
+      "name": "Wedding Dresses/Bridal Wear/Tuxedos"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-5",
+      "name": "Clothing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1067",
+      "name": "Women's Clothing"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-5",
+      "name": "Clothing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1068",
+      "name": "Clothing Accessories"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-6",
+      "name": "Accessories"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1069",
+      "name": "Costumes and Accessories"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-6",
+      "name": "Accessories"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1070",
+      "name": "Footwear"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-6",
+      "name": "Accessories"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1071",
+      "name": "Footwear Accessories"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-6",
+      "name": "Accessories"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1072",
+      "name": "Handbags and Wallets"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-6",
+      "name": "Accessories"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1073",
+      "name": "Jewelry and Watches"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-4",
+      "name": "Jewelry"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1074",
+      "name": "Sunglasses"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-6",
+      "name": "Accessories"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1075",
+      "name": "Collectables and Antiques"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-10",
+      "name": "Collecting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1076",
+      "name": "Antiques"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9",
+      "name": "Hobbies & Interests"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1077",
+      "name": "Coins and Paper Money"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-29",
+      "name": "Stamps & Coins"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1078",
+      "name": "Collectibles"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-10",
+      "name": "Collecting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1079",
+      "name": "Entertainment Memorabilia"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9",
+      "name": "Hobbies & Interests"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1080",
+      "name": "Sports Memorabilia and Trading Cards"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9",
+      "name": "Hobbies & Interests"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1081",
+      "name": "Stamps"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-29",
+      "name": "Stamps & Coins"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1082",
+      "name": "Computer Software"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1083",
+      "name": "Enterprise Computer Software"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1084",
+      "name": "Personal Computer Software"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1085",
+      "name": "Toolbars"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1086",
+      "name": "Browser Extensions"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1087",
+      "name": "Downloadable Utilities"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1088",
+      "name": "Cosmetic Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1089",
+      "name": "Beauty Salons"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1090",
+      "name": "Hair Salons"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1091",
+      "name": "Hair Removal"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1092",
+      "name": "Hair Restoration"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1093",
+      "name": "Nail Salons"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1094",
+      "name": "Med Spas"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1095",
+      "name": "Piercing and Tattooing"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-2",
+      "name": "Body Art"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1096",
+      "name": "Tanning Salons"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1098",
+      "name": "Arcade Equipment"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-30",
+      "name": "Video & Computer Games"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1099",
+      "name": "Camcorders"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-5",
+      "name": "Cameras & Camcorders"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1100",
+      "name": "Cameras and Photo"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-5",
+      "name": "Cameras & Camcorders"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1101",
+      "name": "Camera and Photo Accessories"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-5",
+      "name": "Cameras & Camcorders"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1102",
+      "name": "Cameras"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-5",
+      "name": "Cameras & Camcorders"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1103",
+      "name": "Photo Applications"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-5",
+      "name": "Cameras & Camcorders"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1104",
+      "name": "Circuit Boards and Components"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1105",
+      "name": "Communications Electronics"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1106",
+      "name": "Computers"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1107",
+      "name": "Laptops"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-28",
+      "name": "Portable"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1108",
+      "name": "Desktops"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1109",
+      "name": "E-Readers"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-28",
+      "name": "Portable"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1110",
+      "name": "Electronics Accessories"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1111",
+      "name": "Headphones"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1112",
+      "name": "Home Theater Systems"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-6",
+      "name": "Home Theater"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1113",
+      "name": "Marine Electronics"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1114",
+      "name": "Mobile Phones and Accessories"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-6",
+      "name": "Cell Phones"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1115",
+      "name": "Networking"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-8",
+      "name": "Computer Networking"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1116",
+      "name": "Printers/Copiers/Scanners/Fax"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1117",
+      "name": "Security Devices"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-25",
+      "name": "Network Security"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1118",
+      "name": "Tablets"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-28",
+      "name": "Portable"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1119",
+      "name": "Televisions"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-29",
+      "name": "Entertainment"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1120",
+      "name": "Video Games and Consoles"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-30",
+      "name": "Video & Computer Games"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1121",
+      "name": "Video Games and Consoles"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1122",
+      "name": "Video Game Console Accessories"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1123",
+      "name": "Consumer Packaged Goods"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-6",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1124",
+      "name": "Baby and Toddler Products"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB6",
+      "name": "Family & Parenting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1125",
+      "name": "Diapers"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB6",
+      "name": "Family & Parenting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1126",
+      "name": "Nursing and Feeding Products"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB6",
+      "name": "Family & Parenting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1127",
+      "name": "Back to School Supplies"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB6",
+      "name": "Family & Parenting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1128",
+      "name": "Barbeque"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-2",
+      "name": "Barbecues & Grilling"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1129",
+      "name": "Charcoal"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-2",
+      "name": "Barbecues & Grilling"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1130",
+      "name": "Charcoal Lighter Fluids"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-2",
+      "name": "Barbecues & Grilling"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1131",
+      "name": "Beverages"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1132",
+      "name": "Carbonated Soft Drinks"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1133",
+      "name": "Coffee and Tea"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-6",
+      "name": "Coffee/Tea"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1134",
+      "name": "Drink Mixes"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1135",
+      "name": "Juices"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1136",
+      "name": "Sports/Energy Drinks"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1137",
+      "name": "Water"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1138",
+      "name": "Cosmetics"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1139",
+      "name": "Cosmetics Accessories"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1140",
+      "name": "Cosmetics-Nail"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1141",
+      "name": "Eye"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1142",
+      "name": "Facial"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1143",
+      "name": "Lip"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1144",
+      "name": "Storage"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1145",
+      "name": "Disposable Tableware"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-2",
+      "name": "Entertaining"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1146",
+      "name": "Cups and Plates"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-2",
+      "name": "Entertaining"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1147",
+      "name": "Disposable Tableware"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-2",
+      "name": "Entertaining"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1148",
+      "name": "Foils, Wraps, and Bags"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1149",
+      "name": "Foil Pans"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1150",
+      "name": "Foils and Wraps"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1151",
+      "name": "Food and Trash Bags"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1152",
+      "name": "Fragrance"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1153",
+      "name": "Fragrances - Women's"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1154",
+      "name": "Shaving Lotion/Men's Fragrance"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1155",
+      "name": "Frozen"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1156",
+      "name": "Frozen Baked Goods"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1157",
+      "name": "Frozen Beverages"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1158",
+      "name": "Frozen Desserts"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1159",
+      "name": "Frozen Fruits and Vegetables"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1160",
+      "name": "Frozen Juices"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1161",
+      "name": "Frozen Meals"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1162",
+      "name": "Frozen Meat/Poultry/Seafood"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1163",
+      "name": "Frozen Snacks"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1164",
+      "name": "Other Frozen"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1165",
+      "name": "General Food"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1166",
+      "name": "Baby Food"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1167",
+      "name": "Bakery"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-8",
+      "name": "Desserts & Baking"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1168",
+      "name": "Baking"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-8",
+      "name": "Desserts & Baking"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1169",
+      "name": "Breakfast"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1170",
+      "name": "Candy"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1171",
+      "name": "Condiments and Sauces"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1172",
+      "name": "Cookies and Crackers"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1173",
+      "name": "Fruit"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1174",
+      "name": "Meals"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1175",
+      "name": "Snacks"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1176",
+      "name": "Vegetables"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1177",
+      "name": "General Merchandise"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1178",
+      "name": "Grooming Supplies"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1179",
+      "name": "Hair Care"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1180",
+      "name": "Hair Accessories"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1181",
+      "name": "Hair Coloring"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1182",
+      "name": "Hair Conditioner"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1183",
+      "name": "Hair Growth Products"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1184",
+      "name": "Hair Spray/Spritz"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1185",
+      "name": "Hair Styling Gel/Mousse"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1186",
+      "name": "Home Permanent/Relaxer Kits"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1187",
+      "name": "Shampoo"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1188",
+      "name": "HFSS Products [High Fat, Sugar, Salt]"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1189",
+      "name": "Home Care"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1190",
+      "name": "Household Cleaning"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1191",
+      "name": "Laundry"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1192",
+      "name": "Hosiery"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-5",
+      "name": "Clothing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1193",
+      "name": "Pantyhose/Nylons"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-6",
+      "name": "Accessories"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1194",
+      "name": "Socks"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-6",
+      "name": "Accessories"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1195",
+      "name": "Tights"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-6",
+      "name": "Accessories"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1196",
+      "name": "Household/Plastics/Storage"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1197",
+      "name": "Bottles"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1198",
+      "name": "Drinkware"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1199",
+      "name": "Household Plastics"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1200",
+      "name": "Kitchen Storage"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1201",
+      "name": "Meal Kits"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1202",
+      "name": "Miscellaneous General Merch"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1203",
+      "name": "Office/School Supplies"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB6",
+      "name": "Family & Parenting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1204",
+      "name": "Children's Art Supplies"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB6",
+      "name": "Family & Parenting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1205",
+      "name": "Computer Disks Frmtd/UnFrmtd"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB4",
+      "name": "Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1206",
+      "name": "Office Products"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB4",
+      "name": "Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1207",
+      "name": "Writing Instruments"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB6",
+      "name": "Family & Parenting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1208",
+      "name": "Over the Counter Medication"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7",
+      "name": "Health & Fitness"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1209",
+      "name": "Paper Products"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1210",
+      "name": "Facial Tissue"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1211",
+      "name": "Paper Napkins"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1212",
+      "name": "Paper Towels"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1213",
+      "name": "Toilet Tissue"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1214",
+      "name": "Personal Care"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1215",
+      "name": "Personal Cleansing"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1216",
+      "name": "Bath Products"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1217",
+      "name": "Bath/Body Scrubbers/Massagers"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1218",
+      "name": "Deodorant"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1219",
+      "name": "Moist Towelettes"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1220",
+      "name": "Soap"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1221",
+      "name": "Pest Control"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1222",
+      "name": "Outdoor Insect/Rodent Control Chem"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1223",
+      "name": "Pest Control"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1224",
+      "name": "Pet Care"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB16",
+      "name": "Pets"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1225",
+      "name": "Cat/Dog Litter"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB16",
+      "name": "Pets"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1226",
+      "name": "Pet Food"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB16",
+      "name": "Pets"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1227",
+      "name": "Pet Supplies"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB16",
+      "name": "Pets"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1228",
+      "name": "Pet Treats"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB16",
+      "name": "Pets"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1229",
+      "name": "Refrigerated"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1230",
+      "name": "Dairy"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1231",
+      "name": "Refrigerated Baked Goods"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-8",
+      "name": "Desserts & Baking"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1232",
+      "name": "Refrigerated Beverages"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1233",
+      "name": "Refrigerated Condiments"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1234",
+      "name": "Refrigerated Desserts"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-8",
+      "name": "Desserts & Baking"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1235",
+      "name": "Refrigerated Dough"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-8",
+      "name": "Desserts & Baking"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1236",
+      "name": "Refrigerated Meals"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1237",
+      "name": "Refrigerated Meats"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1238",
+      "name": "Refrigerated Miscellaneous"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1239",
+      "name": "Religious Items"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB23",
+      "name": "Religion & Spirituality"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1240",
+      "name": "Shaving"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1241",
+      "name": "Blades"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1242",
+      "name": "Razors"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1243",
+      "name": "Shaving Cream"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1244",
+      "name": "Skin Care"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1245",
+      "name": "Hand and Body Lotion"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1246",
+      "name": "Skin Care"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1247",
+      "name": "Suntan Products"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1248",
+      "name": "Toys and Games"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9",
+      "name": "Hobbies & Interests"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1249",
+      "name": "Games"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9",
+      "name": "Hobbies & Interests"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1250",
+      "name": "Outdoor Play Equipment"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9",
+      "name": "Hobbies & Interests"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1251",
+      "name": "Puzzles"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-5",
+      "name": "Board Games/Puzzles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1252",
+      "name": "Toys"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9",
+      "name": "Hobbies & Interests"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1253",
+      "name": "Vitamins and Supplements"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7",
+      "name": "Health & Fitness"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1254",
+      "name": "Digestive Supplements"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7",
+      "name": "Health & Fitness"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1255",
+      "name": "Weightloss Supplements"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7",
+      "name": "Health & Fitness"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1256",
+      "name": "Water Treatment"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1257",
+      "name": "Water Filter/Devices"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1258",
+      "name": "Water Softeners/Treatment"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1259",
+      "name": "Dating"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB14-1",
+      "name": "Dating"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1260",
+      "name": "Casual Relationships"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB14-1",
+      "name": "Dating"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1261",
+      "name": "Serious Relationships"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB14-1",
+      "name": "Dating"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1262",
+      "name": "Debated Sensitive Social Issue"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB11",
+      "name": "Law, Gov't & Politics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1263",
+      "name": "Dieting and Weightloss"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-44",
+      "name": "Weight Loss"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1264",
+      "name": "Food Logging"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-44",
+      "name": "Weight Loss"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1265",
+      "name": "Weightloss Servies"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-44",
+      "name": "Weight Loss"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1266",
+      "name": "Workout and Step Tracking Applications"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-44",
+      "name": "Weight Loss"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1267",
+      "name": "Durable Goods"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1268",
+      "name": "Electronics/Photography"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1269",
+      "name": "Batteries"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1270",
+      "name": "Blank Audio/Video Media"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1271",
+      "name": "Photography Supplies"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-5",
+      "name": "Cameras & Camcorders"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1272",
+      "name": "Furniture"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1273",
+      "name": "Indoor Furniture"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1274",
+      "name": "Outdoor Furniture"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1275",
+      "name": "Grooming Supplies"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1276",
+      "name": "Electric Shaver Groomer"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1277",
+      "name": "Hair Appliances"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Beauty"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1278",
+      "name": "Tools and Hardware"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1279",
+      "name": "Consumer Hardware Supplies"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1280",
+      "name": "Industrial Hardware Supplies"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1281",
+      "name": "Home and Garden Products"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1282",
+      "name": "Bathroom Accessories"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1283",
+      "name": "Bedroom Furniture and Accessories"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1284",
+      "name": "Carpets and Rugs"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1285",
+      "name": "Fireplaces"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1286",
+      "name": "Home Decor"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-7",
+      "name": "Interior Decorating"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1287",
+      "name": "Housewares"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1288",
+      "name": "Kitchen and Dining Products"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-1",
+      "name": "Appliances"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1289",
+      "name": "Lawn and Garden Products"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-4",
+      "name": "Gardening"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1290",
+      "name": "Lighting"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1291",
+      "name": "Linens and Bedding"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1292",
+      "name": "Plants"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-4",
+      "name": "Gardening"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1293",
+      "name": "Household Appliances"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-1",
+      "name": "Appliances"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1294",
+      "name": "Luggage and Bags"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20",
+      "name": "Travel"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1295",
+      "name": "Education and Careers"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5",
+      "name": "Education"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1296",
+      "name": "Adult Education"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5-2",
+      "name": "Adult Education"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1297",
+      "name": "Certificaiton Programs"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5",
+      "name": "Education"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1298",
+      "name": "Colleges and Universities"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5-5",
+      "name": "College Life"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1299",
+      "name": "Post-Graduate Education"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5-9",
+      "name": "Graduate School"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1300",
+      "name": "Education Applications"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5",
+      "name": "Education"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1301",
+      "name": "Employment Agencies"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB4-1",
+      "name": "Career Planning"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1302",
+      "name": "Higher Education"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5-9",
+      "name": "Graduate School"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1303",
+      "name": "Language Learning"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5-8",
+      "name": "Language Learning"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1304",
+      "name": "Online Education"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5",
+      "name": "Education"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1305",
+      "name": "Primary Education"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5",
+      "name": "Education"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1306",
+      "name": "Remote work and school"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB4-9",
+      "name": "Telecommuting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1307",
+      "name": "Distance learning"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5-6",
+      "name": "Distance Learning"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1308",
+      "name": "Homeschooling"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5-10",
+      "name": "Homeschooling"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1309",
+      "name": "Online Surveys"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5",
+      "name": "Education"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1310",
+      "name": "Multi-Level Marketing"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB4",
+      "name": "Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1311",
+      "name": "Telecommuting"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB4-9",
+      "name": "Telecommuting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1312",
+      "name": "Study Skills"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5-11",
+      "name": "Homework/Study Tips"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1313",
+      "name": "Teaching Resources"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5",
+      "name": "Education"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1314",
+      "name": "Trade Schools"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5",
+      "name": "Education"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1315",
+      "name": "Events and Performances"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1",
+      "name": "Arts & Entertainment"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1316",
+      "name": "Auctions"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1",
+      "name": "Arts & Entertainment"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1317",
+      "name": "Cinemas and Movie Events"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1-5",
+      "name": "Movies"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1318",
+      "name": "Comedy Events"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1-4",
+      "name": "Humor"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1319",
+      "name": "Concerts"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1-6",
+      "name": "Music"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1320",
+      "name": "Conferences, Lectures and Workshops"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1",
+      "name": "Arts & Entertainment"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1321",
+      "name": "Exhibitions"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1",
+      "name": "Arts & Entertainment"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1322",
+      "name": "Fan Conventions"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1",
+      "name": "Arts & Entertainment"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1323",
+      "name": "Fashion Events"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1",
+      "name": "Arts & Entertainment"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1324",
+      "name": "Nightlife Experiences"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1",
+      "name": "Arts & Entertainment"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1325",
+      "name": "Sporting Events"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1",
+      "name": "Arts & Entertainment"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1326",
+      "name": "Seasonal and Holiday Events"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1",
+      "name": "Arts & Entertainment"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1327",
+      "name": "Theatre and Musicals"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1-6",
+      "name": "Music"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1328",
+      "name": "Family and Parenting"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB6",
+      "name": "Family & Parenting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1329",
+      "name": "Childcare"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB6-3",
+      "name": "Daycare/Pre School"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1330",
+      "name": "Day Care Centers"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB6-3",
+      "name": "Daycare/Pre School"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1331",
+      "name": "Nanny Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB6",
+      "name": "Family & Parenting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1332",
+      "name": "Genealogy and Family Trees"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB6",
+      "name": "Family & Parenting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1333",
+      "name": "Kids Activities"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB6",
+      "name": "Family & Parenting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1334",
+      "name": "Senior Living"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB6-9",
+      "name": "Eldercare"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1335",
+      "name": "Finance and Insurance"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13",
+      "name": "Personal Finance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1336",
+      "name": "Accountants and Bookkeepers"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-12",
+      "name": "Tax Planning"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1337",
+      "name": "Banking"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-4",
+      "name": "Financial Planning"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1338",
+      "name": "Credit and Debt Repair/Credit Reporting"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-2",
+      "name": "Credit/Debt & Loans"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1339",
+      "name": "Credit Cards"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13",
+      "name": "Personal Finance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1340",
+      "name": "Insurance"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-6",
+      "name": "Insurance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1341",
+      "name": "Auto Insurance"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-6",
+      "name": "Insurance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1342",
+      "name": "Home Insurance"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-6",
+      "name": "Insurance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1343",
+      "name": "Life Insurance"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-6",
+      "name": "Insurance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1344",
+      "name": "Medical Insurance"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-6",
+      "name": "Insurance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1345",
+      "name": "Pet Insurance"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-6",
+      "name": "Insurance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1346",
+      "name": "Travel Insurance"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-6",
+      "name": "Insurance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1347",
+      "name": "Insurance Coverage Apps"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-6",
+      "name": "Insurance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1348",
+      "name": "Mortgage Lenders and Brokers"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-2",
+      "name": "Credit/Debt & Loans"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1349",
+      "name": "Payday and Emergency Loans"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-2",
+      "name": "Credit/Debt & Loans"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1350",
+      "name": "Retirement Planning"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-10",
+      "name": "Retirement Planning"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1351",
+      "name": "Stocks and Investments"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-7",
+      "name": "Investing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1352",
+      "name": "Financial Investment and Management Applications"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-7",
+      "name": "Investing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1353",
+      "name": "Student Financial Aid"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB4-3",
+      "name": "Financial Aid"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1354",
+      "name": "Tax Preparation Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-12",
+      "name": "Tax Planning"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1355",
+      "name": "Food and Beverage Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1356",
+      "name": "Bakeries"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-8",
+      "name": "Desserts & Baking"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1357",
+      "name": "Catering"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1358",
+      "name": "Fast Food"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1359",
+      "name": "Food Delivery Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1360",
+      "name": "Restaurants"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-9",
+      "name": "Dining Out"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1361",
+      "name": "Gambling"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1362",
+      "name": "Casinos"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1363",
+      "name": "Virtual Betting"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1364",
+      "name": "Contests"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1365",
+      "name": "Give Aways"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1366",
+      "name": "Lottery"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1367",
+      "name": "Sports Betting"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1368",
+      "name": "Green/Eco"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-3",
+      "name": "Environmental Safety"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1369",
+      "name": "Green/Eco Products"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-3",
+      "name": "Environmental Safety"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1370",
+      "name": "Green/Eco Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-3",
+      "name": "Environmental Safety"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1371",
+      "name": "Gifts and Holiday Items"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB22",
+      "name": "Shopping"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1372",
+      "name": "Flowers"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1373",
+      "name": "Gift Baskets"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB22",
+      "name": "Shopping"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1374",
+      "name": "Gift Cards and Coupons"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB22-2",
+      "name": "Couponing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1375",
+      "name": "Gift Certificates"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB22-2",
+      "name": "Couponing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1376",
+      "name": "Greeting Cards"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB22",
+      "name": "Shopping"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1377",
+      "name": "Party Goods"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB22",
+      "name": "Shopping"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1378",
+      "name": "Health and Medical Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7",
+      "name": "Health & Fitness"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1379",
+      "name": "Alternative and Natural Medicine"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-5",
+      "name": "Alternative Medicine"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1380",
+      "name": "Assisted Living"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB6-9",
+      "name": "Eldercare"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1381",
+      "name": "Chiropractors"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7",
+      "name": "Health & Fitness"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1382",
+      "name": "Clinical Research"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7",
+      "name": "Health & Fitness"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1383",
+      "name": "Cosmetic Medical Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7",
+      "name": "Health & Fitness"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1384",
+      "name": "Dental Care"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-17",
+      "name": "Dental Care"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1385",
+      "name": "Dermatology"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-19",
+      "name": "Dermatology"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1386",
+      "name": "Drugstores and Pharmacies"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7",
+      "name": "Health & Fitness"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1387",
+      "name": "Fertility and Family Planning"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-30",
+      "name": "Infertility"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1388",
+      "name": "General Practitioners"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7",
+      "name": "Health & Fitness"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1389",
+      "name": "Home Healthcare"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7",
+      "name": "Health & Fitness"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1390",
+      "name": "Hospitals"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7",
+      "name": "Health & Fitness"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1391",
+      "name": "Mental Health"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7",
+      "name": "Health & Fitness"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1392",
+      "name": "Physical Therapists"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-36",
+      "name": "Physical Therapy"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1393",
+      "name": "Service Provider Search and Scheduling"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7",
+      "name": "Health & Fitness"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1394",
+      "name": "Symptom Monitoring Apps"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7",
+      "name": "Health & Fitness"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1395",
+      "name": "Vision Care"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7",
+      "name": "Health & Fitness"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1396",
+      "name": "Home and Garden Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1397",
+      "name": "Appliance Repair"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-1",
+      "name": "Appliances"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1398",
+      "name": "Business and Home Security Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1399",
+      "name": "Carpeting and Flooring Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-9",
+      "name": "Remodeling & Construction"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1400",
+      "name": "Do It Yourself Applications"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-5",
+      "name": "Home Repair"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1401",
+      "name": "Emergency Preparedness"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1402",
+      "name": "Flood, Fire and Gas Safety"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1403",
+      "name": "Gas and Electric Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1404",
+      "name": "Home Improvement and Repair"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-5",
+      "name": "Home Repair"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1405",
+      "name": "Home Security and Monitoring Applications"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1406",
+      "name": "Home Service Provider Review"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1407",
+      "name": "Housekeeping Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1408",
+      "name": "Landscaping Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-8",
+      "name": "Landscaping"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1409",
+      "name": "Lawn and Garden Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-4",
+      "name": "Gardening"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1410",
+      "name": "Pest Exterminators"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-4",
+      "name": "Gardening"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1411",
+      "name": "Plumbers"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-5",
+      "name": "Home Repair"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1412",
+      "name": "Pool and Spa Installation and Maintenance"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-8",
+      "name": "Landscaping"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1413",
+      "name": "Remodeling and Construction"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-9",
+      "name": "Remodeling & Construction"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1414",
+      "name": "Water Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1415",
+      "name": "Window Installation and Treatments"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-9",
+      "name": "Remodeling & Construction"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1416",
+      "name": "Legal Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB11",
+      "name": "Law, Gov't & Politics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1417",
+      "name": "Lawyers"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB11",
+      "name": "Law, Gov't & Politics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1418",
+      "name": "Bail Bonds"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB11",
+      "name": "Law, Gov't & Politics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1419",
+      "name": "Media"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1",
+      "name": "Arts & Entertainment"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1420",
+      "name": "Blogs/Forums/Social Networks"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1-2",
+      "name": "Celebrity Fan/Gossip"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1421",
+      "name": "Book Reading and Review Applications"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1-1",
+      "name": "Books & Literature"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1422",
+      "name": "Books and Audio Books"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1-1",
+      "name": "Books & Literature"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1423",
+      "name": "Casual Games"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-30",
+      "name": "Video & Computer Games"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1424",
+      "name": "Casual Games Apps"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-30",
+      "name": "Video & Computer Games"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1425",
+      "name": "Core Gaming"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-30",
+      "name": "Video & Computer Games"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1426",
+      "name": "Core Gaming Apps"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-30",
+      "name": "Video & Computer Games"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1427",
+      "name": "CDs and Vinyl Records"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1-6",
+      "name": "Music"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1428",
+      "name": "DVDs"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1-5",
+      "name": "Movies"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1429",
+      "name": "Live Television"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1-7",
+      "name": "Television"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1430",
+      "name": "Magazines and Newspapers"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB12",
+      "name": "News"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1431",
+      "name": "Music and Video Streaming Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1-6",
+      "name": "Music"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1432",
+      "name": "News and Analysis"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB12",
+      "name": "News"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1433",
+      "name": "Radio and Podcasts"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-24",
+      "name": "Radio"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1434",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17",
+      "name": "Sports"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1435",
+      "name": "Fantasy Sports"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17",
+      "name": "Sports"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1436",
+      "name": "Sports Highlights"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17",
+      "name": "Sports"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1437",
+      "name": "Team News and Analysis"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17",
+      "name": "Sports"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1438",
+      "name": "Utilities Apps"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1439",
+      "name": "Productivity Apps"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1440",
+      "name": "Reference Apps"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1441",
+      "name": "Search Engine Apps"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-35",
+      "name": "Web Search"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1442",
+      "name": "Weather Apps"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB15",
+      "name": "Weather"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1443",
+      "name": "Metals"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-29",
+      "name": "Stamps & Coins"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1444",
+      "name": "Coin Trade In"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-29",
+      "name": "Stamps & Coins"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1445",
+      "name": "Gold Trade In"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-29",
+      "name": "Stamps & Coins"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1446",
+      "name": "Platinum Trade In"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-29",
+      "name": "Stamps & Coins"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1447",
+      "name": "Silver Trade In"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-29",
+      "name": "Stamps & Coins"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1448",
+      "name": "Non-Fiat Currency"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1449",
+      "name": "Cryptocurrency Exchanges"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1450",
+      "name": "Cryptocurrency Stock"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1451",
+      "name": "NFTs"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1452",
+      "name": "Non-Profits"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1453",
+      "name": "Charities and Donations"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1454",
+      "name": "Civic Organizations"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1455",
+      "name": "Federations and Professional Associations"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1456",
+      "name": "Military Organizations"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB4-10",
+      "name": "U.S. Military"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1457",
+      "name": "Non-Governmental Organizations"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1458",
+      "name": "Public Service Announcements"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB11-5",
+      "name": "Commentary"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1459",
+      "name": "Scholarships"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB4-8",
+      "name": "Scholarships"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1460",
+      "name": "Pet Ownership"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB16",
+      "name": "Pets"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1461",
+      "name": "Pet Adoption"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB16",
+      "name": "Pets"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1462",
+      "name": "Pet Breeders"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB16",
+      "name": "Pets"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1463",
+      "name": "Pet Care and Supply Applications"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB16",
+      "name": "Pets"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1464",
+      "name": "Pet Grooming"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB16",
+      "name": "Pets"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1465",
+      "name": "Pet Sitting"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB16",
+      "name": "Pets"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1466",
+      "name": "Veterinary Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB16-7",
+      "name": "Veterinary Medicine"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1467",
+      "name": "Personal/Consumer Telcom"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1468",
+      "name": "Home Internet Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-18",
+      "name": "Internet Technology"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1469",
+      "name": "Home Phone Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1470",
+      "name": "Home Television Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1-7",
+      "name": "Television"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1471",
+      "name": "Mobile Phone Plans"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-6",
+      "name": "Cell Phones"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1472",
+      "name": "Prepaid International Phone Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1473",
+      "name": "Pharmaceuticals"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7",
+      "name": "Health & Fitness"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1474",
+      "name": "Politics"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB11-4",
+      "name": "Politics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1475",
+      "name": "Ballot measures"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB11",
+      "name": "Law, Gov't & Politics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1476",
+      "name": "Elections"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB11",
+      "name": "Law, Gov't & Politics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1477",
+      "name": "Political Action Committees"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB11",
+      "name": "Law, Gov't & Politics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1478",
+      "name": "Political Analysis and Opinion"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB11-5",
+      "name": "Commentary"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1479",
+      "name": "Political Candidates"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB11",
+      "name": "Law, Gov't & Politics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1480",
+      "name": "Political Donations"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB11",
+      "name": "Law, Gov't & Politics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1481",
+      "name": "Promoting Causes"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB11",
+      "name": "Law, Gov't & Politics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1482",
+      "name": "Real Estate"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB21",
+      "name": "Real Estate"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1483",
+      "name": "Commercial Real Estate"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB21",
+      "name": "Real Estate"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1484",
+      "name": "Real Estate Rentals"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB21",
+      "name": "Real Estate"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1485",
+      "name": "Real Estate Sales"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB21-3",
+      "name": "Buying/Selling Homes"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1486",
+      "name": "Real Estate Services For Owners"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB21-3",
+      "name": "Buying/Selling Homes"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1487",
+      "name": "Religion and Spirituality"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB23",
+      "name": "Religion & Spirituality"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1488",
+      "name": "Astrology"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB15-1",
+      "name": "Astrology"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1489",
+      "name": "Prayer and Mindfullness Applications"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB23",
+      "name": "Religion & Spirituality"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1490",
+      "name": "Prayer and worship services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB23",
+      "name": "Religion & Spirituality"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1491",
+      "name": "Religious causes"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB23",
+      "name": "Religion & Spirituality"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1492",
+      "name": "Religious charities"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB23",
+      "name": "Religion & Spirituality"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1493",
+      "name": "Religious organizaitions"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB23",
+      "name": "Religion & Spirituality"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1494",
+      "name": "Retail"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB22",
+      "name": "Shopping"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1495",
+      "name": "Arts and Crafts Supplies"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-2",
+      "name": "Arts & Crafts"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1496",
+      "name": "Cell Phone Stores"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-6",
+      "name": "Cell Phones"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1497",
+      "name": "Clothing Stores"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-5",
+      "name": "Clothing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1498",
+      "name": "Department Stores"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB22",
+      "name": "Shopping"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1499",
+      "name": "eCommerce"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB22-4",
+      "name": "Engines"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1500",
+      "name": "Factory Outlet Stores"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-5",
+      "name": "Clothing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1501",
+      "name": "Grocery Stores and Supermarkets"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1502",
+      "name": "Hardware Stores"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1503",
+      "name": "Musical Instruments and Record Stores"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1-6",
+      "name": "Music"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1504",
+      "name": "Pawn Shops"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9",
+      "name": "Hobbies & Interests"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1505",
+      "name": "Pet and Pet Supply Stores"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB16",
+      "name": "Pets"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1506",
+      "name": "Shopping Malls"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB22",
+      "name": "Shopping"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1507",
+      "name": "Specialty Stores"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB22",
+      "name": "Shopping"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1508",
+      "name": "Sporting Goods Stores"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17",
+      "name": "Sports"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1509",
+      "name": "Ticket Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1",
+      "name": "Arts & Entertainment"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17",
+      "name": "Sports"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1511",
+      "name": "Dance Studios"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17",
+      "name": "Sports"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1512",
+      "name": "Gyms and Health Clubs"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17",
+      "name": "Sports"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1513",
+      "name": "Participant Sports Leagues"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17",
+      "name": "Sports"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1514",
+      "name": "Personal Trainers"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7",
+      "name": "Health & Fitness"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1515",
+      "name": "Self Defense and Martial Arts Classes"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-20",
+      "name": "Martial Arts"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1516",
+      "name": "Swimming Facilities"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-38",
+      "name": "Swimming"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1517",
+      "name": "Workout and Step Tracking Applications"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-42",
+      "name": "Walking"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1518",
+      "name": "Yoga Studios"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17",
+      "name": "Sports"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1519",
+      "name": "Sexual Health"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7",
+      "name": "Health & Fitness"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1520",
+      "name": "Contraceptives"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7",
+      "name": "Health & Fitness"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1521",
+      "name": "Doctor Perscribed Medicines"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7",
+      "name": "Health & Fitness"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1522",
+      "name": "Fertility Tracking Applications"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-30",
+      "name": "Infertility"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1523",
+      "name": "Non-perscribed Performance Enhancers"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7",
+      "name": "Health & Fitness"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1524",
+      "name": "Sporting Goods"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17",
+      "name": "Sports"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1525",
+      "name": "Athletics Equipment"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17",
+      "name": "Sports"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1526",
+      "name": "Exercise and Fitness Equipment"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-1",
+      "name": "Exercise"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1527",
+      "name": "Indoor Games Equipment"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17",
+      "name": "Sports"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1528",
+      "name": "Outdoor Recreation Equipment"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17",
+      "name": "Sports"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1529",
+      "name": "Travel and Tourism"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20",
+      "name": "Travel"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1530",
+      "name": "Accomodations"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20",
+      "name": "Travel"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1531",
+      "name": "Bed and Breakfasts"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-5",
+      "name": "Bed & Breakfasts"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1532",
+      "name": "Camping and Camp Grounds"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-9",
+      "name": "Camping"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1533",
+      "name": "Hotels and Resorts"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-18",
+      "name": "Hotels"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1534",
+      "name": "Motels"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-6",
+      "name": "Budget Travel"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1535",
+      "name": "Timeshares"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20",
+      "name": "Travel"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1536",
+      "name": "Vacation Rentals"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20",
+      "name": "Travel"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1537",
+      "name": "Air Travel"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-3",
+      "name": "Air Travel"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1538",
+      "name": "Cruises"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-12",
+      "name": "Cruises"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1539",
+      "name": "Rail Travel"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20",
+      "name": "Travel"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1540",
+      "name": "Sightseeing Tours and Activities"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20",
+      "name": "Travel"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1541",
+      "name": "Travel Agents and Online Travel Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20",
+      "name": "Travel"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1542",
+      "name": "Travel Packages"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20",
+      "name": "Travel"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1543",
+      "name": "Travel Planning and Itinerary Management Applications"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20",
+      "name": "Travel"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1544",
+      "name": "Tobacco"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1545",
+      "name": "Cigars"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1546",
+      "name": "Cigarettes"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1547",
+      "name": "Smokeless Tobacco"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1548",
+      "name": "Vaping"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1549",
+      "name": "Vaping Cartridges"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1550",
+      "name": "Vaporizors"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1551",
+      "name": "Vehicles"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2",
+      "name": "Automotive"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1552",
+      "name": "Automotive Leasing"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2",
+      "name": "Automotive"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1553",
+      "name": "Automotive Ownership"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-3",
+      "name": "Buying/Selling Cars"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1554",
+      "name": "New vehicle Ownership"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-3",
+      "name": "Buying/Selling Cars"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1555",
+      "name": "Pre-owned Automotive Ownership"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-5",
+      "name": "Certified Pre-Owned"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1556",
+      "name": "Automotive Products"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2",
+      "name": "Automotive"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1557",
+      "name": "Automotive Care Products"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2",
+      "name": "Automotive"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1558",
+      "name": "Automotive Parts and Accessories"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-1",
+      "name": "Auto Parts"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1559",
+      "name": "Aftermarket Parts and Accessories"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-1",
+      "name": "Auto Parts"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1560",
+      "name": "Automotive Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2",
+      "name": "Automotive"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1561",
+      "name": "Auto Towing"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2",
+      "name": "Automotive"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1562",
+      "name": "Auto Repair"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-2",
+      "name": "Auto Repair"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1563",
+      "name": "Car Wash"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2",
+      "name": "Automotive"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1564",
+      "name": "Automotive Sales Applications"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2",
+      "name": "Automotive"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1565",
+      "name": "Ride-sharing Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2",
+      "name": "Automotive"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1566",
+      "name": "Taxi Services"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2",
+      "name": "Automotive"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1567",
+      "name": "Vehicle Rental"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2",
+      "name": "Automotive"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1568",
+      "name": "Vehicle Type"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2",
+      "name": "Automotive"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1569",
+      "name": "Boats"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2",
+      "name": "Automotive"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1570",
+      "name": "Diesel Vehicles"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-9",
+      "name": "Diesel"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1571",
+      "name": "Electric Vehicles"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-10",
+      "name": "Electric Vehicle"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1572",
+      "name": "Gas Vehicles"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2",
+      "name": "Automotive"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1573",
+      "name": "Hybrid Vehicles"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-12",
+      "name": "Hybrid"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1574",
+      "name": "Recreational Vehicles"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-16",
+      "name": "Off-Road Vehicles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1575",
+      "name": "Scooters, Motorbikes, and E-bikes"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2",
+      "name": "Automotive"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1576",
+      "name": "Weapons and Ammunition"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1577",
+      "name": "Ammunition"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1578",
+      "name": "Guns"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1579",
+      "name": "Gun Accessories"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1580",
+      "name": "Gun Shows and Auctions"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1581",
+      "name": "Non-Projectile Weapons"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1582",
+      "name": "Taster and Stun Guns"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    }
+  }
+]

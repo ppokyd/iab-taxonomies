@@ -1,0 +1,1531 @@
+[
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Arts",
+      "name": "Arts"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "201",
+      "name": "Fine Art"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Books",
+      "name": "Books"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "42",
+      "name": "Books and Literature"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Design",
+      "name": "Design"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "204",
+      "name": "Design"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Fashion & Beauty",
+      "name": "Fashion & Beauty"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "552",
+      "name": "Style & Fashion"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Food",
+      "name": "Food"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "210",
+      "name": "Food & Drink"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Performing Arts",
+      "name": "Performing Arts"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "209",
+      "name": "Theater"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Visual Arts",
+      "name": "Visual Arts"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "201",
+      "name": "Fine Art"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Business",
+      "name": "Business"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "52",
+      "name": "Business"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Careers",
+      "name": "Careers"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "123",
+      "name": "Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Entrepreneurship",
+      "name": "Entrepreneurship"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "61",
+      "name": "Startups"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Investing",
+      "name": "Investing"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "61",
+      "name": "Business and Finance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Management",
+      "name": "Management"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "76",
+      "name": "Executive Leadership & Management"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Marketing",
+      "name": "Marketing"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "106",
+      "name": "Industries"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Non-Profit",
+      "name": "Non-Profit"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "108",
+      "name": "Industries"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Comedy",
+      "name": "Comedy"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "348",
+      "name": "Comedy (Music and Audio)"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Comedy Interviews",
+      "name": "Comedy Interviews"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "348",
+      "name": "Comedy (Music and Audio)"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Improv",
+      "name": "Improv"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "348",
+      "name": "Comedy (Music and Audio)"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Stand-Up",
+      "name": "Stand-Up"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "348",
+      "name": "Comedy (Music and Audio)"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Education",
+      "name": "Education"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "132",
+      "name": "Education"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Courses",
+      "name": "Courses"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "132",
+      "name": "Education"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "How To",
+      "name": "How To"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "132",
+      "name": "Education"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Language Learning",
+      "name": "Language Learning"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "147",
+      "name": "Language Learning"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Self-Improvement",
+      "name": "Self-Improvement"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "132",
+      "name": "Education"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Fiction",
+      "name": "Fiction"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "48",
+      "name": "Fiction"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Comedy Fiction",
+      "name": "Comedy Fiction"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "646",
+      "name": "Comedy"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Drama",
+      "name": "Drama"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "647",
+      "name": "Drama"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Science Fiction",
+      "name": "Science Fiction"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "652",
+      "name": "Science Fiction"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Government",
+      "name": "Government"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "386",
+      "name": "Politics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "History",
+      "name": "History"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "EZWB7V",
+      "name": "History"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Health & Fitness",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "223",
+      "name": "Healthy Living"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Alternative Health",
+      "name": "Alternative Health"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "233",
+      "name": "Wellness"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Fitness",
+      "name": "Fitness"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "225",
+      "name": "Fitness aand Exercise"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Medicine",
+      "name": "Medicine"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "286",
+      "name": "Medical Health"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Mental Health",
+      "name": "Mental Health"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "301",
+      "name": "Mental Health"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Nutrition",
+      "name": "Nutrition"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "229",
+      "name": "Nutrition"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Sexuality",
+      "name": "Sexuality"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "186",
+      "name": "Family and Relationships"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Kids & Family",
+      "name": "Kids & Family"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "645",
+      "name": "Family/Children"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Education for Kids",
+      "name": "Education for Kids"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "142",
+      "name": "Early Childhood Education"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Parenting",
+      "name": "Parenting"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "192",
+      "name": "Parenting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Pets & Animals",
+      "name": "Pets & Animals"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "422",
+      "name": "Pets"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Stories for Kids",
+      "name": "Stories for Kids"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "645",
+      "name": "Family/Children"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Leisure",
+      "name": "Leisure"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "239",
+      "name": "Hobbies & Interests"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Animation & Manga",
+      "name": "Animation & Manga"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "641",
+      "name": "Animation & Anime"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Automotive",
+      "name": "Automotive"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "1",
+      "name": "Automotive"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Aviation",
+      "name": "Aviation"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "118",
+      "name": "Industries"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Crafts",
+      "name": "Crafts"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "248",
+      "name": "Arts and Crafts"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Games",
+      "name": "Games"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "269",
+      "name": "Games and Puzzles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Hobbies",
+      "name": "Hobbies"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "239",
+      "name": "Hobbies & Interests"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Home & Garden",
+      "name": "Home & Garden"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "274",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Video Games",
+      "name": "Video Games"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "680",
+      "name": "Video Gaming"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Music",
+      "name": "Music"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "338",
+      "name": "Music"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Music Commentary",
+      "name": "Music Commentary"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "338",
+      "name": "Music"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Music History",
+      "name": "Music History"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "338",
+      "name": "Music"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Music Interviews",
+      "name": "Music Interviews"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "338",
+      "name": "Music"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "News",
+      "name": "News"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "1020",
+      "name": "Informational"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Business News",
+      "name": "Business News"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "1020",
+      "name": "Informational"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Daily News",
+      "name": "Daily News"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "1020",
+      "name": "Informational"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Entertainment News",
+      "name": "Entertainment News"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "1020",
+      "name": "Informational"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "News Commentary",
+      "name": "News Commentary"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "1020",
+      "name": "Informational"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Politics",
+      "name": "Politics"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "386",
+      "name": "Politics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Sports News",
+      "name": "Sports News"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "1020",
+      "name": "Informational"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Tech News",
+      "name": "Tech News"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "1020",
+      "name": "Informational"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Religion & Spirituality",
+      "name": "Religion & Spirituality"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "453",
+      "name": "Religion & Spirituality"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Buddhism",
+      "name": "Buddhism"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "458",
+      "name": "Buddhism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Christianity",
+      "name": "Christianity"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "459",
+      "name": "Christianity"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Hinduism",
+      "name": "Hinduism"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "460",
+      "name": "Hinduism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Islam",
+      "name": "Islam"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "461",
+      "name": "Islam"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Judaism",
+      "name": "Judaism"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "462",
+      "name": "Judaism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Religion",
+      "name": "Religion"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "453",
+      "name": "Religion & Spirituality"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Spirituality",
+      "name": "Spirituality"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "453",
+      "name": "Religion & Spirituality"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Science",
+      "name": "Science"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "464",
+      "name": "Science"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Astronomy",
+      "name": "Astronomy"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "472",
+      "name": "Space and Astronomy"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Chemistry",
+      "name": "Chemistry"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "466",
+      "name": "Chemistry"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Earth Sciences",
+      "name": "Earth Sciences"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "470",
+      "name": "Geology"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Life Sciences",
+      "name": "Life Sciences"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "465",
+      "name": "Biological Sciences"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Mathematics",
+      "name": "Mathematics"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "132",
+      "name": "Education"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Natural Sciences",
+      "name": "Natural Sciences"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "464",
+      "name": "Science"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Nature",
+      "name": "Nature"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "464",
+      "name": "Science"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Physics",
+      "name": "Physics"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "471",
+      "name": "Physics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Social Sciences",
+      "name": "Social Sciences"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "132",
+      "name": "Education"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Society & Culture",
+      "name": "Society & Culture"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "432",
+      "name": "Pop Culture"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Documentary",
+      "name": "Documentary"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "332",
+      "name": "Documentary"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Personal Journals",
+      "name": "Personal Journals"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "256",
+      "name": "Scrapbooking"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Philosophy",
+      "name": "Philosophy"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "132",
+      "name": "Education"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Places & Travel",
+      "name": "Places & Travel"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "653",
+      "name": "Travel"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Relationships",
+      "name": "Relationships"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "186",
+      "name": "Family and Relationships"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Sports",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "483",
+      "name": "Sports"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Baseball",
+      "name": "Baseball"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "545",
+      "name": "Baseball"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Basketball",
+      "name": "Basketball"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "547",
+      "name": "Basketball"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Cricket",
+      "name": "Cricket"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "491",
+      "name": "Cricket"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Fantasy Sports",
+      "name": "Fantasy Sports"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "508",
+      "name": "Fantasy Sports"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Football",
+      "name": "Football"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "484",
+      "name": "American Football"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Golf",
+      "name": "Golf"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "512",
+      "name": "Golf"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Hockey",
+      "name": "Hockey"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "515",
+      "name": "Ice Hockey"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Rugby",
+      "name": "Rugby"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "527",
+      "name": "Rugby"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Soccer",
+      "name": "Soccer"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "533",
+      "name": "Soccer"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Swimming",
+      "name": "Swimming"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "537",
+      "name": "Swimming"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Tennis",
+      "name": "Tennis"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "539",
+      "name": "Tennis"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Volleyball",
+      "name": "Volleyball"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "541",
+      "name": "Volleyball"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Wilderness",
+      "name": "Wilderness"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "",
+      "name": "Nature"
+    },
+    "metadata": {
+      "unmapped": true
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Wrestling",
+      "name": "Wrestling"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "546",
+      "name": "Wrestling"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Technology",
+      "name": "Technology"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "596",
+      "name": "Technology & Computing"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "True Crime",
+      "name": "True Crime"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "KHPC5A",
+      "name": "True Crime"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "TV & Film",
+      "name": "TV & Film"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "1028",
+      "name": "Video"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "After Shows",
+      "name": "After Shows"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "C2UKBG",
+      "name": "Video"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Film History",
+      "name": "Film History"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "20L2OV",
+      "name": "Video"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Film Interviews",
+      "name": "Film Interviews"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "20L2OV",
+      "name": "Video"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Film Reviews",
+      "name": "Film Reviews"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "20L2OV",
+      "name": "Video"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "TV Reviews",
+      "name": "TV Reviews"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "C2UKBG",
+      "name": "Video"
+    }
+  }
+]

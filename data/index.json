@@ -1,0 +1,155 @@
+{
+  "taxonomies": [
+    {
+      "type": "content",
+      "version": "1.0",
+      "cattax": 1,
+      "deprecated": true,
+      "dataFile": "content/1.0.json"
+    },
+    {
+      "type": "content",
+      "version": "2.0",
+      "cattax": 2,
+      "deprecated": false,
+      "dataFile": "content/2.0.json"
+    },
+    {
+      "type": "content",
+      "version": "2.1",
+      "cattax": 2,
+      "deprecated": false,
+      "dataFile": "content/2.1.json"
+    },
+    {
+      "type": "content",
+      "version": "2.2",
+      "cattax": 2,
+      "deprecated": false,
+      "dataFile": "content/2.2.json"
+    },
+    {
+      "type": "content",
+      "version": "3.0",
+      "cattax": 5,
+      "deprecated": false,
+      "dataFile": "content/3.0.json"
+    },
+    {
+      "type": "content",
+      "version": "3.1",
+      "cattax": 5,
+      "deprecated": false,
+      "dataFile": "content/3.1.json"
+    },
+    {
+      "type": "ad_product",
+      "version": "1.0",
+      "cattax": 3,
+      "deprecated": false,
+      "dataFile": "ad-product/1.0.json"
+    },
+    {
+      "type": "ad_product",
+      "version": "1.1",
+      "cattax": 3,
+      "deprecated": false,
+      "dataFile": "ad-product/1.1.json"
+    },
+    {
+      "type": "ad_product",
+      "version": "2.0",
+      "cattax": 6,
+      "deprecated": false,
+      "dataFile": "ad-product/2.0.json"
+    },
+    {
+      "type": "audience",
+      "version": "1.0",
+      "cattax": 4,
+      "deprecated": false,
+      "dataFile": "audience/1.0.json"
+    },
+    {
+      "type": "audience",
+      "version": "1.1",
+      "cattax": 4,
+      "deprecated": false,
+      "dataFile": "audience/1.1.json"
+    }
+  ],
+  "mappings": [
+    {
+      "id": "ad_product:2.0->ad_product:1.1",
+      "sourceType": "ad_product",
+      "sourceVersion": "2.0",
+      "targetType": "ad_product",
+      "targetVersion": "1.1",
+      "dataFile": "mappings/ad-product-2.0--to--ad-product-1.1.json"
+    },
+    {
+      "id": "ad_product:2.0->content:1.0",
+      "sourceType": "ad_product",
+      "sourceVersion": "2.0",
+      "targetType": "content",
+      "targetVersion": "1.0",
+      "dataFile": "mappings/ad-product-2.0--to--content-1.0.json"
+    },
+    {
+      "id": "ad_product:2.0->content:2.1",
+      "sourceType": "ad_product",
+      "sourceVersion": "2.0",
+      "targetType": "content",
+      "targetVersion": "2.1",
+      "dataFile": "mappings/ad-product-2.0--to--content-2.1.json"
+    },
+    {
+      "id": "content:1.0->ad_product:2.0",
+      "sourceType": "content",
+      "sourceVersion": "1.0",
+      "targetType": "ad_product",
+      "targetVersion": "2.0",
+      "dataFile": "mappings/content-1.0--to--ad-product-2.0.json"
+    },
+    {
+      "id": "content:1.0->content:2.0",
+      "sourceType": "content",
+      "sourceVersion": "1.0",
+      "targetType": "content",
+      "targetVersion": "2.0",
+      "dataFile": "mappings/content-1.0--to--content-2.0.json"
+    },
+    {
+      "id": "content:2.0->content:2.1",
+      "sourceType": "content",
+      "sourceVersion": "2.0",
+      "targetType": "content",
+      "targetVersion": "2.1",
+      "dataFile": "mappings/content-2.0--to--content-2.1.json"
+    },
+    {
+      "id": "content:2.1->ad_product:2.0",
+      "sourceType": "content",
+      "sourceVersion": "2.1",
+      "targetType": "ad_product",
+      "targetVersion": "2.0",
+      "dataFile": "mappings/content-2.1--to--ad-product-2.0.json"
+    },
+    {
+      "id": "content:ctv_genres->content:3.1",
+      "sourceType": "content",
+      "sourceVersion": "3.1",
+      "targetType": "content",
+      "targetVersion": "3.1",
+      "dataFile": "mappings/ctv-genres--to--content-3.1.json"
+    },
+    {
+      "id": "content:podcast_genres->content:3.1",
+      "sourceType": "content",
+      "sourceVersion": "3.1",
+      "targetType": "content",
+      "targetVersion": "3.1",
+      "dataFile": "mappings/podcast-genres--to--content-3.1.json"
+    }
+  ]
+}

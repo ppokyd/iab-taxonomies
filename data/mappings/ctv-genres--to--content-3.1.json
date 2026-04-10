@@ -1,0 +1,618 @@
+[
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Action",
+      "name": "Action"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "325",
+      "name": "Action/Adventure"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Adventure",
+      "name": "Adventure"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "325",
+      "name": "Action/Adventure"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Animals",
+      "name": "Animals"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "422",
+      "name": "Pets"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Animation",
+      "name": "Animation"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "641",
+      "name": "Animation & Anime"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Anime",
+      "name": "Anime"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "641",
+      "name": "Animation & Anime"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Arts",
+      "name": "Arts"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "201",
+      "name": "Fine Art"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Automotive",
+      "name": "Automotive"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "1",
+      "name": "Automotive"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Awards",
+      "name": "Awards"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "162",
+      "name": "Awards Shows"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Biography",
+      "name": "Biography"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "44",
+      "name": "Biographies"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Business & Finance",
+      "name": "Business & Finance"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "52",
+      "name": "Business and Finance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Children",
+      "name": "Children"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "645",
+      "name": "Family/Children"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Comedy",
+      "name": "Comedy"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "646",
+      "name": "Comedy"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Cooking",
+      "name": "Cooking"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "216",
+      "name": "Cooking"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Crime",
+      "name": "Crime"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "KHPC5A",
+      "name": "True Crime"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Documentary",
+      "name": "Documentary"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "332",
+      "name": "Documentary"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Drama",
+      "name": "Drama"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "647",
+      "name": "Drama"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Education",
+      "name": "Education"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "132",
+      "name": "Education"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Family",
+      "name": "Family"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "645",
+      "name": "Family/Children"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Fantasy",
+      "name": "Fantasy"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "335",
+      "name": "Fantasy"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Game Show",
+      "name": "Game Show"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "JLBCU7",
+      "name": "Entertainment"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Gaming",
+      "name": "Gaming"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "680",
+      "name": "Video Gaming"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "History",
+      "name": "History"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "EZWB7V",
+      "name": "History"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Hobbies",
+      "name": "Hobbies"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "239",
+      "name": "Hobbies & Interests"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Holidays",
+      "name": "Holidays"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "649",
+      "name": "Holiday"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Home & Garden",
+      "name": "Home & Garden"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "274",
+      "name": "Home & Garden"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Horror",
+      "name": "Horror"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "336",
+      "name": "Horror"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Law",
+      "name": "Law"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "383",
+      "name": "Law"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Mystery",
+      "name": "Mystery"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "331",
+      "name": "Mystery"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "News",
+      "name": "News"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "1020",
+      "name": "News"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Outdoors",
+      "name": "Outdoors"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "159",
+      "name": "Outdoor Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Paranormal",
+      "name": "Paranormal"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "244",
+      "name": "Parnormal Phenomenons"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Politics",
+      "name": "Politics"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "386",
+      "name": "Politics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Reality",
+      "name": "Reality"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "651",
+      "name": "Reality TV"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Religion",
+      "name": "Religion"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "453",
+      "name": "Religion & Spirituality"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Romance",
+      "name": "Romance"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "326",
+      "name": "Romance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Sci-Fi",
+      "name": "Sci-Fi"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "652",
+      "name": "Science Fiction"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Sitcom",
+      "name": "Sitcom"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "646",
+      "name": "Comedy"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Soap-Opera",
+      "name": "Soap-Opera"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "642",
+      "name": "Soap Opera"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Sports",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "483",
+      "name": "Sports"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Thriller",
+      "name": "Thriller"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "700",
+      "name": "Thriller"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "War",
+      "name": "War"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "389",
+      "name": "War and Conflicts"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Weather",
+      "name": "Weather"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "390",
+      "name": "Weather"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Western",
+      "name": "Western"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "KHPC6A",
+      "name": "Western"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "Young Adult",
+      "name": "Young Adult"
+    },
+    "target": {
+      "taxonomy": "content",
+      "version": "3.1",
+      "id": "51",
+      "name": "Young Adult"
+    }
+  }
+]
