@@ -27,7 +27,9 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Prepare site
-        run: cp -r data public/data
+        run: |
+          rm -f public/data
+          cp -r data public/data
 
       - uses: actions/configure-pages@v5
         with:
