@@ -1,0 +1,5464 @@
+[
+  {
+    "id": "IAB1",
+    "parentId": null,
+    "name": "Arts & Entertainment",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 1,
+    "tierPath": [
+      "Arts & Entertainment"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB1-1",
+    "parentId": "IAB1",
+    "name": "Books & Literature",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Arts & Entertainment",
+      "Books & Literature"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB1-2",
+    "parentId": "IAB1",
+    "name": "Celebrity Fan/Gossip",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Arts & Entertainment",
+      "Celebrity Fan/Gossip"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB1-3",
+    "parentId": "IAB1",
+    "name": "Fine Art",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Arts & Entertainment",
+      "Fine Art"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB1-4",
+    "parentId": "IAB1",
+    "name": "Humor",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Arts & Entertainment",
+      "Humor"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB1-5",
+    "parentId": "IAB1",
+    "name": "Movies",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Arts & Entertainment",
+      "Movies"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB1-6",
+    "parentId": "IAB1",
+    "name": "Music",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Arts & Entertainment",
+      "Music"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB1-7",
+    "parentId": "IAB1",
+    "name": "Television",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Arts & Entertainment",
+      "Television"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB2",
+    "parentId": null,
+    "name": "Automotive",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 1,
+    "tierPath": [
+      "Automotive"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB2-1",
+    "parentId": "IAB2",
+    "name": "Auto Parts",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Automotive",
+      "Auto Parts"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB2-2",
+    "parentId": "IAB2",
+    "name": "Auto Repair",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Automotive",
+      "Auto Repair"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB2-3",
+    "parentId": "IAB2",
+    "name": "Buying/Selling Cars",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Automotive",
+      "Buying/Selling Cars"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB2-4",
+    "parentId": "IAB2",
+    "name": "Car Culture",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Automotive",
+      "Car Culture"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB2-5",
+    "parentId": "IAB2",
+    "name": "Certified Pre-Owned",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Automotive",
+      "Certified Pre-Owned"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB2-6",
+    "parentId": "IAB2",
+    "name": "Convertible",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Automotive",
+      "Convertible"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB2-7",
+    "parentId": "IAB2",
+    "name": "Coupe",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Automotive",
+      "Coupe"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB2-8",
+    "parentId": "IAB2",
+    "name": "Crossover",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Automotive",
+      "Crossover"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB2-9",
+    "parentId": "IAB2",
+    "name": "Diesel",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Automotive",
+      "Diesel"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB2-10",
+    "parentId": "IAB2",
+    "name": "Electric Vehicle",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Automotive",
+      "Electric Vehicle"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB2-11",
+    "parentId": "IAB2",
+    "name": "Hatchback",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Automotive",
+      "Hatchback"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB2-12",
+    "parentId": "IAB2",
+    "name": "Hybrid",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Automotive",
+      "Hybrid"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB2-13",
+    "parentId": "IAB2",
+    "name": "Luxury",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Automotive",
+      "Luxury"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB2-14",
+    "parentId": "IAB2",
+    "name": "MiniVan",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Automotive",
+      "MiniVan"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB2-15",
+    "parentId": "IAB2",
+    "name": "Mororcycles",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Automotive",
+      "Mororcycles"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB2-16",
+    "parentId": "IAB2",
+    "name": "Off-Road Vehicles",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Automotive",
+      "Off-Road Vehicles"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB2-17",
+    "parentId": "IAB2",
+    "name": "Performance Vehicles",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Automotive",
+      "Performance Vehicles"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB2-18",
+    "parentId": "IAB2",
+    "name": "Pickup",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Automotive",
+      "Pickup"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB2-19",
+    "parentId": "IAB2",
+    "name": "Road-Side Assistance",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Automotive",
+      "Road-Side Assistance"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB2-20",
+    "parentId": "IAB2",
+    "name": "Sedan",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Automotive",
+      "Sedan"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB2-21",
+    "parentId": "IAB2",
+    "name": "Trucks & Accessories",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Automotive",
+      "Trucks & Accessories"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB2-22",
+    "parentId": "IAB2",
+    "name": "Vintage Cars",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Automotive",
+      "Vintage Cars"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB2-23",
+    "parentId": "IAB2",
+    "name": "Wagon",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Automotive",
+      "Wagon"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB3",
+    "parentId": null,
+    "name": "Business",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 1,
+    "tierPath": [
+      "Business"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB3-1",
+    "parentId": "IAB3",
+    "name": "Advertising",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Business",
+      "Advertising"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB3-2",
+    "parentId": "IAB3",
+    "name": "Agriculture",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Business",
+      "Agriculture"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB3-3",
+    "parentId": "IAB3",
+    "name": "Biotech/Biomedical",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Business",
+      "Biotech/Biomedical"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB3-4",
+    "parentId": "IAB3",
+    "name": "Business Software",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Business",
+      "Business Software"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB3-5",
+    "parentId": "IAB3",
+    "name": "Construction",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Business",
+      "Construction"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB3-6",
+    "parentId": "IAB3",
+    "name": "Forestry",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Business",
+      "Forestry"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB3-7",
+    "parentId": "IAB3",
+    "name": "Government",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Business",
+      "Government"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB3-8",
+    "parentId": "IAB3",
+    "name": "Green Solutions",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Business",
+      "Green Solutions"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB3-9",
+    "parentId": "IAB3",
+    "name": "Human Resources",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Business",
+      "Human Resources"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB3-10",
+    "parentId": "IAB3",
+    "name": "Logistics",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Business",
+      "Logistics"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB3-11",
+    "parentId": "IAB3",
+    "name": "Marketing",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Business",
+      "Marketing"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB3-12",
+    "parentId": "IAB3",
+    "name": "Metals",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Business",
+      "Metals"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB4",
+    "parentId": null,
+    "name": "Careers",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 1,
+    "tierPath": [
+      "Careers"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB4-1",
+    "parentId": "IAB4",
+    "name": "Career Planning",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Careers",
+      "Career Planning"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB4-2",
+    "parentId": "IAB4",
+    "name": "College",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Careers",
+      "College"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB4-3",
+    "parentId": "IAB4",
+    "name": "Financial Aid",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Careers",
+      "Financial Aid"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB4-4",
+    "parentId": "IAB4",
+    "name": "Job Fairs",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Careers",
+      "Job Fairs"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB4-5",
+    "parentId": "IAB4",
+    "name": "Job Search",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Careers",
+      "Job Search"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB4-6",
+    "parentId": "IAB4",
+    "name": "Resume Writing/Advice",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Careers",
+      "Resume Writing/Advice"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB4-7",
+    "parentId": "IAB4",
+    "name": "Nursing",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Careers",
+      "Nursing"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB4-8",
+    "parentId": "IAB4",
+    "name": "Scholarships",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Careers",
+      "Scholarships"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB4-9",
+    "parentId": "IAB4",
+    "name": "Telecommuting",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Careers",
+      "Telecommuting"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB4-10",
+    "parentId": "IAB4",
+    "name": "U.S. Military",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Careers",
+      "U.S. Military"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB4-11",
+    "parentId": "IAB4",
+    "name": "Career Advice",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Careers",
+      "Career Advice"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB5",
+    "parentId": null,
+    "name": "Education",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 1,
+    "tierPath": [
+      "Education"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB5-1",
+    "parentId": "IAB5",
+    "name": "41832 Education",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Education",
+      "41832 Education"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB5-2",
+    "parentId": "IAB5",
+    "name": "Adult Education",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Education",
+      "Adult Education"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB5-3",
+    "parentId": "IAB5",
+    "name": "Art History",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Education",
+      "Art History"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB5-4",
+    "parentId": "IAB5",
+    "name": "Colledge Administration",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Education",
+      "Colledge Administration"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB5-5",
+    "parentId": "IAB5",
+    "name": "College Life",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Education",
+      "College Life"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB5-6",
+    "parentId": "IAB5",
+    "name": "Distance Learning",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Education",
+      "Distance Learning"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB5-7",
+    "parentId": "IAB5",
+    "name": "English as a 2nd Language",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Education",
+      "English as a 2nd Language"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB5-8",
+    "parentId": "IAB5",
+    "name": "Language Learning",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Education",
+      "Language Learning"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB5-9",
+    "parentId": "IAB5",
+    "name": "Graduate School",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Education",
+      "Graduate School"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB5-10",
+    "parentId": "IAB5",
+    "name": "Homeschooling",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Education",
+      "Homeschooling"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB5-11",
+    "parentId": "IAB5",
+    "name": "Homework/Study Tips",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Education",
+      "Homework/Study Tips"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB5-12",
+    "parentId": "IAB5",
+    "name": "K-6 Educators",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Education",
+      "K-6 Educators"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB5-13",
+    "parentId": "IAB5",
+    "name": "Private School",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Education",
+      "Private School"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB5-14",
+    "parentId": "IAB5",
+    "name": "Special Education",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Education",
+      "Special Education"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB5-15",
+    "parentId": "IAB5",
+    "name": "Studying Business",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Education",
+      "Studying Business"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB6",
+    "parentId": null,
+    "name": "Family & Parenting",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 1,
+    "tierPath": [
+      "Family & Parenting"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB6-1",
+    "parentId": "IAB6",
+    "name": "Adoption",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Family & Parenting",
+      "Adoption"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB6-2",
+    "parentId": "IAB6",
+    "name": "Babies & Toddlers",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Family & Parenting",
+      "Babies & Toddlers"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB6-3",
+    "parentId": "IAB6",
+    "name": "Daycare/Pre School",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Family & Parenting",
+      "Daycare/Pre School"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB6-4",
+    "parentId": "IAB6",
+    "name": "Family Internet",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Family & Parenting",
+      "Family Internet"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB6-5",
+    "parentId": "IAB6",
+    "name": "Parenting - K-6 Kids",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Family & Parenting",
+      "Parenting - K-6 Kids"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB6-6",
+    "parentId": "IAB6",
+    "name": "Parenting teens",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Family & Parenting",
+      "Parenting teens"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB6-7",
+    "parentId": "IAB6",
+    "name": "Pregnancy",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Family & Parenting",
+      "Pregnancy"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB6-8",
+    "parentId": "IAB6",
+    "name": "Special Needs Kids",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Family & Parenting",
+      "Special Needs Kids"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB6-9",
+    "parentId": "IAB6",
+    "name": "Eldercare",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Family & Parenting",
+      "Eldercare"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7",
+    "parentId": null,
+    "name": "Health & Fitness",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 1,
+    "tierPath": [
+      "Health & Fitness"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-1",
+    "parentId": "IAB7",
+    "name": "Exercise",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Exercise"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-2",
+    "parentId": "IAB7",
+    "name": "A.D.D.",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "A.D.D."
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-3",
+    "parentId": "IAB7",
+    "name": "AIDS/HIV",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "AIDS/HIV"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-4",
+    "parentId": "IAB7",
+    "name": "Allergies",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Allergies"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-5",
+    "parentId": "IAB7",
+    "name": "Alternative Medicine",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Alternative Medicine"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-6",
+    "parentId": "IAB7",
+    "name": "Arthritis",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Arthritis"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-7",
+    "parentId": "IAB7",
+    "name": "Asthma",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Asthma"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-8",
+    "parentId": "IAB7",
+    "name": "Autism/PDD",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Autism/PDD"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-9",
+    "parentId": "IAB7",
+    "name": "Bipolar Disorder",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Bipolar Disorder"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-10",
+    "parentId": "IAB7",
+    "name": "Brain Tumor",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Brain Tumor"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-11",
+    "parentId": "IAB7",
+    "name": "Cancer",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Cancer"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-12",
+    "parentId": "IAB7",
+    "name": "Cholesterol",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Cholesterol"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-13",
+    "parentId": "IAB7",
+    "name": "Chronic Fatigue Syndrome",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Chronic Fatigue Syndrome"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-14",
+    "parentId": "IAB7",
+    "name": "Chronic Pain",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Chronic Pain"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-15",
+    "parentId": "IAB7",
+    "name": "Cold & Flu",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Cold & Flu"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-16",
+    "parentId": "IAB7",
+    "name": "Deafness",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Deafness"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-17",
+    "parentId": "IAB7",
+    "name": "Dental Care",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Dental Care"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-18",
+    "parentId": "IAB7",
+    "name": "Depression",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Depression"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-19",
+    "parentId": "IAB7",
+    "name": "Dermatology",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Dermatology"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-20",
+    "parentId": "IAB7",
+    "name": "Diabetes",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Diabetes"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-21",
+    "parentId": "IAB7",
+    "name": "Epilepsy",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Epilepsy"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-22",
+    "parentId": "IAB7",
+    "name": "GERD/Acid Reflux",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "GERD/Acid Reflux"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-23",
+    "parentId": "IAB7",
+    "name": "Headaches/Migraines",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Headaches/Migraines"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-24",
+    "parentId": "IAB7",
+    "name": "Heart Disease",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Heart Disease"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-25",
+    "parentId": "IAB7",
+    "name": "Herbs for Health",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Herbs for Health"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-26",
+    "parentId": "IAB7",
+    "name": "Holistic Healing",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Holistic Healing"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-27",
+    "parentId": "IAB7",
+    "name": "IBS/Crohn's Disease",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "IBS/Crohn's Disease"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-28",
+    "parentId": "IAB7",
+    "name": "Incest/Abuse Support",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Incest/Abuse Support"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-29",
+    "parentId": "IAB7",
+    "name": "Incontinence",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Incontinence"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-30",
+    "parentId": "IAB7",
+    "name": "Infertility",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Infertility"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-31",
+    "parentId": "IAB7",
+    "name": "Men's Health",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Men's Health"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-32",
+    "parentId": "IAB7",
+    "name": "Nutrition",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Nutrition"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-33",
+    "parentId": "IAB7",
+    "name": "Orthopedics",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Orthopedics"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-34",
+    "parentId": "IAB7",
+    "name": "Panic/Anxiety Disorders",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Panic/Anxiety Disorders"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-35",
+    "parentId": "IAB7",
+    "name": "Pediatrics",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Pediatrics"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-36",
+    "parentId": "IAB7",
+    "name": "Physical Therapy",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Physical Therapy"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-37",
+    "parentId": "IAB7",
+    "name": "Psychology/Psychiatry",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Psychology/Psychiatry"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-38",
+    "parentId": "IAB7",
+    "name": "Senor Health",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Senor Health"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-39",
+    "parentId": "IAB7",
+    "name": "Sexuality",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Sexuality"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-40",
+    "parentId": "IAB7",
+    "name": "Sleep Disorders",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Sleep Disorders"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-41",
+    "parentId": "IAB7",
+    "name": "Smoking Cessation",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Smoking Cessation"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-42",
+    "parentId": "IAB7",
+    "name": "Substance Abuse",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Substance Abuse"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-43",
+    "parentId": "IAB7",
+    "name": "Thyroid Disease",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Thyroid Disease"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-44",
+    "parentId": "IAB7",
+    "name": "Weight Loss",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Weight Loss"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB7-45",
+    "parentId": "IAB7",
+    "name": "Women's Health",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Health & Fitness",
+      "Women's Health"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB8",
+    "parentId": null,
+    "name": "Food & Drink",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 1,
+    "tierPath": [
+      "Food & Drink"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB8-1",
+    "parentId": "IAB8",
+    "name": "American Cuisine",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Food & Drink",
+      "American Cuisine"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB8-2",
+    "parentId": "IAB8",
+    "name": "Barbecues & Grilling",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Food & Drink",
+      "Barbecues & Grilling"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB8-3",
+    "parentId": "IAB8",
+    "name": "Cajun/Creole",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Food & Drink",
+      "Cajun/Creole"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB8-4",
+    "parentId": "IAB8",
+    "name": "Chinese Cuisine",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Food & Drink",
+      "Chinese Cuisine"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB8-5",
+    "parentId": "IAB8",
+    "name": "Cocktails/Beer",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Food & Drink",
+      "Cocktails/Beer"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB8-6",
+    "parentId": "IAB8",
+    "name": "Coffee/Tea",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Food & Drink",
+      "Coffee/Tea"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB8-7",
+    "parentId": "IAB8",
+    "name": "Cuisine-Specific",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Food & Drink",
+      "Cuisine-Specific"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB8-8",
+    "parentId": "IAB8",
+    "name": "Desserts & Baking",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Food & Drink",
+      "Desserts & Baking"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB8-9",
+    "parentId": "IAB8",
+    "name": "Dining Out",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Food & Drink",
+      "Dining Out"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB8-10",
+    "parentId": "IAB8",
+    "name": "Food Allergies",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Food & Drink",
+      "Food Allergies"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB8-11",
+    "parentId": "IAB8",
+    "name": "French Cuisine",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Food & Drink",
+      "French Cuisine"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB8-12",
+    "parentId": "IAB8",
+    "name": "Health/Lowfat Cooking",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Food & Drink",
+      "Health/Lowfat Cooking"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB8-13",
+    "parentId": "IAB8",
+    "name": "Italian Cuisine",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Food & Drink",
+      "Italian Cuisine"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB8-14",
+    "parentId": "IAB8",
+    "name": "Japanese Cuisine",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Food & Drink",
+      "Japanese Cuisine"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB8-15",
+    "parentId": "IAB8",
+    "name": "Mexican Cuisine",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Food & Drink",
+      "Mexican Cuisine"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB8-16",
+    "parentId": "IAB8",
+    "name": "Vegan",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Food & Drink",
+      "Vegan"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB8-17",
+    "parentId": "IAB8",
+    "name": "Vegetarian",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Food & Drink",
+      "Vegetarian"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB8-18",
+    "parentId": "IAB8",
+    "name": "Wine",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Food & Drink",
+      "Wine"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9",
+    "parentId": null,
+    "name": "Hobbies & Interests",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 1,
+    "tierPath": [
+      "Hobbies & Interests"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-1",
+    "parentId": "IAB9",
+    "name": "Art/Technology",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Art/Technology"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-2",
+    "parentId": "IAB9",
+    "name": "Arts & Crafts",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Arts & Crafts"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-3",
+    "parentId": "IAB9",
+    "name": "Beadwork",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Beadwork"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-4",
+    "parentId": "IAB9",
+    "name": "Birdwatching",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Birdwatching"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-5",
+    "parentId": "IAB9",
+    "name": "Board Games/Puzzles",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Board Games/Puzzles"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-6",
+    "parentId": "IAB9",
+    "name": "Candle & Soap Making",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Candle & Soap Making"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-7",
+    "parentId": "IAB9",
+    "name": "Card Games",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Card Games"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-8",
+    "parentId": "IAB9",
+    "name": "Chess",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Chess"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-9",
+    "parentId": "IAB9",
+    "name": "Cigars",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Cigars"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-10",
+    "parentId": "IAB9",
+    "name": "Collecting",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Collecting"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-11",
+    "parentId": "IAB9",
+    "name": "Comic Books",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Comic Books"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-12",
+    "parentId": "IAB9",
+    "name": "Drawing/Sketching",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Drawing/Sketching"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-13",
+    "parentId": "IAB9",
+    "name": "Freelance Writing",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Freelance Writing"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-14",
+    "parentId": "IAB9",
+    "name": "Genealogy",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Genealogy"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-15",
+    "parentId": "IAB9",
+    "name": "Getting Published",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Getting Published"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-16",
+    "parentId": "IAB9",
+    "name": "Guitar",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Guitar"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-17",
+    "parentId": "IAB9",
+    "name": "Home Recording",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Home Recording"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-18",
+    "parentId": "IAB9",
+    "name": "Investors & Patents",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Investors & Patents"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-19",
+    "parentId": "IAB9",
+    "name": "Jewelry Making",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Jewelry Making"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-20",
+    "parentId": "IAB9",
+    "name": "Magic & Illusion",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Magic & Illusion"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-21",
+    "parentId": "IAB9",
+    "name": "Needlework",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Needlework"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-22",
+    "parentId": "IAB9",
+    "name": "Painting",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Painting"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-23",
+    "parentId": "IAB9",
+    "name": "Photography",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Photography"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-24",
+    "parentId": "IAB9",
+    "name": "Radio",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Radio"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-25",
+    "parentId": "IAB9",
+    "name": "Roleplaying Games",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Roleplaying Games"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-26",
+    "parentId": "IAB9",
+    "name": "Sci-Fi & Fantasy",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Sci-Fi & Fantasy"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-27",
+    "parentId": "IAB9",
+    "name": "Scrapbooking",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Scrapbooking"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-28",
+    "parentId": "IAB9",
+    "name": "Screenwriting",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Screenwriting"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-29",
+    "parentId": "IAB9",
+    "name": "Stamps & Coins",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Stamps & Coins"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-30",
+    "parentId": "IAB9",
+    "name": "Video & Computer Games",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Video & Computer Games"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB9-31",
+    "parentId": "IAB9",
+    "name": "Woodworking",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Hobbies & Interests",
+      "Woodworking"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB10",
+    "parentId": null,
+    "name": "Home & Garden",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 1,
+    "tierPath": [
+      "Home & Garden"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB10-1",
+    "parentId": "IAB10",
+    "name": "Appliances",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Home & Garden",
+      "Appliances"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB10-2",
+    "parentId": "IAB10",
+    "name": "Entertaining",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Home & Garden",
+      "Entertaining"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB10-3",
+    "parentId": "IAB10",
+    "name": "Environmental Safety",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Home & Garden",
+      "Environmental Safety"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB10-4",
+    "parentId": "IAB10",
+    "name": "Gardening",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Home & Garden",
+      "Gardening"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB10-5",
+    "parentId": "IAB10",
+    "name": "Home Repair",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Home & Garden",
+      "Home Repair"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB10-6",
+    "parentId": "IAB10",
+    "name": "Home Theater",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Home & Garden",
+      "Home Theater"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB10-7",
+    "parentId": "IAB10",
+    "name": "Interior Decorating",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Home & Garden",
+      "Interior Decorating"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB10-8",
+    "parentId": "IAB10",
+    "name": "Landscaping",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Home & Garden",
+      "Landscaping"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB10-9",
+    "parentId": "IAB10",
+    "name": "Remodeling & Construction",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Home & Garden",
+      "Remodeling & Construction"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB11",
+    "parentId": null,
+    "name": "Law, Gov't & Politics",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 1,
+    "tierPath": [
+      "Law, Gov't & Politics"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB11-1",
+    "parentId": "IAB11",
+    "name": "Immigration",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Law, Gov't & Politics",
+      "Immigration"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB11-2",
+    "parentId": "IAB11",
+    "name": "Legal Issues",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Law, Gov't & Politics",
+      "Legal Issues"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB11-3",
+    "parentId": "IAB11",
+    "name": "U.S. Government Resources",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Law, Gov't & Politics",
+      "U.S. Government Resources"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB11-4",
+    "parentId": "IAB11",
+    "name": "Politics",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Law, Gov't & Politics",
+      "Politics"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB11-5",
+    "parentId": "IAB11",
+    "name": "Commentary",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Law, Gov't & Politics",
+      "Commentary"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB12",
+    "parentId": null,
+    "name": "News",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 1,
+    "tierPath": [
+      "News"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB12-1",
+    "parentId": "IAB12",
+    "name": "International News",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "News",
+      "International News"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB12-2",
+    "parentId": "IAB12",
+    "name": "National News",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "News",
+      "National News"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB12-3",
+    "parentId": "IAB12",
+    "name": "Local News",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "News",
+      "Local News"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB13",
+    "parentId": null,
+    "name": "Personal Finance",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 1,
+    "tierPath": [
+      "Personal Finance"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB13-1",
+    "parentId": "IAB13",
+    "name": "Beginning Investing",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Personal Finance",
+      "Beginning Investing"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB13-2",
+    "parentId": "IAB13",
+    "name": "Credit/Debt & Loans",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Personal Finance",
+      "Credit/Debt & Loans"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB13-3",
+    "parentId": "IAB13",
+    "name": "Financial News",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Personal Finance",
+      "Financial News"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB13-4",
+    "parentId": "IAB13",
+    "name": "Financial Planning",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Personal Finance",
+      "Financial Planning"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB13-5",
+    "parentId": "IAB13",
+    "name": "Hedge Fund",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Personal Finance",
+      "Hedge Fund"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB13-6",
+    "parentId": "IAB13",
+    "name": "Insurance",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Personal Finance",
+      "Insurance"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB13-7",
+    "parentId": "IAB13",
+    "name": "Investing",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Personal Finance",
+      "Investing"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB13-8",
+    "parentId": "IAB13",
+    "name": "Mutual Funds",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Personal Finance",
+      "Mutual Funds"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB13-9",
+    "parentId": "IAB13",
+    "name": "Options",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Personal Finance",
+      "Options"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB13-10",
+    "parentId": "IAB13",
+    "name": "Retirement Planning",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Personal Finance",
+      "Retirement Planning"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB13-11",
+    "parentId": "IAB13",
+    "name": "Stocks",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Personal Finance",
+      "Stocks"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB13-12",
+    "parentId": "IAB13",
+    "name": "Tax Planning",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Personal Finance",
+      "Tax Planning"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB14",
+    "parentId": null,
+    "name": "Society",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 1,
+    "tierPath": [
+      "Society"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB14-1",
+    "parentId": "IAB14",
+    "name": "Dating",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Society",
+      "Dating"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB14-2",
+    "parentId": "IAB14",
+    "name": "Divorce Support",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Society",
+      "Divorce Support"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB14-3",
+    "parentId": "IAB14",
+    "name": "Gay Life",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Society",
+      "Gay Life"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB14-4",
+    "parentId": "IAB14",
+    "name": "Marriage",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Society",
+      "Marriage"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB14-5",
+    "parentId": "IAB14",
+    "name": "Senior Living",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Society",
+      "Senior Living"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB14-6",
+    "parentId": "IAB14",
+    "name": "Teens",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Society",
+      "Teens"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB14-7",
+    "parentId": "IAB14",
+    "name": "Weddings",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Society",
+      "Weddings"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB14-8",
+    "parentId": "IAB14",
+    "name": "Ethnic Specific",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Society",
+      "Ethnic Specific"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB15",
+    "parentId": null,
+    "name": "Science",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 1,
+    "tierPath": [
+      "Science"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB15-1",
+    "parentId": "IAB15",
+    "name": "Astrology",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Science",
+      "Astrology"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB15-2",
+    "parentId": "IAB15",
+    "name": "Biology",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Science",
+      "Biology"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB15-3",
+    "parentId": "IAB15",
+    "name": "Chemistry",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Science",
+      "Chemistry"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB15-4",
+    "parentId": "IAB15",
+    "name": "Geology",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Science",
+      "Geology"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB15-5",
+    "parentId": "IAB15",
+    "name": "Paranormal Phenomena",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Science",
+      "Paranormal Phenomena"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB15-6",
+    "parentId": "IAB15",
+    "name": "Physics",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Science",
+      "Physics"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB15-7",
+    "parentId": "IAB15",
+    "name": "Space/Astronomy",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Science",
+      "Space/Astronomy"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB15-8",
+    "parentId": "IAB15",
+    "name": "Geography",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Science",
+      "Geography"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB15-9",
+    "parentId": "IAB15",
+    "name": "Botany",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Science",
+      "Botany"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB15-10",
+    "parentId": "IAB15",
+    "name": "Weather",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Science",
+      "Weather"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB16",
+    "parentId": null,
+    "name": "Pets",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 1,
+    "tierPath": [
+      "Pets"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB16-1",
+    "parentId": "IAB16",
+    "name": "Aquariums",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Pets",
+      "Aquariums"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB16-2",
+    "parentId": "IAB16",
+    "name": "Birds",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Pets",
+      "Birds"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB16-3",
+    "parentId": "IAB16",
+    "name": "Cats",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Pets",
+      "Cats"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB16-4",
+    "parentId": "IAB16",
+    "name": "Dogs",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Pets",
+      "Dogs"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB16-5",
+    "parentId": "IAB16",
+    "name": "Large Animals",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Pets",
+      "Large Animals"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB16-6",
+    "parentId": "IAB16",
+    "name": "Reptiles",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Pets",
+      "Reptiles"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB16-7",
+    "parentId": "IAB16",
+    "name": "Veterinary Medicine",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Pets",
+      "Veterinary Medicine"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17",
+    "parentId": null,
+    "name": "Sports",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 1,
+    "tierPath": [
+      "Sports"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-1",
+    "parentId": "IAB17",
+    "name": "Auto Racing",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Auto Racing"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-2",
+    "parentId": "IAB17",
+    "name": "Baseball",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Baseball"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-3",
+    "parentId": "IAB17",
+    "name": "Bicycling",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Bicycling"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-4",
+    "parentId": "IAB17",
+    "name": "Bodybuilding",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Bodybuilding"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-5",
+    "parentId": "IAB17",
+    "name": "Boxing",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Boxing"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-6",
+    "parentId": "IAB17",
+    "name": "Canoeing/Kayaking",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Canoeing/Kayaking"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-7",
+    "parentId": "IAB17",
+    "name": "Cheerleading",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Cheerleading"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-8",
+    "parentId": "IAB17",
+    "name": "Climbing",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Climbing"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-9",
+    "parentId": "IAB17",
+    "name": "Cricket",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Cricket"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-10",
+    "parentId": "IAB17",
+    "name": "Figure Skating",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Figure Skating"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-11",
+    "parentId": "IAB17",
+    "name": "Fly Fishing",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Fly Fishing"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-12",
+    "parentId": "IAB17",
+    "name": "Football",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Football"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-13",
+    "parentId": "IAB17",
+    "name": "Freshwater Fishing",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Freshwater Fishing"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-14",
+    "parentId": "IAB17",
+    "name": "Game & Fish",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Game & Fish"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-15",
+    "parentId": "IAB17",
+    "name": "Golf",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Golf"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-16",
+    "parentId": "IAB17",
+    "name": "Horse Racing",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Horse Racing"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-17",
+    "parentId": "IAB17",
+    "name": "Horses",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Horses"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-18",
+    "parentId": "IAB17",
+    "name": "Hunting/Shooting",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Hunting/Shooting"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-19",
+    "parentId": "IAB17",
+    "name": "Inline Skating",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Inline Skating"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-20",
+    "parentId": "IAB17",
+    "name": "Martial Arts",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Martial Arts"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-21",
+    "parentId": "IAB17",
+    "name": "Mountain Biking",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Mountain Biking"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-22",
+    "parentId": "IAB17",
+    "name": "NASCAR Racing",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "NASCAR Racing"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-23",
+    "parentId": "IAB17",
+    "name": "Olympics",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Olympics"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-24",
+    "parentId": "IAB17",
+    "name": "Paintball",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Paintball"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-25",
+    "parentId": "IAB17",
+    "name": "Power & Motorcycles",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Power & Motorcycles"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-26",
+    "parentId": "IAB17",
+    "name": "Pro Basketball",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Pro Basketball"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-27",
+    "parentId": "IAB17",
+    "name": "Pro Ice Hockey",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Pro Ice Hockey"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-28",
+    "parentId": "IAB17",
+    "name": "Rodeo",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Rodeo"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-29",
+    "parentId": "IAB17",
+    "name": "Rugby",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Rugby"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-30",
+    "parentId": "IAB17",
+    "name": "Running/Jogging",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Running/Jogging"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-31",
+    "parentId": "IAB17",
+    "name": "Sailing",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Sailing"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-32",
+    "parentId": "IAB17",
+    "name": "Saltwater Fishing",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Saltwater Fishing"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-33",
+    "parentId": "IAB17",
+    "name": "Scuba Diving",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Scuba Diving"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-34",
+    "parentId": "IAB17",
+    "name": "Skateboarding",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Skateboarding"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-35",
+    "parentId": "IAB17",
+    "name": "Skiing",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Skiing"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-36",
+    "parentId": "IAB17",
+    "name": "Snowboarding",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Snowboarding"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-37",
+    "parentId": "IAB17",
+    "name": "Surfing/Bodyboarding",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Surfing/Bodyboarding"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-38",
+    "parentId": "IAB17",
+    "name": "Swimming",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Swimming"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-39",
+    "parentId": "IAB17",
+    "name": "Table Tennis/Ping-Pong",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Table Tennis/Ping-Pong"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-40",
+    "parentId": "IAB17",
+    "name": "Tennis",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Tennis"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-41",
+    "parentId": "IAB17",
+    "name": "Volleyball",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Volleyball"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-42",
+    "parentId": "IAB17",
+    "name": "Walking",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Walking"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-43",
+    "parentId": "IAB17",
+    "name": "Waterski/Wakeboard",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "Waterski/Wakeboard"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB17-44",
+    "parentId": "IAB17",
+    "name": "World Soccer",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Sports",
+      "World Soccer"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB18",
+    "parentId": null,
+    "name": "Style & Fashion",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 1,
+    "tierPath": [
+      "Style & Fashion"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB18-1",
+    "parentId": "IAB18",
+    "name": "Beauty",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Style & Fashion",
+      "Beauty"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB18-2",
+    "parentId": "IAB18",
+    "name": "Body Art",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Style & Fashion",
+      "Body Art"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB18-3",
+    "parentId": "IAB18",
+    "name": "Fashion",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Style & Fashion",
+      "Fashion"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB18-4",
+    "parentId": "IAB18",
+    "name": "Jewelry",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Style & Fashion",
+      "Jewelry"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB18-5",
+    "parentId": "IAB18",
+    "name": "Clothing",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Style & Fashion",
+      "Clothing"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB18-6",
+    "parentId": "IAB18",
+    "name": "Accessories",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Style & Fashion",
+      "Accessories"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19",
+    "parentId": null,
+    "name": "Technology & Computing",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 1,
+    "tierPath": [
+      "Technology & Computing"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-1",
+    "parentId": "IAB19",
+    "name": "3-D Graphics",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "3-D Graphics"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-2",
+    "parentId": "IAB19",
+    "name": "Animation",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Animation"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-3",
+    "parentId": "IAB19",
+    "name": "Antivirus Software",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Antivirus Software"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-4",
+    "parentId": "IAB19",
+    "name": "C/C++",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "C/C++"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-5",
+    "parentId": "IAB19",
+    "name": "Cameras & Camcorders",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Cameras & Camcorders"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-6",
+    "parentId": "IAB19",
+    "name": "Cell Phones",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Cell Phones"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-7",
+    "parentId": "IAB19",
+    "name": "Computer Certification",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Computer Certification"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-8",
+    "parentId": "IAB19",
+    "name": "Computer Networking",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Computer Networking"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-9",
+    "parentId": "IAB19",
+    "name": "Computer Peripherals",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Computer Peripherals"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-10",
+    "parentId": "IAB19",
+    "name": "Computer Reviews",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Computer Reviews"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-11",
+    "parentId": "IAB19",
+    "name": "Data Centers",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Data Centers"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-12",
+    "parentId": "IAB19",
+    "name": "Databases",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Databases"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-13",
+    "parentId": "IAB19",
+    "name": "Desktop Publishing",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Desktop Publishing"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-14",
+    "parentId": "IAB19",
+    "name": "Desktop Video",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Desktop Video"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-15",
+    "parentId": "IAB19",
+    "name": "Email",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Email"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-16",
+    "parentId": "IAB19",
+    "name": "Graphics Software",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Graphics Software"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-17",
+    "parentId": "IAB19",
+    "name": "Home Video/DVD",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Home Video/DVD"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-18",
+    "parentId": "IAB19",
+    "name": "Internet Technology",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Internet Technology"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-19",
+    "parentId": "IAB19",
+    "name": "Java",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Java"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-20",
+    "parentId": "IAB19",
+    "name": "JavaScript",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "JavaScript"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-21",
+    "parentId": "IAB19",
+    "name": "Mac Support",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Mac Support"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-22",
+    "parentId": "IAB19",
+    "name": "MP3/MIDI",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "MP3/MIDI"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-23",
+    "parentId": "IAB19",
+    "name": "Net Conferencing",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Net Conferencing"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-24",
+    "parentId": "IAB19",
+    "name": "Net for Beginners",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Net for Beginners"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-25",
+    "parentId": "IAB19",
+    "name": "Network Security",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Network Security"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-26",
+    "parentId": "IAB19",
+    "name": "Palmtops/PDAs",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Palmtops/PDAs"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-27",
+    "parentId": "IAB19",
+    "name": "PC Support",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "PC Support"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-28",
+    "parentId": "IAB19",
+    "name": "Portable",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Portable"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-29",
+    "parentId": "IAB19",
+    "name": "Entertainment",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Entertainment"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-30",
+    "parentId": "IAB19",
+    "name": "Shareware/Freeware",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Shareware/Freeware"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-31",
+    "parentId": "IAB19",
+    "name": "Unix",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Unix"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-32",
+    "parentId": "IAB19",
+    "name": "Visual Basic",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Visual Basic"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-33",
+    "parentId": "IAB19",
+    "name": "Web Clip Art",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Web Clip Art"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-34",
+    "parentId": "IAB19",
+    "name": "Web Design/HTML",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Web Design/HTML"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-35",
+    "parentId": "IAB19",
+    "name": "Web Search",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Web Search"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB19-36",
+    "parentId": "IAB19",
+    "name": "Windows",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Technology & Computing",
+      "Windows"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20",
+    "parentId": null,
+    "name": "Travel",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 1,
+    "tierPath": [
+      "Travel"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-1",
+    "parentId": "IAB20",
+    "name": "Adventure Travel",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "Adventure Travel"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-2",
+    "parentId": "IAB20",
+    "name": "Africa",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "Africa"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-3",
+    "parentId": "IAB20",
+    "name": "Air Travel",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "Air Travel"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-4",
+    "parentId": "IAB20",
+    "name": "Australia & New Zealand",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "Australia & New Zealand"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-5",
+    "parentId": "IAB20",
+    "name": "Bed & Breakfasts",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "Bed & Breakfasts"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-6",
+    "parentId": "IAB20",
+    "name": "Budget Travel",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "Budget Travel"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-7",
+    "parentId": "IAB20",
+    "name": "Business Travel",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "Business Travel"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-8",
+    "parentId": "IAB20",
+    "name": "By US Locale",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "By US Locale"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-9",
+    "parentId": "IAB20",
+    "name": "Camping",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "Camping"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-10",
+    "parentId": "IAB20",
+    "name": "Canada",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "Canada"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-11",
+    "parentId": "IAB20",
+    "name": "Caribbean",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "Caribbean"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-12",
+    "parentId": "IAB20",
+    "name": "Cruises",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "Cruises"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-13",
+    "parentId": "IAB20",
+    "name": "Eastern Europe",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "Eastern Europe"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-14",
+    "parentId": "IAB20",
+    "name": "Europe",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "Europe"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-15",
+    "parentId": "IAB20",
+    "name": "France",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "France"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-16",
+    "parentId": "IAB20",
+    "name": "Greece",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "Greece"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-17",
+    "parentId": "IAB20",
+    "name": "Honeymoons/Getaways",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "Honeymoons/Getaways"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-18",
+    "parentId": "IAB20",
+    "name": "Hotels",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "Hotels"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-19",
+    "parentId": "IAB20",
+    "name": "Italy",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "Italy"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-20",
+    "parentId": "IAB20",
+    "name": "Japan",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "Japan"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-21",
+    "parentId": "IAB20",
+    "name": "Mexico & Central America",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "Mexico & Central America"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-22",
+    "parentId": "IAB20",
+    "name": "National Parks",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "National Parks"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-23",
+    "parentId": "IAB20",
+    "name": "South America",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "South America"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-24",
+    "parentId": "IAB20",
+    "name": "Spas",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "Spas"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-25",
+    "parentId": "IAB20",
+    "name": "Theme Parks",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "Theme Parks"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-26",
+    "parentId": "IAB20",
+    "name": "Traveling with Kids",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "Traveling with Kids"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB20-27",
+    "parentId": "IAB20",
+    "name": "United Kingdom",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Travel",
+      "United Kingdom"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB21",
+    "parentId": null,
+    "name": "Real Estate",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 1,
+    "tierPath": [
+      "Real Estate"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB21-1",
+    "parentId": "IAB21",
+    "name": "Apartments",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Real Estate",
+      "Apartments"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB21-2",
+    "parentId": "IAB21",
+    "name": "Architects",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Real Estate",
+      "Architects"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB21-3",
+    "parentId": "IAB21",
+    "name": "Buying/Selling Homes",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Real Estate",
+      "Buying/Selling Homes"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB22",
+    "parentId": null,
+    "name": "Shopping",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 1,
+    "tierPath": [
+      "Shopping"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB22-1",
+    "parentId": "IAB22",
+    "name": "Contests & Freebies",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Shopping",
+      "Contests & Freebies"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB22-2",
+    "parentId": "IAB22",
+    "name": "Couponing",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Shopping",
+      "Couponing"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB22-3",
+    "parentId": "IAB22",
+    "name": "Comparison",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Shopping",
+      "Comparison"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB22-4",
+    "parentId": "IAB22",
+    "name": "Engines",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Shopping",
+      "Engines"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB23",
+    "parentId": null,
+    "name": "Religion & Spirituality",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 1,
+    "tierPath": [
+      "Religion & Spirituality"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB23-1",
+    "parentId": "IAB23",
+    "name": "Alternative Religions",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Religion & Spirituality",
+      "Alternative Religions"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB23-2",
+    "parentId": "IAB23",
+    "name": "Atheism/Agnosticism",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Religion & Spirituality",
+      "Atheism/Agnosticism"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB23-3",
+    "parentId": "IAB23",
+    "name": "Buddhism",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Religion & Spirituality",
+      "Buddhism"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB23-4",
+    "parentId": "IAB23",
+    "name": "Catholicism",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Religion & Spirituality",
+      "Catholicism"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB23-5",
+    "parentId": "IAB23",
+    "name": "Christianity",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Religion & Spirituality",
+      "Christianity"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB23-6",
+    "parentId": "IAB23",
+    "name": "Hinduism",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Religion & Spirituality",
+      "Hinduism"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB23-7",
+    "parentId": "IAB23",
+    "name": "Islam",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Religion & Spirituality",
+      "Islam"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB23-8",
+    "parentId": "IAB23",
+    "name": "Judaism",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Religion & Spirituality",
+      "Judaism"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB23-9",
+    "parentId": "IAB23",
+    "name": "Latter-Day Saints",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Religion & Spirituality",
+      "Latter-Day Saints"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB23-10",
+    "parentId": "IAB23",
+    "name": "Pagan/Wiccan",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Religion & Spirituality",
+      "Pagan/Wiccan"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB24",
+    "parentId": null,
+    "name": "Uncategorized",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 1,
+    "tierPath": [
+      "Uncategorized"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB25",
+    "parentId": null,
+    "name": "Non-Standard Content",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 1,
+    "tierPath": [
+      "Non-Standard Content"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB25-1",
+    "parentId": "IAB25",
+    "name": "Unmoderated UGC",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Non-Standard Content",
+      "Unmoderated UGC"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB25-2",
+    "parentId": "IAB25",
+    "name": "Extreme Graphic/Explicit Violence",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Non-Standard Content",
+      "Extreme Graphic/Explicit Violence"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB25-3",
+    "parentId": "IAB25",
+    "name": "Pornography",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Non-Standard Content",
+      "Pornography"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB25-4",
+    "parentId": "IAB25",
+    "name": "Profane Content",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Non-Standard Content",
+      "Profane Content"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB25-5",
+    "parentId": "IAB25",
+    "name": "Hate Content",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Non-Standard Content",
+      "Hate Content"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB25-6",
+    "parentId": "IAB25",
+    "name": "Under Construction",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Non-Standard Content",
+      "Under Construction"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB25-7",
+    "parentId": "IAB25",
+    "name": "Incentivized",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Non-Standard Content",
+      "Incentivized"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB26",
+    "parentId": null,
+    "name": "Illegal Content",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 1,
+    "tierPath": [
+      "Illegal Content"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB26-1",
+    "parentId": "IAB26",
+    "name": "Illegal Content",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Illegal Content",
+      "Illegal Content"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB26-2",
+    "parentId": "IAB26",
+    "name": "Warez",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Illegal Content",
+      "Warez"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB26-3",
+    "parentId": "IAB26",
+    "name": "Spyware/Malware",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Illegal Content",
+      "Spyware/Malware"
+    ],
+    "categoryType": "content"
+  },
+  {
+    "id": "IAB26-4",
+    "parentId": "IAB26",
+    "name": "Copyright Infringement",
+    "taxonomyType": "content",
+    "taxonomyVersion": "1.0",
+    "cattax": 1,
+    "tier": 2,
+    "tierPath": [
+      "Illegal Content",
+      "Copyright Infringement"
+    ],
+    "categoryType": "content"
+  }
+]

@@ -1,0 +1,5490 @@
+[
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1",
+      "name": "Arts & Entertainment"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1008",
+      "name": "Culture and Fine Arts"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1-1",
+      "name": "Arts & Entertainment"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1422",
+      "name": "Media"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1-2",
+      "name": "Arts & Entertainment"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1419",
+      "name": "Media"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1-3",
+      "name": "Arts & Entertainment"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1008",
+      "name": "Culture and Fine Arts"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1-4",
+      "name": "Arts & Entertainment"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1315",
+      "name": "Events and Performances"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1-5",
+      "name": "Arts & Entertainment"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1317",
+      "name": "Events and Performances"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1-6",
+      "name": "Arts & Entertainment"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1419",
+      "name": "Media"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB1-7",
+      "name": "Arts & Entertainment"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1429",
+      "name": "Media"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2",
+      "name": "Automotive"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1551",
+      "name": "Vehicles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-1",
+      "name": "Automotive"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1558",
+      "name": "Vehicles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-2",
+      "name": "Automotive"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1562",
+      "name": "Vehicles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-3",
+      "name": "Automotive"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1553",
+      "name": "Vehicles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-4",
+      "name": "Automotive"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1551",
+      "name": "Vehicles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-5",
+      "name": "Automotive"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1551",
+      "name": "Vehicles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-6",
+      "name": "Automotive"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1551",
+      "name": "Vehicles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-7",
+      "name": "Automotive"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1551",
+      "name": "Vehicles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-8",
+      "name": "Automotive"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1551",
+      "name": "Vehicles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-9",
+      "name": "Automotive"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1551",
+      "name": "Vehicles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-10",
+      "name": "Automotive"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1551",
+      "name": "Vehicles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-11",
+      "name": "Automotive"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1551",
+      "name": "Vehicles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-12",
+      "name": "Automotive"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1551",
+      "name": "Vehicles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-13",
+      "name": "Automotive"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1551",
+      "name": "Vehicles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-14",
+      "name": "Automotive"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1551",
+      "name": "Vehicles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-15",
+      "name": "Automotive"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1551",
+      "name": "Vehicles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-16",
+      "name": "Automotive"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1551",
+      "name": "Vehicles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-17",
+      "name": "Automotive"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1551",
+      "name": "Vehicles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-18",
+      "name": "Automotive"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1551",
+      "name": "Vehicles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-19",
+      "name": "Automotive"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1551",
+      "name": "Vehicles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-20",
+      "name": "Automotive"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1551",
+      "name": "Vehicles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-21",
+      "name": "Automotive"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1551",
+      "name": "Vehicles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-22",
+      "name": "Automotive"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1551",
+      "name": "Vehicles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB2-23",
+      "name": "Automotive"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1551",
+      "name": "Vehicles"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3",
+      "name": "Business"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1010",
+      "name": "Business and Industrial"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3-1",
+      "name": "Business"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1011",
+      "name": "Business and Industrial"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3-2",
+      "name": "Business"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1010",
+      "name": "Business and Industrial"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3-3",
+      "name": "Business"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1043",
+      "name": "Business and Industrial"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3-4",
+      "name": "Business"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1085",
+      "name": "Computer Software"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3-5",
+      "name": "Business"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1038",
+      "name": "Business and Industrial"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3-6",
+      "name": "Business"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1034",
+      "name": "Business and Industrial"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3-7",
+      "name": "Business"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1010",
+      "name": "Business and Industrial"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3-8",
+      "name": "Business"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1032",
+      "name": "Business and Industrial"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3-9",
+      "name": "Business"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1012",
+      "name": "Business and Industrial"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3-10",
+      "name": "Business"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1019",
+      "name": "Business and Industrial"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3-11",
+      "name": "Business"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1011",
+      "name": "Business and Industrial"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB3-12",
+      "name": "Business"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1443",
+      "name": "Metals"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB4",
+      "name": "Careers"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1295",
+      "name": "Education and Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB4-1",
+      "name": "Careers"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1295",
+      "name": "Education and Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB4-2",
+      "name": "Careers"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1298",
+      "name": "Education and Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB4-3",
+      "name": "Careers"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1353",
+      "name": "Finance and Insurance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB4-4",
+      "name": "Careers"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1295",
+      "name": "Education and Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB4-5",
+      "name": "Careers"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1295",
+      "name": "Education and Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB4-6",
+      "name": "Careers"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1295",
+      "name": "Education and Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB4-7",
+      "name": "Careers"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1295",
+      "name": "Education and Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB4-8",
+      "name": "Careers"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1452",
+      "name": "Non-Profits"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB4-9",
+      "name": "Careers"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1311",
+      "name": "Education and Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB4-10",
+      "name": "Careers"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1452",
+      "name": "Non-Profits"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB4-11",
+      "name": "Careers"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1295",
+      "name": "Education and Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5",
+      "name": "Education"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1295",
+      "name": "Education and Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5-1",
+      "name": "Education"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1295",
+      "name": "Education and Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5-2",
+      "name": "Education"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1296",
+      "name": "Education and Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5-3",
+      "name": "Education"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1295",
+      "name": "Education and Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5-4",
+      "name": "Education"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1295",
+      "name": "Education and Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5-5",
+      "name": "Education"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1295",
+      "name": "Education and Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5-6",
+      "name": "Education"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1307",
+      "name": "Education and Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5-7",
+      "name": "Education"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1295",
+      "name": "Education and Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5-8",
+      "name": "Education"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1303",
+      "name": "Education and Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5-9",
+      "name": "Education"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1302",
+      "name": "Education and Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5-10",
+      "name": "Education"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1308",
+      "name": "Education and Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5-11",
+      "name": "Education"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1295",
+      "name": "Education and Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5-12",
+      "name": "Education"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1295",
+      "name": "Education and Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5-13",
+      "name": "Education"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1295",
+      "name": "Education and Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5-14",
+      "name": "Education"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1295",
+      "name": "Education and Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB5-15",
+      "name": "Education"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1295",
+      "name": "Education and Careers"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB6",
+      "name": "Family & Parenting"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1328",
+      "name": "Family and Parenting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB6-1",
+      "name": "Family & Parenting"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1328",
+      "name": "Family and Parenting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB6-2",
+      "name": "Family & Parenting"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1328",
+      "name": "Family and Parenting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB6-3",
+      "name": "Family & Parenting"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1330",
+      "name": "Family and Parenting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB6-4",
+      "name": "Family & Parenting"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1328",
+      "name": "Family and Parenting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB6-5",
+      "name": "Family & Parenting"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1328",
+      "name": "Family and Parenting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB6-6",
+      "name": "Family & Parenting"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1328",
+      "name": "Family and Parenting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB6-7",
+      "name": "Family & Parenting"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1328",
+      "name": "Family and Parenting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB6-8",
+      "name": "Family & Parenting"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1328",
+      "name": "Family and Parenting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB6-9",
+      "name": "Family & Parenting"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1328",
+      "name": "Family and Parenting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1378",
+      "name": "Health and Medical Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-1",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-2",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1473",
+      "name": "Pharmaceuticals"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-3",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1473",
+      "name": "Pharmaceuticals"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-4",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1208",
+      "name": "Consumer Packaged Goods"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-5",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1379",
+      "name": "Health and Medical Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-6",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1473",
+      "name": "Pharmaceuticals"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-7",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1473",
+      "name": "Pharmaceuticals"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-8",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1378",
+      "name": "Health and Medical Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-9",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1473",
+      "name": "Pharmaceuticals"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-10",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1378",
+      "name": "Health and Medical Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-11",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1378",
+      "name": "Health and Medical Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-12",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1473",
+      "name": "Pharmaceuticals"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-13",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1473",
+      "name": "Pharmaceuticals"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-14",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1473",
+      "name": "Pharmaceuticals"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-15",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1208",
+      "name": "Consumer Packaged Goods"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-16",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1378",
+      "name": "Health and Medical Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-17",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1384",
+      "name": "Health and Medical Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-18",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1473",
+      "name": "Pharmaceuticals"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-19",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1385",
+      "name": "Health and Medical Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-20",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1473",
+      "name": "Pharmaceuticals"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-21",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1473",
+      "name": "Pharmaceuticals"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-22",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1208",
+      "name": "Consumer Packaged Goods"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-23",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1208",
+      "name": "Consumer Packaged Goods"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-24",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1473",
+      "name": "Pharmaceuticals"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-25",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1379",
+      "name": "Health and Medical Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-26",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1379",
+      "name": "Health and Medical Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-27",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1473",
+      "name": "Pharmaceuticals"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-28",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1391",
+      "name": "Health and Medical Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-29",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1214",
+      "name": "Consumer Packaged Goods"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-30",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1387",
+      "name": "Health and Medical Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-31",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1378",
+      "name": "Health and Medical Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-32",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1378",
+      "name": "Health and Medical Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-33",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1378",
+      "name": "Health and Medical Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-34",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1473",
+      "name": "Pharmaceuticals"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-35",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1378",
+      "name": "Health and Medical Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-36",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1378",
+      "name": "Health and Medical Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-37",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1378",
+      "name": "Health and Medical Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-38",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1378",
+      "name": "Health and Medical Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-39",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1519",
+      "name": "Sexual Health"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-40",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1208",
+      "name": "Consumer Packaged Goods"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-41",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1208",
+      "name": "Consumer Packaged Goods"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-42",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1378",
+      "name": "Health and Medical Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-43",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1473",
+      "name": "Pharmaceuticals"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-44",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1291",
+      "name": "Dieting and Weightloss"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB7-45",
+      "name": "Health & Fitness"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1378",
+      "name": "Health and Medical Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8",
+      "name": "Food & Drink"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1355",
+      "name": "Food and Beverage Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-1",
+      "name": "Food & Drink"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1355",
+      "name": "Food and Beverage Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-2",
+      "name": "Food & Drink"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1128",
+      "name": "Consumer Packaged Goods"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-3",
+      "name": "Food & Drink"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1355",
+      "name": "Food and Beverage Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-4",
+      "name": "Food & Drink"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1355",
+      "name": "Food and Beverage Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-5",
+      "name": "Food & Drink"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1006",
+      "name": "Alcohol"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-6",
+      "name": "Food & Drink"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1133",
+      "name": "Consumer Packaged Goods"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-7",
+      "name": "Food & Drink"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1355",
+      "name": "Food and Beverage Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-8",
+      "name": "Food & Drink"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1355",
+      "name": "Food and Beverage Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-9",
+      "name": "Food & Drink"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1355",
+      "name": "Food and Beverage Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-10",
+      "name": "Food & Drink"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1473",
+      "name": "Pharmaceuticals"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-11",
+      "name": "Food & Drink"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1355",
+      "name": "Food and Beverage Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-12",
+      "name": "Food & Drink"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1355",
+      "name": "Food and Beverage Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-13",
+      "name": "Food & Drink"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1355",
+      "name": "Food and Beverage Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-14",
+      "name": "Food & Drink"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1355",
+      "name": "Food and Beverage Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-15",
+      "name": "Food & Drink"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1355",
+      "name": "Food and Beverage Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-16",
+      "name": "Food & Drink"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1355",
+      "name": "Food and Beverage Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-17",
+      "name": "Food & Drink"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1355",
+      "name": "Food and Beverage Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB8-18",
+      "name": "Food & Drink"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1007",
+      "name": "Alcohol"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1494",
+      "name": "Retail"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-1",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1008",
+      "name": "Culture and Fine Arts"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-2",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1495",
+      "name": "Retail"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-3",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1495",
+      "name": "Retail"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-4",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1524",
+      "name": "Sporting Goods"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-5",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1251",
+      "name": "Consumer Packaged Goods"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-6",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1495",
+      "name": "Retail"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-7",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1251",
+      "name": "Consumer Packaged Goods"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-8",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1251",
+      "name": "Consumer Packaged Goods"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-9",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1545",
+      "name": "Tobacco"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-10",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1075",
+      "name": "Collectables and Antiques"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-11",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1075",
+      "name": "Collectables and Antiques"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-12",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1008",
+      "name": "Culture and Fine Arts"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-13",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1008",
+      "name": "Culture and Fine Arts"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-14",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1332",
+      "name": "Family and Parenting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-15",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1012",
+      "name": "Business and Industrial"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-16",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1503",
+      "name": "Retail"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-17",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1503",
+      "name": "Retail"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-18",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1351",
+      "name": "Finance and Insurance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-19",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1495",
+      "name": "Retail"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-20",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1315",
+      "name": "Events and Performances"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-21",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1495",
+      "name": "Retail"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-22",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1008",
+      "name": "Culture and Fine Arts"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-23",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1008",
+      "name": "Culture and Fine Arts"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-24",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1433",
+      "name": "Media"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-25",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1423",
+      "name": "Media"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-26",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1419",
+      "name": "Media"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-27",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1495",
+      "name": "Retail"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-28",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1419",
+      "name": "Media"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-29",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1075",
+      "name": "Collectables and Antiques"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-30",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1120",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB9-31",
+      "name": "Hobbies & Interests"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1495",
+      "name": "Retail"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10",
+      "name": "Home & Garden"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1277",
+      "name": "Home and Garden Products"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-1",
+      "name": "Home & Garden"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1277",
+      "name": "Home and Garden Products"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-2",
+      "name": "Home & Garden"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1277",
+      "name": "Home and Garden Products"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-3",
+      "name": "Home & Garden"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1368",
+      "name": "Green/Eco"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-4",
+      "name": "Home & Garden"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1396",
+      "name": "Durable Goods"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-5",
+      "name": "Home & Garden"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1396",
+      "name": "Home and Garden Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-6",
+      "name": "Home & Garden"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1112",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-7",
+      "name": "Home & Garden"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1396",
+      "name": "Home and Garden Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-8",
+      "name": "Home & Garden"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1408",
+      "name": "Home and Garden Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB10-9",
+      "name": "Home & Garden"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1413",
+      "name": "Home and Garden Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB11",
+      "name": "Law, Gov't & Politics"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1474",
+      "name": "Politics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB11-1",
+      "name": "Law, Gov't & Politics"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1474",
+      "name": "Politics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB11-2",
+      "name": "Law, Gov't & Politics"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1416",
+      "name": "Legal Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB11-3",
+      "name": "Law, Gov't & Politics"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1474",
+      "name": "Politics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB11-4",
+      "name": "Law, Gov't & Politics"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1474",
+      "name": "Politics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB11-5",
+      "name": "Law, Gov't & Politics"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1478",
+      "name": "Politics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB12",
+      "name": "News"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1432",
+      "name": "Media"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB12-1",
+      "name": "News"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1432",
+      "name": "Media"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB12-2",
+      "name": "News"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1432",
+      "name": "Media"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB12-3",
+      "name": "News"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1432",
+      "name": "Media"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13",
+      "name": "Personal Finance"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1335",
+      "name": "Finance and Insurance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-1",
+      "name": "Personal Finance"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1335",
+      "name": "Finance and Insurance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-2",
+      "name": "Personal Finance"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1335",
+      "name": "Finance and Insurance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-3",
+      "name": "Personal Finance"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1335",
+      "name": "Finance and Insurance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-4",
+      "name": "Personal Finance"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1335",
+      "name": "Finance and Insurance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-5",
+      "name": "Personal Finance"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1351",
+      "name": "Finance and Insurance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-6",
+      "name": "Personal Finance"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1340",
+      "name": "Finance and Insurance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-7",
+      "name": "Personal Finance"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1351",
+      "name": "Finance and Insurance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-8",
+      "name": "Personal Finance"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1337",
+      "name": "Finance and Insurance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-9",
+      "name": "Personal Finance"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1351",
+      "name": "Finance and Insurance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-10",
+      "name": "Personal Finance"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1350",
+      "name": "Finance and Insurance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-11",
+      "name": "Personal Finance"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1351",
+      "name": "Finance and Insurance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB13-12",
+      "name": "Personal Finance"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1354",
+      "name": "Finance and Insurance"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB14",
+      "name": "Society"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1008",
+      "name": "Culture and Fine Arts"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB14-1",
+      "name": "Society"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1259",
+      "name": "Dating"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB14-2",
+      "name": "Society"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1416",
+      "name": "Legal Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB14-3",
+      "name": "Society"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1259",
+      "name": "Dating"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB14-4",
+      "name": "Society"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1416",
+      "name": "Legal Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB14-5",
+      "name": "Society"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1334",
+      "name": "Family and Parenting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB14-6",
+      "name": "Society"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1328",
+      "name": "Family and Parenting"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB14-7",
+      "name": "Society"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1015",
+      "name": "Business and Industrial"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB14-8",
+      "name": "Society"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1008",
+      "name": "Culture and Fine Arts"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB15",
+      "name": "Science"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1010",
+      "name": "Business and Industrial"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB15-1",
+      "name": "Science"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1487",
+      "name": "Religion & Spirituality"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB15-2",
+      "name": "Science"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1010",
+      "name": "Business and Industrial"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB15-3",
+      "name": "Science"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1010",
+      "name": "Business and Industrial"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB15-4",
+      "name": "Science"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1010",
+      "name": "Business and Industrial"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB15-5",
+      "name": "Science"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1487",
+      "name": "Religion & Spirituality"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB15-6",
+      "name": "Science"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1010",
+      "name": "Business and Industrial"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB15-7",
+      "name": "Science"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1010",
+      "name": "Business and Industrial"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB15-8",
+      "name": "Science"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1010",
+      "name": "Business and Industrial"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB15-9",
+      "name": "Science"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1010",
+      "name": "Business and Industrial"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB15-10",
+      "name": "Science"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1010",
+      "name": "Business and Industrial"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB16",
+      "name": "Pets"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1460",
+      "name": "Pet Ownership"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB16-1",
+      "name": "Pets"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1460",
+      "name": "Pet Ownership"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB16-2",
+      "name": "Pets"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1460",
+      "name": "Pet Ownership"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB16-3",
+      "name": "Pets"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1460",
+      "name": "Pet Ownership"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB16-4",
+      "name": "Pets"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1460",
+      "name": "Pet Ownership"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB16-5",
+      "name": "Pets"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1460",
+      "name": "Pet Ownership"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB16-6",
+      "name": "Pets"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1460",
+      "name": "Pet Ownership"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB16-7",
+      "name": "Pets"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1466",
+      "name": "Pet Ownership"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-1",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-2",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-3",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-4",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-5",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-6",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-7",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-8",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-9",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-10",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-11",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-12",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-13",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-14",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-15",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-16",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-17",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-18",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-19",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-20",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-21",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-22",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-23",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-24",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-25",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-26",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-27",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-28",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-29",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-30",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-31",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-32",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-33",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-34",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-35",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-36",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-37",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-38",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-39",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-40",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-41",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-42",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-43",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB17-44",
+      "name": "Sports"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1510",
+      "name": "Fitness Activities"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18",
+      "name": "Style & Fashion"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1494",
+      "name": "Retail"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-1",
+      "name": "Style & Fashion"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1089",
+      "name": "Cosmetic Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-2",
+      "name": "Style & Fashion"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1088",
+      "name": "Cosmetic Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-3",
+      "name": "Style & Fashion"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1058",
+      "name": "Clothing and Accessories"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-4",
+      "name": "Style & Fashion"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1073",
+      "name": "Clothing and Accessories"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-5",
+      "name": "Style & Fashion"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1059",
+      "name": "Clothing and Accessories"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB18-6",
+      "name": "Style & Fashion"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1068",
+      "name": "Clothing and Accessories"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-1",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-2",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-3",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-4",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-5",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1102",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-6",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1114",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-7",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-8",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1115",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-9",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-10",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-11",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-12",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-13",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-14",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-15",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-16",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-17",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-18",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-19",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-20",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-21",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-22",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-23",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-24",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-25",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-26",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-27",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-28",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-29",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-30",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-31",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-32",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-33",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-34",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-35",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB19-36",
+      "name": "Technology & Computing"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1097",
+      "name": "Consumer Electronics"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1529",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-1",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1529",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-2",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1529",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-3",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1537",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-4",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1529",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-5",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1531",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-6",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1529",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-7",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1529",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-8",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1529",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-9",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1532",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-10",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1529",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-11",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1529",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-12",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1538",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-13",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1529",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-14",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1529",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-15",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1529",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-16",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1529",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-17",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1529",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-18",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1533",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-19",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1529",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-20",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1529",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-21",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1529",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-22",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1529",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-23",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1529",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-24",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1529",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-25",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1529",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-26",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1529",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB20-27",
+      "name": "Travel"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1529",
+      "name": "Travel and Tourism"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB21",
+      "name": "Real Estate"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1482",
+      "name": "Real Estate"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB21-1",
+      "name": "Real Estate"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1482",
+      "name": "Real Estate"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB21-2",
+      "name": "Real Estate"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1482",
+      "name": "Real Estate"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB21-3",
+      "name": "Real Estate"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1485",
+      "name": "Real Estate"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB22",
+      "name": "Shopping"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1494",
+      "name": "Retail"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB22-1",
+      "name": "Shopping"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1364",
+      "name": "Gambling"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB22-2",
+      "name": "Shopping"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1374",
+      "name": "Gifts and Holiday Items"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB22-3",
+      "name": "Shopping"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1374",
+      "name": "Gifts and Holiday Items"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB22-4",
+      "name": "Shopping"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1494",
+      "name": "Retail"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB23",
+      "name": "Religion & Spirituality"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1487",
+      "name": "Religion & Spirituality"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB23-1",
+      "name": "Religion & Spirituality"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1487",
+      "name": "Religion & Spirituality"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB23-2",
+      "name": "Religion & Spirituality"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1487",
+      "name": "Religion & Spirituality"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB23-3",
+      "name": "Religion & Spirituality"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1487",
+      "name": "Religion & Spirituality"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB23-4",
+      "name": "Religion & Spirituality"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1487",
+      "name": "Religion & Spirituality"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB23-5",
+      "name": "Religion & Spirituality"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1487",
+      "name": "Religion & Spirituality"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB23-6",
+      "name": "Religion & Spirituality"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1487",
+      "name": "Religion & Spirituality"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB23-7",
+      "name": "Religion & Spirituality"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1487",
+      "name": "Religion & Spirituality"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB23-8",
+      "name": "Religion & Spirituality"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1487",
+      "name": "Religion & Spirituality"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB23-9",
+      "name": "Religion & Spirituality"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1487",
+      "name": "Religion & Spirituality"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB23-10",
+      "name": "Religion & Spirituality"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1487",
+      "name": "Religion & Spirituality"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB24",
+      "name": "Uncategorized"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1000",
+      "name": "Ad Safety Risk"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25",
+      "name": "Non-Standard Content"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1000",
+      "name": "Ad Safety Risk"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25-1",
+      "name": "Non-Standard Content"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1000",
+      "name": "Ad Safety Risk"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25-2",
+      "name": "Non-Standard Content"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1000",
+      "name": "Ad Safety Risk"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25-3",
+      "name": "Non-Standard Content"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1001",
+      "name": "Adult Products and Services"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25-4",
+      "name": "Non-Standard Content"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1000",
+      "name": "Ad Safety Risk"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25-5",
+      "name": "Non-Standard Content"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1000",
+      "name": "Ad Safety Risk"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25-6",
+      "name": "Non-Standard Content"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1000",
+      "name": "Ad Safety Risk"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB25-7",
+      "name": "Non-Standard Content"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1000",
+      "name": "Ad Safety Risk"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB26",
+      "name": "Illegal Content"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1000",
+      "name": "Ad Safety Risk"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB26-1",
+      "name": "Illegal Content"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1000",
+      "name": "Ad Safety Risk"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB26-2",
+      "name": "Illegal Content"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1000",
+      "name": "Ad Safety Risk"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB26-3",
+      "name": "Illegal Content"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1000",
+      "name": "Ad Safety Risk"
+    }
+  },
+  {
+    "source": {
+      "taxonomy": "content",
+      "version": "1.0",
+      "id": "IAB26-4",
+      "name": "Illegal Content"
+    },
+    "target": {
+      "taxonomy": "ad_product",
+      "version": "2.0",
+      "id": "1000",
+      "name": "Ad Safety Risk"
+    }
+  }
+]
