@@ -90,13 +90,10 @@ export function getTaxonomy(type: TaxonomyType, version: TaxonomyVersion): Taxon
 
   const desc = findDescriptor(type, version);
   if (!desc) {
-    const available = TAXONOMY_REGISTRY
-      .filter((d) => d.type === type)
+    const available = TAXONOMY_REGISTRY.filter((d) => d.type === type)
       .map((d) => d.version)
       .join(', ');
-    throw new Error(
-      `Unknown taxonomy: ${type} v${version}. Available versions for ${type}: ${available}`,
-    );
+    throw new Error(`Unknown taxonomy: ${type} v${version}. Available versions for ${type}: ${available}`);
   }
 
   const categories = loadJsonFile<TaxonomyCategory[]>(desc.dataFile);
@@ -170,16 +167,11 @@ export function getMapping(
  *
  * Unknown IDs are silently skipped.
  */
-export function resolveCategories(
-  catIds: string[],
-  cattax: CattaxValue,
-): TaxonomyCategory[] {
+export function resolveCategories(catIds: string[], cattax: CattaxValue): TaxonomyCategory[] {
   const { type, versions } = resolveCattax(cattax);
   const latestVersion = versions[versions.length - 1];
 
-  return catIds
-    .map((id) => lookupCategory(type, latestVersion, id))
-    .filter((c): c is TaxonomyCategory => c != null);
+  return catIds.map((id) => lookupCategory(type, latestVersion, id)).filter((c): c is TaxonomyCategory => c != null);
 }
 
 /**
@@ -205,9 +197,7 @@ export function translateCategories(
 ): Map<string, string[]> {
   const mappings = getMapping(sourceType, sourceVersion, targetType, targetVersion);
   if (!mappings) {
-    throw new Error(
-      `No mapping available from ${sourceType}:${sourceVersion} to ${targetType}:${targetVersion}`,
-    );
+    throw new Error(`No mapping available from ${sourceType}:${sourceVersion} to ${targetType}:${targetVersion}`);
   }
 
   const sourceSet = new Set(sourceIds);
@@ -227,7 +217,12 @@ export function translateCategories(
 /**
  * List all available taxonomy versions.
  */
-export function listTaxonomies(): Array<{ type: TaxonomyType; version: TaxonomyVersion; cattax: CattaxValue; deprecated: boolean }> {
+export function listTaxonomies(): Array<{
+  type: TaxonomyType;
+  version: TaxonomyVersion;
+  cattax: CattaxValue;
+  deprecated: boolean;
+}> {
   return TAXONOMY_REGISTRY.map((d) => ({
     type: d.type,
     version: d.version,
@@ -239,7 +234,13 @@ export function listTaxonomies(): Array<{ type: TaxonomyType; version: TaxonomyV
 /**
  * List all available mappings.
  */
-export function listMappings(): Array<{ id: string; sourceType: TaxonomyType; sourceVersion: TaxonomyVersion; targetType: TaxonomyType; targetVersion: TaxonomyVersion }> {
+export function listMappings(): Array<{
+  id: string;
+  sourceType: TaxonomyType;
+  sourceVersion: TaxonomyVersion;
+  targetType: TaxonomyType;
+  targetVersion: TaxonomyVersion;
+}> {
   return MAPPING_REGISTRY.map((d) => ({
     id: d.id,
     sourceType: d.sourceType,

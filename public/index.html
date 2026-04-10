@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>IAB Taxonomies — Browser</title>
+    <style>
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        background: #0f1117;
+        color: #e1e4e8;
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .container {
+        text-align: center;
+        max-width: 640px;
+        padding: 2rem;
+      }
+
+      h1 {
+        font-size: 2.25rem;
+        font-weight: 700;
+        background: linear-gradient(135deg, #58a6ff, #bc8cff);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin-bottom: 1rem;
+      }
+
+      p {
+        color: #8b949e;
+        font-size: 1.1rem;
+        line-height: 1.6;
+        margin-bottom: 1.5rem;
+      }
+
+      .badge-row {
+        display: flex;
+        gap: 0.5rem;
+        justify-content: center;
+        flex-wrap: wrap;
+        margin-bottom: 2rem;
+      }
+
+      .badge {
+        display: inline-block;
+        padding: 0.25rem 0.75rem;
+        border-radius: 999px;
+        font-size: 0.8rem;
+        font-weight: 600;
+        border: 1px solid #30363d;
+        background: #161b22;
+      }
+
+      .badge.content {
+        color: #58a6ff;
+        border-color: #1f6feb;
+      }
+      .badge.adproduct {
+        color: #bc8cff;
+        border-color: #8b5cf6;
+      }
+      .badge.audience {
+        color: #3fb950;
+        border-color: #238636;
+      }
+
+      .status {
+        font-size: 0.9rem;
+        color: #484f58;
+        border-top: 1px solid #21262d;
+        padding-top: 1.5rem;
+      }
+
+      .status code {
+        background: #161b22;
+        padding: 0.15rem 0.4rem;
+        border-radius: 4px;
+        font-size: 0.85rem;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>IAB Taxonomies</h1>
+      <p>
+        A transparent interface to IAB Tech Lab Content, Ad Product, and Audience taxonomies — formatted for OpenRTB.
+      </p>
+      <div class="badge-row">
+        <span class="badge content">Content v1.0 – v3.1</span>
+        <span class="badge adproduct">Ad Product v1.0 – v2.0</span>
+        <span class="badge audience">Audience v1.0 – v1.1</span>
+      </div>
+      <p>Interactive taxonomy browser coming soon.</p>
+      <div class="status">Install via <code>npm install @anthropic/iab-taxonomies</code></div>
+    </div>
+  </body>
+</html>

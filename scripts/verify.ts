@@ -95,7 +95,10 @@ assert(sensitive?.name === 'Sensitive Topics', 'Content 2.2 v9i3On = "Sensitive 
 assert(sensitive?.categoryType === 'sensitive_topic', 'v9i3On is sensitive_topic type');
 
 const ageRange = lookupCategory('audience', '1.1', '5');
-assert(ageRange?.name?.includes('25-29') || ageRange?.tierPath?.includes('25-29'), 'Audience 1.1 ID 5 = age range 25-29');
+assert(
+  ageRange?.name?.includes('25-29') || ageRange?.tierPath?.includes('25-29'),
+  'Audience 1.1 ID 5 = age range 25-29',
+);
 assert(ageRange?.segmentType === 'demographic', 'ID 5 is demographic segment');
 
 const notFound = lookupCategory('content', '1.0', 'NONEXISTENT');
@@ -168,11 +171,7 @@ assert(resolvedContent[0].name === 'Arts & Entertainment', 'IAB1 resolved');
 
 console.log('\n10. translateCategories()');
 
-const translated = translateCategories(
-  ['IAB1', 'IAB2', 'IAB8-5'],
-  'content', '1.0',
-  'ad_product', '2.0',
-);
+const translated = translateCategories(['IAB1', 'IAB2', 'IAB8-5'], 'content', '1.0', 'ad_product', '2.0');
 assert(translated.size >= 2, `Translated ${translated.size} categories`);
 
 const iab1Targets = translated.get('IAB1');

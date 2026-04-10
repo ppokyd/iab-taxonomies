@@ -22,31 +22,68 @@ interface ColumnMap {
  */
 const COLUMN_MAPS: Record<string, ColumnMap> = {
   'ad_product:2.0->ad_product:1.1': {
-    srcId: 1, srcName: 0, tgtId: 6, tgtName: 8, skipRows: 2,
+    srcId: 1,
+    srcName: 0,
+    tgtId: 6,
+    tgtName: 8,
+    skipRows: 2,
   },
   'ad_product:2.0->content:1.0': {
-    srcId: 1, srcName: 0, tgtId: 6, tgtName: 5, skipRows: 2,
+    srcId: 1,
+    srcName: 0,
+    tgtId: 6,
+    tgtName: 5,
+    skipRows: 2,
   },
   'ad_product:2.0->content:2.1': {
-    srcId: 1, srcName: 0, tgtId: 5, tgtName: 6, skipRows: 1,
+    srcId: 1,
+    srcName: 0,
+    tgtId: 5,
+    tgtName: 6,
+    skipRows: 1,
   },
   'content:1.0->ad_product:2.0': {
-    srcId: 0, srcName: 1, tgtId: 3, tgtName: 4, skipRows: 1,
+    srcId: 0,
+    srcName: 1,
+    tgtId: 3,
+    tgtName: 4,
+    skipRows: 1,
   },
   'content:1.0->content:2.0': {
-    srcId: 0, srcName: 1, tgtId: 3, tgtName: 5, imperfectMapping: 10, skipRows: 1,
+    srcId: 0,
+    srcName: 1,
+    tgtId: 3,
+    tgtName: 5,
+    imperfectMapping: 10,
+    skipRows: 1,
   },
   'content:2.0->content:2.1': {
-    srcId: 1, srcName: 2, tgtId: 0, tgtName: 3, skipRows: 1,
+    srcId: 1,
+    srcName: 2,
+    tgtId: 0,
+    tgtName: 3,
+    skipRows: 1,
   },
   'content:2.1->ad_product:2.0': {
-    srcId: 0, srcName: 2, tgtId: 8, tgtName: 9, skipRows: 1,
+    srcId: 0,
+    srcName: 2,
+    tgtId: 8,
+    tgtName: 9,
+    skipRows: 1,
   },
   'content:ctv_genres->content:3.1': {
-    srcId: 0, srcName: 0, tgtId: 1, tgtName: 2, skipRows: 1,
+    srcId: 0,
+    srcName: 0,
+    tgtId: 1,
+    tgtName: 2,
+    skipRows: 1,
   },
   'content:podcast_genres->content:3.1': {
-    srcId: 0, srcName: 0, tgtId: 1, tgtName: 2, skipRows: 1,
+    srcId: 0,
+    srcName: 0,
+    tgtId: 1,
+    tgtName: 2,
+    skipRows: 1,
   },
 };
 
@@ -68,9 +105,8 @@ export function parseMappingFile(raw: string, descriptor: MappingDescriptor): Ta
 
     if (!srcId && !tgtId) continue;
 
-    const imperfect = colMap.imperfectMapping != null
-      ? (row[colMap.imperfectMapping] || '').trim() || undefined
-      : undefined;
+    const imperfect =
+      colMap.imperfectMapping != null ? (row[colMap.imperfectMapping] || '').trim() || undefined : undefined;
 
     const isUnmapped = !tgtId;
 
@@ -87,12 +123,14 @@ export function parseMappingFile(raw: string, descriptor: MappingDescriptor): Ta
         id: tgtId,
         name: tgtName,
       },
-      ...(imperfect || isUnmapped ? {
-        metadata: {
-          ...(imperfect ? { imperfectMapping: imperfect } : {}),
-          ...(isUnmapped ? { unmapped: true } : {}),
-        },
-      } : {}),
+      ...(imperfect || isUnmapped
+        ? {
+            metadata: {
+              ...(imperfect ? { imperfectMapping: imperfect } : {}),
+              ...(isUnmapped ? { unmapped: true } : {}),
+            },
+          }
+        : {}),
     });
   }
 

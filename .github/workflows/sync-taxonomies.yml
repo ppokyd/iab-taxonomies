@@ -1,0 +1,48 @@
+name: Sync IAB Taxonomies
+
+on:
+  schedule:
+    # First day of every month at 06:00 UTC
+    - cron: '0 6 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    name: Sync taxonomy data from IAB GitHub
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Download and rebuild taxonomy JSON
+        run: npm run build:data
+
+      - name: Check for changes
+        id: diff
+        run: |
+          git diff --quiet data/ && echo "changed=false" >> "$GITHUB_OUTPUT" || echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Create pull request
+        if: steps.diff.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: 'chore: sync IAB taxonomy data'
+          title: 'chore: sync IAB taxonomy data'
+          body: |
+            Automated monthly sync of IAB taxonomy TSV data from
+            [InteractiveAdvertisingBureau/Taxonomies](https://github.com/InteractiveAdvertisingBureau/Taxonomies).
+
+            Please review the diff for any structural changes before merging.
+          branch: chore/sync-taxonomy-data
+          delete-branch: true
+          labels: automated, taxonomy-sync

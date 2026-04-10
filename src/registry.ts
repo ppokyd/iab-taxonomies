@@ -188,12 +188,18 @@ export const MAPPING_REGISTRY: MappingDescriptor[] = [
  */
 export function resolveCattax(cattax: CattaxValue): { type: TaxonomyType; versions: TaxonomyVersion[] } {
   switch (cattax) {
-    case 1: return { type: 'content', versions: ['1.0'] };
-    case 2: return { type: 'content', versions: ['2.0', '2.1', '2.2'] };
-    case 3: return { type: 'ad_product', versions: ['1.0', '1.1'] };
-    case 4: return { type: 'audience', versions: ['1.0', '1.1'] };
-    case 5: return { type: 'content', versions: ['3.0', '3.1'] };
-    case 6: return { type: 'ad_product', versions: ['2.0'] };
+    case 1:
+      return { type: 'content', versions: ['1.0'] };
+    case 2:
+      return { type: 'content', versions: ['2.0', '2.1', '2.2'] };
+    case 3:
+      return { type: 'ad_product', versions: ['1.0', '1.1'] };
+    case 4:
+      return { type: 'audience', versions: ['1.0', '1.1'] };
+    case 5:
+      return { type: 'content', versions: ['3.0', '3.1'] };
+    case 6:
+      return { type: 'ad_product', versions: ['2.0'] };
   }
 }
 
@@ -201,8 +207,17 @@ export function findDescriptor(type: TaxonomyType, version: TaxonomyVersion): Ta
   return TAXONOMY_REGISTRY.find((d) => d.type === type && d.version === version);
 }
 
-export function findMapping(sourceType: TaxonomyType, sourceVersion: TaxonomyVersion, targetType: TaxonomyType, targetVersion: TaxonomyVersion): MappingDescriptor | undefined {
+export function findMapping(
+  sourceType: TaxonomyType,
+  sourceVersion: TaxonomyVersion,
+  targetType: TaxonomyType,
+  targetVersion: TaxonomyVersion,
+): MappingDescriptor | undefined {
   return MAPPING_REGISTRY.find(
-    (m) => m.sourceType === sourceType && m.sourceVersion === sourceVersion && m.targetType === targetType && m.targetVersion === targetVersion,
+    (m) =>
+      m.sourceType === sourceType &&
+      m.sourceVersion === sourceVersion &&
+      m.targetType === targetType &&
+      m.targetVersion === targetVersion,
   );
 }
